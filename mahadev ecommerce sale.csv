@@ -1,0 +1,1501 @@
+Order ID,Amount,Amount(without profit) ,price per unit,Profit,profit per unit ,margin,Quantity,Category,Sub-Category,PaymentMode,state,,city,customer name,order date,month,day
+B-25681,1096,438,156.5714286,658,94,60%,7,Electronics,Electronic Games,COD,Madhya Pradesh,,Indore,Bhawna,04-06-2018,June,Monday
+B-26055,5729,5665,409.2142857,64,4.571428571,1%,14,Furniture,Chairs,EMI,Uttar Pradesh,,Mathura,Harivansh,10-03-2018,March,Saturday
+B-25955,2927,2781,365.875,146,18.25,5%,8,Furniture,Bookcases,EMI,Maharashtra,,Pune,Shiva,16-01-2018,January,Tuesday
+B-26093,2847,2135,355.875,712,89,25%,8,Electronics,Printers,Credit Card,Maharashtra,,Pune,Sarita,27-03-2018,March,Tuesday
+B-25602,2617,1466,654.25,1151,287.75,44%,4,Electronics,Phones,Credit Card,Maharashtra,,Pune,Vrinda,01-04-2018,April,Sunday
+B-25881,2244,1997,561,247,61.75,11%,4,Clothing,Trousers,Credit Card,Uttar Pradesh,,Mathura,Lalita,25-11-2018,November,Sunday
+B-25696,275,550,68.75,-275,-68.75,-100%,4,Clothing,Saree,COD,Karnataka,,Bangalore,Noopur,21-06-2018,June,Thursday
+B-25687,387,600,77.4,-213,-42.6,-55%,5,Clothing,Saree,UPI,Maharashtra,,Mumbai,Sanjna,11-06-2018,June,Monday
+B-25643,50,94,25,-44,-22,-88%,2,Clothing,Hankerchief,UPI,Jammu and Kashmir,,Kashmir,Kirti,29-04-2018,April,Sunday
+B-25851,135,189,27,-54,-10.8,-40%,5,Clothing,Kurti,COD,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-25703,231,421,25.66666667,-190,-21.11111111,-82%,9,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Ekta,28-06-2018,June,Thursday
+B-25887,2125,2359,354.1666667,-234,-39,-11%,6,Electronics,Printers,EMI,Uttar Pradesh,,Prayagraj,Vishakha,01-12-2018,December,Saturday
+B-25923,3873,4764,645.5,-891,-148.5,-23%,6,Electronics,Phones,Credit Card,Maharashtra,,Mumbai,Gopal,27-12-2018,December,Thursday
+B-25756,729,1221,145.8,-492,-98.4,-67%,5,Furniture,Bookcases,UPI,Maharashtra,,Mumbai,Mohan,20-08-2018,August,Monday
+B-25761,2188,1138,437.6,1050,210,48%,5,Furniture,Bookcases,Credit Card,Uttar Pradesh,,Mathura,Madhav,25-08-2018,August,Saturday
+B-25655,6,9,6,-3,-3,-50%,1,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Nida,11-05-2018,May,Friday
+B-25786,1854,1421,370.8,433,86.6,23%,5,Furniture,Bookcases,Credit Card,Uttar Pradesh,,Mathura,Madan Mohan,19-09-2018,September,Wednesday
+B-26095,6,5,6,1,1,17%,1,Clothing,Kurti,UPI,Rajasthan,,Jaipur,Monisha,28-03-2018,March,Wednesday
+B-25853,2093,1372,418.6,721,144.2,34%,5,Furniture,Chairs,Credit Card,Gujarat,,Ahmedabad,Gaurav,08-11-2018,November,Thursday
+B-25735,7,8,3.5,-1,-0.5,-14%,2,Clothing,Skirt,UPI,Uttar Pradesh,,Lucknow,Arindam,30-07-2018,July,Monday
+B-25910,1622,2246,324.4,-624,-124.8,-38%,5,Furniture,Tables,Credit Card,Delhi,,Delhi,Jay,14-12-2018,December,Friday
+B-25950,1622,1527,324.4,95,19,6%,5,Electronics,Printers,Credit Card,Madhya Pradesh,,Indore,Shruti,13-01-2018,January,Saturday
+B-25744,373,119,62.16666667,254,42.33333333,68%,6,Electronics,Printers,UPI,Andhra Pradesh,,Hyderabad,Devendra,08-08-2018,August,Wednesday
+B-25845,82,115,20.5,-33,-8.25,-40%,4,Clothing,Kurti,COD,Kerala ,,Thiruvananthapuram,Snel,03-11-2018,November,Saturday
+B-26001,8,6,4,2,1,25%,2,Clothing,Skirt,UPI,Delhi,,Delhi,Patil,07-02-2018,February,Wednesday
+B-25830,1954,1172,651.3333333,782,260.6666667,40%,3,Electronics,Phones,Credit Card,Himachal Pradesh,,Simla,Aastha,26-10-2018,October,Friday
+B-25842,1543,1173,192.875,370,46.25,24%,8,Electronics,Printers,Credit Card,Maharashtra,,Pune,Sheetal,02-11-2018,November,Friday
+B-25778,1506,1772,251,-266,-44.33333333,-18%,6,Electronics,Printers,Credit Card,Maharashtra,,Mumbai,Surabhi,11-09-2018,September,Tuesday
+B-25686,1829,1885,304.8333333,-56,-9.333333333,-3%,6,Furniture,Tables,Credit Card,Himachal Pradesh,,Simla,Pooja,11-06-2018,June,Monday
+B-25754,9,10,3,-1,-0.333333333,-11%,3,Clothing,Skirt,UPI,Bihar,,Patna,Akshay,18-08-2018,August,Saturday
+B-26048,1461,1259,292.2,202,40.4,14%,5,Furniture,Tables,EMI,Maharashtra,,Pune,Parth,04-03-2018,March,Sunday
+B-25816,391,278,48.875,113,14.125,29%,8,Clothing,Stole,COD,Andhra Pradesh,,Hyderabad,Mane,12-10-2018,October,Friday
+B-26022,1824,521,228,1303,162.875,71%,8,Electronics,Phones,Credit Card,Punjab,,Chandigarh,Shrichand,18-02-2018,February,Sunday
+B-25883,16,31,4,-15,-3.75,-94%,4,Clothing,Hankerchief,UPI,Gujarat,,Surat,Saptadeep,27-11-2018,November,Tuesday
+B-26003,1745,1623,872.5,122,61,7%,2,Furniture,Tables,Credit Card,Madhya Pradesh,,Bhopal,Hitesh,08-02-2018,February,Thursday
+B-26097,663,875,132.6,-212,-42.4,-32%,5,Electronics,Printers,UPI,Karnataka,,Bangalore,Vini,28-03-2018,March,Wednesday
+B-25710,10,11,10,-1,-1,-10%,1,Clothing,Leggings,UPI,Maharashtra,,Pune,Megha,05-07-2018,July,Thursday
+B-25797,1630,828,326,802,160.4,49%,5,Furniture,Tables,EMI,Madhya Pradesh,,Indore,Sauptik,30-09-2018,September,Sunday
+B-25618,12,12,6,0,0,0%,2,Clothing,Hankerchief,UPI,Andhra Pradesh,,Hyderabad,Manju,18-04-2018,April,Wednesday
+B-25723,12,19,6,-7,-3.5,-58%,2,Clothing,Leggings,UPI,Maharashtra,,Mumbai,Wale,18-07-2018,July,Wednesday
+B-25755,1709,1145,569.6666667,564,188,33%,3,Clothing,Trousers,Credit Card,Kerala ,,Thiruvananthapuram,Shourya,19-08-2018,August,Sunday
+B-25788,12,9,12,3,3,25%,1,Clothing,Stole,UPI,Tamil Nadu,,Chennai,Dinesh,21-09-2018,September,Friday
+B-25681,1625,1702,541.6666667,-77,-25.66666667,-5%,3,Electronics,Phones,EMI,Madhya Pradesh,,Indore,Bhawna,04-06-2018,June,Monday
+B-25991,13,8,6.5,5,2.5,38%,2,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Mansi,03-02-2018,February,Saturday
+B-25779,1361,381,453.6666667,980,326.6666667,72%,3,Furniture,Tables,COD,Maharashtra,,Pune,Savi,12-09-2018,September,Wednesday
+B-25909,1622,2070,540.6666667,-448,-149.3333333,-28%,3,Electronics,Phones,EMI,Maharashtra,,Pune,Sujay,13-12-2018,December,Thursday
+B-25943,1547,1207,257.8333333,340,56.66666667,22%,6,Electronics,Accessories,EMI,Gujarat,,Ahmedabad,Shardul,09-01-2018,January,Tuesday
+B-25935,1657,1197,414.25,460,115,28%,4,Furniture,Chairs,Credit Card,Nagaland,,Kohima,Sudhir,04-01-2018,January,Thursday
+B-25613,1603,1603,178.1111111,0,0,0%,9,Clothing,Saree,Credit Card,Haryana,,Chandigarh,Mohan,12-04-2018,April,Thursday
+B-25729,1549,1988,387.25,-439,-109.75,-28%,4,Electronics,Phones,Credit Card,Madhya Pradesh,,Bhopal,Madhulika,22-07-2018,July,Sunday
+B-25772,1183,1077,295.75,106,26.5,9%,4,Electronics,Printers,EMI,Bihar,,Patna,Sanjana,02-09-2018,September,Sunday
+B-25655,74,197,9.25,-123,-15.375,-166%,8,Clothing,Skirt,UPI,Madhya Pradesh,,Indore,Nida,11-05-2018,May,Friday
+B-25640,1499,1260,115.3076923,239,18.38461538,16%,13,Clothing,Saree,Credit Card,Rajasthan,,Jaipur,Paridhi,27-04-2018,April,Friday
+B-25810,1120,921,186.6666667,199,33.16666667,18%,6,Clothing,Saree,EMI,Punjab,,Chandigarh,Nripraj,10-10-2018,October,Wednesday
+B-25801,15,17,15,-2,-2,-13%,1,Clothing,T-shirt,Debit Card,Madhya Pradesh,,Bhopal,Aryan,01-10-2018,October,Monday
+B-26085,1487,863,495.6666667,624,208,42%,3,Clothing,Trousers,Credit Card,Punjab,,Chandigarh,Shrichand,26-03-2018,March,Monday
+B-25868,1118,912,559,206,103,18%,2,Furniture,Tables,Credit Card,Goa,,Goa,Vikash,18-11-2018,November,Sunday
+B-25714,11,16,5.5,-5,-2.5,-45%,2,Clothing,Hankerchief,COD,Karnataka,,Bangalore,Stuti,09-07-2018,July,Monday
+B-25784,15,11,15,4,4,27%,1,Clothing,Hankerchief,Debit Card,Rajasthan,,Jaipur,Rohit,15-09-2018,September,Saturday
+B-25608,1364,-500,272.8,1864,372.8,137%,5,Furniture,Tables,Credit Card,Tamil Nadu,,Chennai,Aarushi,08-04-2018,April,Sunday
+B-26051,1337,1190,191,147,21,11%,7,Electronics,Printers,Credit Card,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-25900,15,13,15,2,2,13%,1,Clothing,Leggings,Debit Card,Punjab,,Amritsar,Anand,09-12-2018,December,Sunday
+B-25760,322,515,64.4,-193,-38.6,-60%,5,Electronics,Printers,UPI,Goa,,Goa,Pooja,24-08-2018,August,Friday
+B-25762,1316,789,188,527,75.28571429,40%,7,Electronics,Electronic Games,Credit Card,Madhya Pradesh,,Indore,Anudeep,26-08-2018,August,Sunday
+B-25995,1314,972,438,342,114,26%,3,Furniture,Bookcases,Credit Card,Delhi,,Delhi,Yohann,04-02-2018,February,Sunday
+B-25965,17,10,5.666666667,7,2.333333333,41%,3,Clothing,Hankerchief,Debit Card,West Bengal,,Kolkata,Saloni,21-01-2018,January,Sunday
+B-25967,17,15,8.5,2,1,12%,2,Clothing,Skirt,Debit Card,Uttar Pradesh,,Prayagraj,Sudevi,21-01-2018,January,Sunday
+B-25674,17,29,3.4,-12,-2.4,-71%,5,Clothing,Skirt,Debit Card,Maharashtra,,Pune,Mahima,28-05-2018,May,Monday
+B-25929,1308,772,436,536,178.6666667,41%,3,Furniture,Bookcases,Credit Card,Kerala ,,Thiruvananthapuram,Girase,02-01-2018,January,Tuesday
+B-25777,1076,1114,269,-38,-9.5,-4%,4,Electronics,Printers,Credit Card,Madhya Pradesh,,Indore,Aditi,10-09-2018,September,Monday
+B-26006,1301,728,260.2,573,114.6,44%,5,Electronics,Accessories,Credit Card,Karnataka,,Bangalore,Arpita,09-02-2018,February,Friday
+B-25697,1300,1316,162.5,-16,-2,-1%,8,Electronics,Printers,Credit Card,Jammu and Kashmir,,Kashmir,Vijay,22-06-2018,June,Friday
+B-25667,11,13,2.75,-2,-0.5,-18%,4,Clothing,Hankerchief,COD,Haryana,,Chandigarh,Anjali,23-05-2018,May,Wednesday
+B-25836,1298,1233,144.2222222,65,7.222222222,5%,9,Electronics,Printers,EMI,Maharashtra,,Pune,Arti,29-10-2018,October,Monday
+B-25984,304,207,50.66666667,97,16.16666667,32%,6,Clothing,Stole,UPI,Delhi,,Delhi,Kajal,30-01-2018,January,Tuesday
+B-25728,1055,791,263.75,264,66,25%,4,Electronics,Printers,EMI,Maharashtra,,Pune,Ameesha,22-07-2018,July,Sunday
+B-25757,17,30,4.25,-13,-3.25,-76%,4,Clothing,Skirt,Debit Card,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25957,147,74,49,73,24.33333333,50%,3,Clothing,Stole,COD,Madhya Pradesh,,Indore,Mahima,18-01-2018,January,Thursday
+B-26061,965,1033,321.6666667,-68,-22.66666667,-7%,3,Electronics,Printers,COD,Madhya Pradesh,,Indore,Anurag,14-03-2018,March,Wednesday
+B-25735,12,14,4,-2,-0.666666667,-17%,3,Clothing,Hankerchief,COD,Uttar Pradesh,,Lucknow,Arindam,30-07-2018,July,Monday
+B-25616,14,16,4.666666667,-2,-0.666666667,-14%,3,Clothing,Hankerchief,UPI,Goa,,Goa,Kanak,15-04-2018,April,Sunday
+B-25666,934,1850,133.4285714,-916,-130.8571429,-98%,7,Electronics,Electronic Games,COD,Punjab,,Chandigarh,Tanvi,22-05-2018,May,Tuesday
+B-25675,929,1022,103.2222222,-93,-10.33333333,-10%,9,Clothing,Saree,COD,Madhya Pradesh,,Bhopal,Shreya,31-05-2018,May,Thursday
+B-26079,18,15,9,3,1.5,17%,2,Clothing,Hankerchief,Debit Card,Karnataka,,Bangalore,Hazel,22-03-2018,March,Thursday
+B-25850,916,724,83.27272727,192,17.45454545,21%,11,Electronics,Phones,COD,Goa,,Goa,Abhishek,05-11-2018,November,Monday
+B-25693,76,148,8.444444444,-72,-8,-95%,9,Clothing,Hankerchief,COD,Madhya Pradesh,,Bhopal,Parna,18-06-2018,June,Monday
+B-25852,869,802,217.25,67,16.75,8%,4,Furniture,Tables,COD,Andhra Pradesh,,Hyderabad,Soumyabrata,07-11-2018,November,Wednesday
+B-25860,112,88,37.33333333,24,8,21%,3,Clothing,Kurti,COD,Tamil Nadu,,Chennai,Akshay,15-11-2018,November,Thursday
+B-25853,39,23,6.5,16,2.666666667,41%,6,Clothing,Skirt,UPI,Gujarat,,Ahmedabad,Gaurav,08-11-2018,November,Thursday
+B-25898,857,1131,428.5,-274,-137,-32%,2,Furniture,Tables,COD,Rajasthan,,Udaipur,Abhishek,07-12-2018,December,Friday
+B-26100,828,598,414,230,115,28%,2,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Hitika,31-03-2018,March,Saturday
+B-25653,1279,1919,159.875,-640,-80,-50%,8,Electronics,Printers,EMI,Nagaland,,Kohima,Farah,08-05-2018,May,Tuesday
+B-25839,1250,764,178.5714286,486,69.42857143,39%,7,Clothing,Saree,EMI,West Bengal,,Kolkata,Pranjali,30-10-2018,October,Tuesday
+B-25651,823,841,117.5714286,-18,-2.571428571,-2%,7,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25957,1157,1170,128.5555556,-13,-1.444444444,-1%,9,Furniture,Bookcases,Credit Card,Madhya Pradesh,,Indore,Mahima,18-01-2018,January,Thursday
+B-25704,126,189,42,-63,-21,-50%,3,Electronics,Accessories,UPI,Maharashtra,,Mumbai,Riya,29-06-2018,June,Friday
+B-25730,1145,1851,381.6666667,-706,-235.3333333,-62%,3,Electronics,Phones,Credit Card,Rajasthan,,Jaipur,Rishabh,22-07-2018,July,Sunday
+B-26052,774,604,258,170,56.66666667,22%,3,Electronics,Accessories,COD,Karnataka,,Bangalore,Ajay,08-03-2018,March,Thursday
+B-25656,24,25,12,-1,-0.5,-4%,2,Clothing,Hankerchief,COD,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-26033,774,604,258,170,56.66666667,22%,3,Electronics,Accessories,COD,West Bengal,,Kolkata,Atharv,22-02-2018,February,Thursday
+B-25850,93,94,46.5,-1,-0.5,-1%,2,Clothing,Hankerchief,COD,Goa,,Goa,Abhishek,05-11-2018,November,Monday
+B-25945,765,801,255,-36,-12,-5%,3,Electronics,Electronic Games,COD,Madhya Pradesh,,Indore,Mhatre,11-01-2018,January,Thursday
+B-26086,762,661,127,101,16.83333333,13%,6,Electronics,Printers,COD,Haryana,,Chandigarh,Mukesh,26-03-2018,March,Monday
+B-25752,761,495,84.55555556,266,29.55555556,35%,9,Electronics,Electronic Games,COD,Madhya Pradesh,,Indore,Vaibhav,14-08-2018,August,Tuesday
+B-26098,96,144,19.2,-48,-9.6,-50%,5,Clothing,Leggings,UPI,Jammu and Kashmir,,Kashmir,Pinky,29-03-2018,March,Thursday
+B-26067,1137,1151,162.4285714,-14,-2,-1%,7,Electronics,Printers,EMI,Madhya Pradesh,,Bhopal,Tulika,16-03-2018,March,Friday
+B-25730,18,10,9,8,4,44%,2,Clothing,Hankerchief,Debit Card,Rajasthan,,Jaipur,Rishabh,22-07-2018,July,Sunday
+B-25986,749,1056,107,-307,-43.85714286,-41%,7,Furniture,Furnishings,COD,Rajasthan,,Udaipur,Shweta,31-01-2018,January,Wednesday
+B-26067,1120,921,186.6666667,199,33.16666667,18%,6,Clothing,Saree,EMI,Madhya Pradesh,,Bhopal,Tulika,16-03-2018,March,Friday
+B-25953,744,625,124,119,19.83333333,16%,6,Electronics,Printers,COD,Andhra Pradesh,,Hyderabad,Krutika,14-01-2018,January,Sunday
+B-25952,14,14,3.5,0,0,0%,4,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Priyanka,13-01-2018,January,Saturday
+B-25903,19,11,9.5,8,4,42%,2,Clothing,Hankerchief,Debit Card,Madhya Pradesh,,Indore,Amlan,10-12-2018,December,Monday
+B-25650,512,737,102.4,-225,-45,-44%,5,Clothing,Saree,COD,Maharashtra,,Mumbai,Chirag,06-05-2018,May,Sunday
+B-25970,742,544,371,198,99,27%,2,Furniture,Bookcases,COD,Maharashtra,,Mumbai,Rhea,22-01-2018,January,Monday
+B-26062,44,84,14.66666667,-40,-13.33333333,-91%,3,Clothing,Stole,COD,Goa,,Goa,Tushina,15-03-2018,March,Thursday
+B-25643,1061,1097,132.625,-36,-4.5,-3%,8,Furniture,Bookcases,EMI,Jammu and Kashmir,,Kashmir,Kirti,29-04-2018,April,Sunday
+B-25632,19,21,9.5,-2,-1,-11%,2,Clothing,Leggings,Debit Card,Himachal Pradesh,,Simla,Manish,25-04-2018,April,Wednesday
+B-25821,17,17,17,0,0,0%,1,Clothing,Hankerchief,COD,West Bengal,,Kolkata,Ajay,16-10-2018,October,Tuesday
+B-25878,741,474,148.2,267,53.4,36%,5,Furniture,Bookcases,COD,Maharashtra,,Mumbai,Mrinal,24-11-2018,November,Saturday
+B-25752,735,970,122.5,-235,-39.16666667,-32%,6,Electronics,Printers,COD,Madhya Pradesh,,Indore,Vaibhav,14-08-2018,August,Tuesday
+B-25750,19,20,19,-1,-1,-5%,1,Clothing,Shirt,Debit Card,Madhya Pradesh,,Indore,Priyanshu,14-08-2018,August,Tuesday
+B-25657,1021,1069,255.25,-48,-12,-5%,4,Electronics,Electronic Games,EMI,Madhya Pradesh,,Bhopal,Tulika,13-05-2018,May,Sunday
+B-25787,556,765,79.42857143,-209,-29.85714286,-38%,7,Clothing,Saree,COD,Jammu and Kashmir,,Kashmir,Asish,20-09-2018,September,Thursday
+B-25808,63,80,10.5,-17,-2.833333333,-27%,6,Clothing,Leggings,COD,Bihar,,Patna,Apsingekar,08-10-2018,October,Monday
+B-25885,734,486,367,248,124,34%,2,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Shatayu,28-11-2018,November,Wednesday
+B-25778,933,767,186.6,166,33.2,18%,5,Clothing,Saree,Credit Card,Maharashtra,,Mumbai,Surabhi,11-09-2018,September,Tuesday
+B-25759,20,29,3.333333333,-9,-1.5,-45%,6,Clothing,Hankerchief,Debit Card,Sikkim,,Gangtok,Soumya,23-08-2018,August,Thursday
+B-25747,877,482,438.5,395,197.5,45%,2,Furniture,Bookcases,Credit Card,Madhya Pradesh,,Bhopal,Harsh,11-08-2018,August,Saturday
+B-25878,719,416,119.8333333,303,50.5,42%,6,Furniture,Chairs,COD,Maharashtra,,Mumbai,Mrinal,24-11-2018,November,Saturday
+B-25603,12,11,6,1,0.5,8%,2,Clothing,Hankerchief,COD,Madhya Pradesh,,Bhopal,Jahan,03-04-2018,April,Tuesday
+B-25691,714,658,178.5,56,14,8%,4,Clothing,Saree,COD,Maharashtra,,Mumbai,Akancha,16-06-2018,June,Saturday
+B-25607,50,65,12.5,-15,-3.75,-30%,4,Clothing,Leggings,COD,Jammu and Kashmir,,Kashmir,Sonakshi,06-04-2018,April,Friday
+B-25708,709,809,141.8,-100,-20,-14%,5,Electronics,Phones,COD,Madhya Pradesh,,Indore,Kishwar,01-07-2018,July,Sunday
+B-26021,21,33,7,-12,-4,-57%,3,Clothing,Hankerchief,Debit Card,Kerala ,,Thiruvananthapuram,Anita,17-02-2018,February,Saturday
+B-25831,693,439,115.5,254,42.33333333,37%,6,Clothing,Saree,COD,Sikkim,,Gangtok,Mahima,27-10-2018,October,Saturday
+B-25850,24,23,6,1,0.25,4%,4,Clothing,Hankerchief,COD,Goa,,Goa,Abhishek,05-11-2018,November,Monday
+B-25670,24,23,12,1,0.5,4%,2,Clothing,Hankerchief,UPI,Goa,,Goa,Charika,25-05-2018,May,Friday
+B-25852,24,23,12,1,0.5,4%,2,Clothing,Hankerchief,COD,Andhra Pradesh,,Hyderabad,Soumyabrata,07-11-2018,November,Wednesday
+B-26029,21,11,21,10,10,48%,1,Clothing,T-shirt,Debit Card,Gujarat,,Ahmedabad,Ramesh,20-02-2018,February,Tuesday
+B-25959,681,422,170.25,259,64.75,38%,4,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Muskan,18-01-2018,January,Thursday
+B-25676,674,861,337,-187,-93.5,-28%,2,Furniture,Tables,COD,Rajasthan,,Jaipur,Chandni,01-06-2018,June,Friday
+B-26097,671,980,134.2,-309,-61.8,-46%,5,Electronics,Electronic Games,COD,Karnataka,,Bangalore,Vini,28-03-2018,March,Wednesday
+B-25888,646,859,215.3333333,-213,-71,-33%,3,Electronics,Electronic Games,COD,Punjab,,Amritsar,Rohan,02-12-2018,December,Sunday
+B-25911,40,25,40,15,15,38%,1,Clothing,Kurti,COD,Madhya Pradesh,,Bhopal,Phalguni,15-12-2018,December,Saturday
+B-25662,24,26,12,-2,-1,-8%,2,Clothing,T-shirt,COD,Maharashtra,,Mumbai,Sweta,17-05-2018,May,Thursday
+B-25950,644,477,322,167,83.5,26%,2,Electronics,Printers,COD,Madhya Pradesh,,Indore,Shruti,13-01-2018,January,Saturday
+B-25847,643,418,321.5,225,112.5,35%,2,Electronics,Printers,COD,Haryana,,Chandigarh,Aniket,03-11-2018,November,Saturday
+B-25796,632,948,105.3333333,-316,-52.66666667,-50%,6,Clothing,Saree,COD,Maharashtra,,Mumbai,Sukrith,24-09-2018,September,Monday
+B-25693,632,316,105.3333333,316,52.66666667,50%,6,Clothing,Saree,COD,Madhya Pradesh,,Bhopal,Parna,18-06-2018,June,Monday
+B-25993,610,402,203.3333333,208,69.33333333,34%,3,Electronics,Printers,COD,Delhi,,Delhi,Madhav,03-02-2018,February,Saturday
+B-26052,78,106,13,-28,-4.666666667,-36%,6,Clothing,Kurti,UPI,Karnataka,,Bangalore,Ajay,08-03-2018,March,Thursday
+B-25930,595,476,148.75,119,29.75,20%,4,Furniture,Bookcases,COD,Punjab,,Chandigarh,Monica,03-01-2018,January,Wednesday
+B-25785,595,303,198.3333333,292,97.33333333,49%,3,Clothing,Saree,COD,West Bengal,,Kolkata,Ayush,15-09-2018,September,Saturday
+B-26093,852,801,170.4,51,10.2,6%,5,Furniture,Bookcases,Credit Card,Maharashtra,,Pune,Sarita,27-03-2018,March,Tuesday
+B-26053,594,505,198,89,29.66666667,15%,3,Furniture,Bookcases,COD,Jammu and Kashmir,,Kashmir,Kirti,09-03-2018,March,Friday
+B-26019,585,410,45,175,13.46153846,30%,13,Clothing,T-shirt,COD,Uttar Pradesh,,Lucknow,Jitesh,15-02-2018,February,Thursday
+B-26070,582,320,116.4,262,52.4,45%,5,Furniture,Furnishings,COD,Karnataka,,Bangalore,Shruti,18-03-2018,March,Sunday
+B-25870,845,761,120.7142857,84,12,10%,7,Clothing,Saree,Credit Card,Andhra Pradesh,,Hyderabad,Pranav,20-11-2018,November,Tuesday
+B-25855,829,810,207.25,19,4.75,2%,4,Electronics,Printers,Credit Card,Madhya Pradesh,,Bhopal,Abhijeet,08-11-2018,November,Thursday
+B-25602,561,349,187,212,70.66666667,38%,3,Clothing,Saree,COD,Maharashtra,,Pune,Vrinda,01-04-2018,April,Sunday
+B-25728,771,1195,385.5,-424,-212,-55%,2,Electronics,Phones,Credit Card,Maharashtra,,Pune,Ameesha,22-07-2018,July,Sunday
+B-25803,765,757,127.5,8,1.333333333,1%,6,Clothing,Saree,EMI,Madhya Pradesh,,Indore,Shivanshu,05-10-2018,October,Friday
+B-25996,31,29,15.5,2,1,6%,2,Clothing,Hankerchief,COD,Delhi,,Delhi,Prashant,04-02-2018,February,Sunday
+B-26078,557,668,278.5,-111,-55.5,-20%,2,Electronics,Electronic Games,COD,West Bengal,,Kolkata,Kasheen,22-03-2018,March,Thursday
+B-25803,757,386,378.5,371,185.5,49%,2,Electronics,Printers,Credit Card,Madhya Pradesh,,Indore,Shivanshu,05-10-2018,October,Friday
+B-25682,545,618,49.54545455,-73,-6.636363636,-13%,11,Electronics,Phones,COD,Bihar,,Patna,Krutika,07-06-2018,June,Thursday
+B-25749,1052,1134,350.6666667,-82,-27.33333333,-8%,3,Furniture,Bookcases,UPI,Maharashtra,,Mumbai,Ayush,13-08-2018,August,Monday
+B-25962,544,696,181.3333333,-152,-50.66666667,-28%,3,Furniture,Bookcases,COD,Maharashtra,,Pune,Tejeswini,19-01-2018,January,Friday
+B-25899,22,13,11,9,4.5,41%,2,Clothing,Leggings,Debit Card,Uttar Pradesh,,Prayagraj,Aishwarya,08-12-2018,December,Saturday
+B-25845,757,386,378.5,371,185.5,49%,2,Electronics,Printers,Credit Card,Kerala ,,Thiruvananthapuram,Snel,03-11-2018,November,Saturday
+B-25951,742,544,371,198,99,27%,2,Furniture,Bookcases,Credit Card,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-25828,537,430,179,107,35.66666667,20%,3,Clothing,Saree,COD,Punjab,,Chandigarh,Nikita,24-10-2018,October,Wednesday
+B-25803,536,445,536,91,91,17%,1,Clothing,Trousers,COD,Madhya Pradesh,,Indore,Shivanshu,05-10-2018,October,Friday
+B-25656,6,3,6,3,3,50%,1,Clothing,Hankerchief,COD,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-25681,523,319,74.71428571,204,29.14285714,39%,7,Clothing,Trousers,COD,Madhya Pradesh,,Indore,Bhawna,04-06-2018,June,Monday
+B-25658,27,18,13.5,9,4.5,33%,2,Clothing,T-shirt,UPI,Rajasthan,,Jaipur,Shefali,14-05-2018,May,Monday
+B-25698,516,124,64.5,392,49,76%,8,Furniture,Chairs,COD,Tamil Nadu,,Chennai,Amisha,23-06-2018,June,Saturday
+B-25832,504,388,168,116,38.66666667,23%,3,Furniture,Bookcases,COD,Maharashtra,,Mumbai,Harshita,28-10-2018,October,Sunday
+B-25886,502,418,125.5,84,21,17%,4,Electronics,Phones,COD,Rajasthan,,Udaipur,Brijesh,28-11-2018,November,Wednesday
+B-25897,734,521,122.3333333,213,35.5,29%,6,Electronics,Electronic Games,Credit Card,Madhya Pradesh,,Indore,Rohan,06-12-2018,December,Thursday
+B-25873,42,30,21,12,6,29%,2,Clothing,Kurti,COD,Madhya Pradesh,,Indore,Divyeta,23-11-2018,November,Friday
+B-25858,29,18,7.25,11,2.75,38%,4,Clothing,Skirt,COD,Maharashtra,,Mumbai,Uudhav,13-11-2018,November,Tuesday
+B-25867,240,228,40,12,2,5%,6,Clothing,Kurti,UPI,Sikkim,,Gangtok,Ankit,17-11-2018,November,Saturday
+B-25633,496,575,248,-79,-39.5,-16%,2,Clothing,Trousers,COD,Sikkim,,Gangtok,Amit,26-04-2018,April,Thursday
+B-25609,485,456,121.25,29,7.25,6%,4,Electronics,Electronic Games,COD,Uttar Pradesh,,Lucknow,Jitesh,09-04-2018,April,Monday
+B-25896,31,42,10.33333333,-11,-3.666666667,-35%,3,Clothing,Skirt,UPI,Maharashtra,,Mumbai,Aman,05-12-2018,December,Wednesday
+B-26000,676,525,225.3333333,151,50.33333333,22%,3,Electronics,Printers,Credit Card,Delhi,,Delhi,Shubham,06-02-2018,February,Tuesday
+B-25959,23,15,11.5,8,4,35%,2,Clothing,Hankerchief,Debit Card,Madhya Pradesh,,Indore,Muskan,18-01-2018,January,Thursday
+B-25940,13,10,6.5,3,1.5,23%,2,Clothing,Hankerchief,COD,Goa,,Goa,Vivek,06-01-2018,January,Saturday
+B-26087,180,180,22.5,0,0,0%,8,Clothing,Stole,COD,Himachal Pradesh,,Simla,Vandana,26-03-2018,March,Monday
+B-26055,671,557,74.55555556,114,12.66666667,17%,9,Electronics,Phones,Credit Card,Uttar Pradesh,,Mathura,Harivansh,10-03-2018,March,Saturday
+B-25980,22,11,7.333333333,11,3.666666667,50%,3,Clothing,Kurti,COD,Rajasthan,,Udaipur,Shweta,27-01-2018,January,Saturday
+B-25653,668,699,222.6666667,-31,-10.33333333,-5%,3,Electronics,Printers,Credit Card,Nagaland,,Kohima,Farah,08-05-2018,May,Tuesday
+B-26052,145,145,48.33333333,0,0,0%,3,Clothing,Saree,UPI,Karnataka,,Bangalore,Ajay,08-03-2018,March,Thursday
+B-25877,24,16,12,8,4,33%,2,Clothing,Skirt,Debit Card,Gujarat,,Surat,Dashyam,24-11-2018,November,Saturday
+B-25608,476,476,158.6666667,0,0,0%,3,Furniture,Chairs,COD,Tamil Nadu,,Chennai,Aarushi,08-04-2018,April,Sunday
+B-25897,24,13,4.8,11,2.2,46%,5,Clothing,Hankerchief,Debit Card,Madhya Pradesh,,Indore,Rohan,06-12-2018,December,Thursday
+B-25881,37,34,12.33333333,3,1,8%,3,Clothing,Hankerchief,COD,Uttar Pradesh,,Mathura,Lalita,25-11-2018,November,Sunday
+B-25905,152,102,25.33333333,50,8.333333333,33%,6,Clothing,Stole,UPI,Delhi,,Delhi,Bhargav,11-12-2018,December,Tuesday
+B-25818,32,21,16,11,5.5,34%,2,Clothing,Leggings,UPI,Madhya Pradesh,,Indore,Sandeep,14-10-2018,October,Sunday
+B-25835,52,41,10.4,11,2.2,21%,5,Clothing,Leggings,COD,Gujarat,,Ahmedabad,Moumita,29-10-2018,October,Monday
+B-26081,24,13,8,11,3.666666667,46%,3,Clothing,Hankerchief,Debit Card,Tamil Nadu,,Chennai,Aarushi,22-03-2018,March,Thursday
+B-25730,473,431,118.25,42,10.5,9%,4,Furniture,Chairs,COD,Rajasthan,,Jaipur,Rishabh,22-07-2018,July,Sunday
+B-25837,263,213,52.6,50,10,19%,5,Clothing,Stole,COD,Maharashtra,,Mumbai,Palak,29-10-2018,October,Monday
+B-25893,61,50,20.33333333,11,3.666666667,18%,3,Clothing,Kurti,COD,Uttar Pradesh,,Mathura,Vrinda,04-12-2018,December,Tuesday
+B-25689,469,928,156.3333333,-459,-153,-98%,3,Electronics,Electronic Games,COD,Maharashtra,,Mumbai,Bhaggyasree,14-06-2018,June,Thursday
+B-26028,1272,725,636,547,273.5,43%,2,Electronics,Phones,COD,Andhra Pradesh,,Hyderabad,Manju,20-02-2018,February,Tuesday
+B-26081,169,169,56.33333333,0,0,0%,3,Electronics,Accessories,COD,Tamil Nadu,,Chennai,Aarushi,22-03-2018,March,Thursday
+B-25903,25,14,8.333333333,11,3.666666667,44%,3,Clothing,Leggings,Debit Card,Madhya Pradesh,,Indore,Amlan,10-12-2018,December,Monday
+B-25651,457,498,114.25,-41,-10.25,-9%,4,Clothing,Saree,COD,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25903,455,378,56.875,77,9.625,17%,8,Electronics,Accessories,COD,Madhya Pradesh,,Indore,Amlan,10-12-2018,December,Monday
+B-26086,25,23,12.5,2,1,8%,2,Clothing,Hankerchief,Debit Card,Haryana,,Chandigarh,Mukesh,26-03-2018,March,Monday
+B-25654,450,540,150,-90,-30,-20%,3,Electronics,Printers,COD,Maharashtra,,Mumbai,Sabah,10-05-2018,May,Thursday
+B-25720,30,65,30,-35,-35,-117%,1,Furniture,Chairs,COD,Punjab,,Chandigarh,Namrata,15-07-2018,July,Sunday
+B-26057,659,696,329.5,-37,-18.5,-6%,2,Furniture,Bookcases,Credit Card,Kerala ,,Thiruvananthapuram,Sharda,10-03-2018,March,Saturday
+B-25798,448,300,224,148,74,33%,2,Electronics,Printers,COD,Andhra Pradesh,,Hyderabad,Shishu,01-10-2018,October,Monday
+B-25961,446,393,148.6666667,53,17.66666667,12%,3,Electronics,Printers,COD,Gujarat,,Ahmedabad,Surbhi,18-01-2018,January,Thursday
+B-25701,98,143,49,-45,-22.5,-46%,2,Furniture,Chairs,UPI,Madhya Pradesh,,Indore,Maithilee,26-06-2018,June,Tuesday
+B-26055,443,432,443,11,11,2%,1,Clothing,Saree,COD,Uttar Pradesh,,Mathura,Harivansh,10-03-2018,March,Saturday
+B-25653,427,477,61,-50,-7.142857143,-12%,7,Electronics,Phones,COD,Nagaland,,Kohima,Farah,08-05-2018,May,Tuesday
+B-25670,656,692,328,-36,-18,-5%,2,Furniture,Bookcases,Credit Card,Goa,,Goa,Charika,25-05-2018,May,Friday
+B-26056,424,263,212,161,80.5,38%,2,Clothing,Saree,COD,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-26061,27,19,13.5,8,4,30%,2,Clothing,T-shirt,Debit Card,Madhya Pradesh,,Indore,Anurag,14-03-2018,March,Wednesday
+B-25602,424,696,84.8,-272,-54.4,-64%,5,Electronics,Phones,COD,Maharashtra,,Pune,Vrinda,01-04-2018,April,Sunday
+B-26016,202,198,50.5,4,1,2%,4,Clothing,Hankerchief,COD,Karnataka,,Bangalore,Hazel,14-02-2018,February,Wednesday
+B-25873,1275,918,637.5,357,178.5,28%,2,Electronics,Phones,UPI,Madhya Pradesh,,Indore,Divyeta,23-11-2018,November,Friday
+B-25761,418,348,59.71428571,70,10,17%,7,Electronics,Phones,COD,Uttar Pradesh,,Mathura,Madhav,25-08-2018,August,Saturday
+B-25819,417,368,139,49,16.33333333,12%,3,Electronics,Electronic Games,COD,Madhya Pradesh,,Bhopal,Ankur,15-10-2018,October,Monday
+B-25853,199,151,49.75,48,12,24%,4,Clothing,Stole,UPI,Gujarat,,Ahmedabad,Gaurav,08-11-2018,November,Thursday
+B-25662,385,462,35,-77,-7,-20%,11,Furniture,Furnishings,UPI,Maharashtra,,Mumbai,Sweta,17-05-2018,May,Thursday
+B-25993,414,215,138,199,66.33333333,48%,3,Electronics,Phones,COD,Delhi,,Delhi,Madhav,03-02-2018,February,Saturday
+B-25703,97,142,24.25,-45,-11.25,-46%,4,Clothing,Saree,COD,Madhya Pradesh,,Indore,Ekta,28-06-2018,June,Thursday
+B-25848,648,598,108,50,8.333333333,8%,6,Electronics,Electronic Games,Credit Card,Himachal Pradesh,,Simla,Rohan,03-11-2018,November,Saturday
+B-25678,27,52,13.5,-25,-12.5,-93%,2,Clothing,Shirt,Debit Card,Karnataka,,Bangalore,Bathina,03-06-2018,June,Sunday
+B-25925,27,15,27,12,12,44%,1,Clothing,Stole,Debit Card,Maharashtra,,Mumbai,Shruti,29-12-2018,December,Saturday
+B-25977,27,26,27,1,1,4%,1,Clothing,Stole,UPI,Gujarat,,Surat,Aayushi,27-01-2018,January,Saturday
+B-25797,413,727,45.88888889,-314,-34.88888889,-76%,9,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Sauptik,30-09-2018,September,Sunday
+B-26067,53,51,13.25,2,0.5,4%,4,Clothing,Hankerchief,COD,Madhya Pradesh,,Bhopal,Tulika,16-03-2018,March,Friday
+B-25810,29,21,5.8,8,1.6,28%,5,Clothing,Hankerchief,UPI,Punjab,,Chandigarh,Nripraj,10-10-2018,October,Wednesday
+B-25648,30,17,30,13,13,43%,1,Clothing,T-shirt,UPI,Punjab,,Chandigarh,Aditya,04-05-2018,May,Friday
+B-25933,412,0,68.66666667,412,68.66666667,100%,6,Clothing,Saree,COD,Maharashtra,,Mumbai,Shikhar,04-01-2018,January,Thursday
+B-25942,646,669,323,-23,-11.5,-4%,2,Electronics,Printers,Credit Card,Andhra Pradesh,,Hyderabad,Ankur,08-01-2018,January,Monday
+B-25656,30,35,6,-5,-1,-17%,5,Clothing,Stole,UPI,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-26067,618,591,154.5,27,6.75,4%,4,Furniture,Bookcases,Credit Card,Madhya Pradesh,,Bhopal,Tulika,16-03-2018,March,Friday
+B-25673,143,267,28.6,-124,-24.8,-87%,5,Clothing,Saree,UPI,Gujarat,,Ahmedabad,Arsheen,28-05-2018,May,Monday
+B-25797,31,30,15.5,1,0.5,3%,2,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Sauptik,30-09-2018,September,Sunday
+B-26098,409,323,136.3333333,86,28.66666667,21%,3,Clothing,Saree,COD,Jammu and Kashmir,,Kashmir,Pinky,29-03-2018,March,Thursday
+B-25656,406,280,203,126,63,31%,2,Clothing,Saree,COD,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-25791,565,499,80.71428571,66,9.428571429,12%,7,Clothing,Saree,Credit Card,Kerala ,,Thiruvananthapuram,Avish,24-09-2018,September,Monday
+B-26053,85,83,14.16666667,2,0.333333333,2%,6,Clothing,Stole,COD,Jammu and Kashmir,,Kashmir,Kirti,09-03-2018,March,Friday
+B-25983,561,443,112.2,118,23.6,21%,5,Furniture,Bookcases,Credit Card,Delhi,,Delhi,Atul,30-01-2018,January,Tuesday
+B-25743,503,559,251.5,-56,-28,-11%,2,Clothing,Trousers,COD,Nagaland,,Kohima,Aman,07-08-2018,August,Tuesday
+B-25867,31,17,10.33333333,14,4.666666667,45%,3,Clothing,Stole,UPI,Sikkim,,Gangtok,Ankit,17-11-2018,November,Saturday
+B-25973,398,287,49.75,111,13.875,28%,8,Clothing,Hankerchief,COD,Uttar Pradesh,,Mathura,Madan Mohan,24-01-2018,January,Wednesday
+B-25895,388,295,194,93,46.5,24%,2,Furniture,Bookcases,COD,Gujarat,,Surat,Sathya,04-12-2018,December,Tuesday
+B-26003,498,614,124.5,-116,-29,-23%,4,Clothing,Saree,UPI,Madhya Pradesh,,Bhopal,Hitesh,08-02-2018,February,Thursday
+B-25717,561,349,187,212,70.66666667,38%,3,Clothing,Saree,Credit Card,Uttar Pradesh,,Lucknow,Manshul,12-07-2018,July,Thursday
+B-26064,61,58,15.25,3,0.75,5%,4,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Ankita,16-03-2018,March,Friday
+B-25630,34,56,8.5,-22,-5.5,-65%,4,Clothing,T-shirt,COD,Punjab,,Chandigarh,Sahil,24-04-2018,April,Tuesday
+B-26050,32,26,10.66666667,6,2,19%,3,Clothing,Shirt,UPI,Rajasthan,,Jaipur,Paridhi,06-03-2018,March,Tuesday
+B-25786,623,815,207.6666667,-192,-64,-31%,3,Furniture,Tables,UPI,Uttar Pradesh,,Mathura,Madan Mohan,19-09-2018,September,Wednesday
+B-26035,520,369,173.3333333,151,50.33333333,29%,3,Electronics,Phones,Credit Card,Jammu and Kashmir,,Kashmir,Pinky,23-02-2018,February,Friday
+B-25693,32,48,5.333333333,-16,-2.666666667,-50%,6,Clothing,Saree,UPI,Madhya Pradesh,,Bhopal,Parna,18-06-2018,June,Monday
+B-25703,32,37,6.4,-5,-1,-16%,5,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Ekta,28-06-2018,June,Thursday
+B-25966,510,276,85,234,39,46%,6,Electronics,Electronic Games,EMI,Rajasthan,,Udaipur,Soumya,21-01-2018,January,Sunday
+B-26060,382,314,127.3333333,68,22.66666667,18%,3,Clothing,Saree,COD,Maharashtra,,Mumbai,Chirag,13-03-2018,March,Tuesday
+B-25898,33,20,11,13,4.333333333,39%,3,Clothing,Leggings,UPI,Rajasthan,,Udaipur,Abhishek,07-12-2018,December,Friday
+B-25686,381,394,190.5,-13,-6.5,-3%,2,Clothing,Saree,COD,Himachal Pradesh,,Simla,Pooja,11-06-2018,June,Monday
+B-26051,490,402,245,88,44,18%,2,Electronics,Accessories,EMI,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-25854,381,237,190.5,144,72,38%,2,Clothing,Saree,COD,Maharashtra,,Pune,Shubham,08-11-2018,November,Thursday
+B-26050,487,344,121.75,143,35.75,29%,4,Electronics,Phones,EMI,Rajasthan,,Jaipur,Paridhi,06-03-2018,March,Tuesday
+B-25961,366,282,122,84,28,23%,3,Furniture,Bookcases,COD,Gujarat,,Ahmedabad,Surbhi,18-01-2018,January,Thursday
+B-25701,33,62,11,-29,-9.666666667,-88%,3,Clothing,Shirt,UPI,Madhya Pradesh,,Indore,Maithilee,26-06-2018,June,Tuesday
+B-25970,365,258,121.6666667,107,35.66666667,29%,3,Electronics,Phones,COD,Maharashtra,,Mumbai,Rhea,22-01-2018,January,Monday
+B-25933,207,307,103.5,-100,-50,-48%,2,Clothing,Saree,UPI,Maharashtra,,Mumbai,Shikhar,04-01-2018,January,Thursday
+B-26081,359,697,71.8,-338,-67.6,-94%,5,Furniture,Bookcases,COD,Tamil Nadu,,Chennai,Aarushi,22-03-2018,March,Thursday
+B-25650,351,398,43.875,-47,-5.875,-13%,8,Electronics,Phones,COD,Maharashtra,,Mumbai,Chirag,06-05-2018,May,Sunday
+B-25850,485,286,121.25,199,49.75,41%,4,Clothing,Saree,EMI,Goa,,Goa,Abhishek,05-11-2018,November,Monday
+B-25643,37,60,9.25,-23,-5.75,-62%,4,Clothing,Shirt,UPI,Jammu and Kashmir,,Kashmir,Kirti,29-04-2018,April,Sunday
+B-26100,34,24,17,10,5,29%,2,Clothing,T-shirt,Debit Card,Madhya Pradesh,,Indore,Hitika,31-03-2018,March,Saturday
+B-25964,346,238,115.3333333,108,36,31%,3,Furniture,Chairs,COD,Maharashtra,,Pune,Oshin,20-01-2018,January,Saturday
+B-25676,342,445,85.5,-103,-25.75,-30%,4,Electronics,Electronic Games,COD,Rajasthan,,Jaipur,Chandni,01-06-2018,June,Friday
+B-25628,35,43,17.5,-8,-4,-23%,2,Furniture,Furnishings,Debit Card,Bihar,,Patna,Pooja,24-04-2018,April,Tuesday
+B-25891,121,80,30.25,41,10.25,34%,4,Clothing,Stole,UPI,Madhya Pradesh,,Indore,Shivani,04-12-2018,December,Tuesday
+B-25903,336,279,168,57,28.5,17%,2,Electronics,Phones,COD,Madhya Pradesh,,Indore,Amlan,10-12-2018,December,Monday
+B-25851,336,265,112,71,23.66666667,21%,3,Furniture,Bookcases,COD,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-26089,27,23,27,4,4,15%,1,Clothing,Hankerchief,COD,Goa,,Goa,Kanak,26-03-2018,March,Monday
+B-25996,333,283,166.5,50,25,15%,2,Electronics,Phones,COD,Delhi,,Delhi,Prashant,04-02-2018,February,Sunday
+B-25881,36,29,12,7,2.333333333,19%,3,Clothing,Leggings,Debit Card,Uttar Pradesh,,Mathura,Lalita,25-11-2018,November,Sunday
+B-25621,333,348,111,-15,-5,-5%,3,Electronics,Phones,COD,Madhya Pradesh,,Bhopal,Deepak,20-04-2018,April,Friday
+B-25727,327,213,81.75,114,28.5,35%,4,Clothing,Trousers,COD,Madhya Pradesh,,Indore,Turumella,22-07-2018,July,Sunday
+B-25843,18,12,6,6,2,33%,3,Clothing,Hankerchief,UPI,Maharashtra,,Mumbai,Mrunal,03-11-2018,November,Saturday
+B-26050,325,293,46.42857143,32,4.571428571,10%,7,Clothing,T-shirt,COD,Rajasthan,,Jaipur,Paridhi,06-03-2018,March,Tuesday
+B-25741,482,488,68.85714286,-6,-0.857142857,-1%,7,Electronics,Electronic Games,EMI,Madhya Pradesh,,Indore,Navdeep,03-08-2018,August,Friday
+B-25756,465,498,116.25,-33,-8.25,-7%,4,Electronics,Phones,EMI,Maharashtra,,Mumbai,Mohan,20-08-2018,August,Monday
+B-25787,40,52,13.33333333,-12,-4,-30%,3,Clothing,Shirt,COD,Jammu and Kashmir,,Kashmir,Asish,20-09-2018,September,Thursday
+B-25603,107,71,17.83333333,36,6,34%,6,Clothing,Stole,COD,Madhya Pradesh,,Bhopal,Jahan,03-04-2018,April,Tuesday
+B-25655,312,624,44.57142857,-312,-44.57142857,-100%,7,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Nida,11-05-2018,May,Friday
+B-26096,451,426,150.3333333,25,8.333333333,6%,3,Electronics,Phones,EMI,West Bengal,,Kolkata,Atharv,28-03-2018,March,Wednesday
+B-25962,312,250,312,62,62,20%,1,Electronics,Electronic Games,COD,Maharashtra,,Pune,Tejeswini,19-01-2018,January,Friday
+B-26007,311,239,155.5,72,36,23%,2,Furniture,Bookcases,COD,Jammu and Kashmir,,Kashmir,Shubham,09-02-2018,February,Friday
+B-26088,11,6,5.5,5,2.5,45%,2,Clothing,Hankerchief,UPI,Sikkim,,Gangtok,Bhavna,26-03-2018,March,Monday
+B-25673,37,42,12.33333333,-5,-1.666666667,-14%,3,Clothing,T-shirt,Debit Card,Gujarat,,Ahmedabad,Arsheen,28-05-2018,May,Monday
+B-25664,444,644,111,-200,-50,-45%,4,Electronics,Phones,EMI,Bihar,,Patna,Pratyusmita,20-05-2018,May,Sunday
+B-25642,434,408,39.45454545,26,2.363636364,6%,11,Clothing,Shirt,Credit Card,Karnataka,,Bangalore,Ajay,28-04-2018,April,Saturday
+B-25987,299,299,49.83333333,0,0,0%,6,Clothing,Stole,COD,Delhi,,Delhi,Manjiri,31-01-2018,January,Wednesday
+B-25903,37,20,12.33333333,17,5.666666667,46%,3,Clothing,Hankerchief,Debit Card,Madhya Pradesh,,Indore,Amlan,10-12-2018,December,Monday
+B-25770,299,186,149.5,113,56.5,38%,2,Furniture,Bookcases,COD,Madhya Pradesh,,Indore,Sakshi,02-09-2018,September,Sunday
+B-25840,298,224,149,74,37,25%,2,Furniture,Bookcases,COD,Karnataka,,Bangalore,Sneha,31-10-2018,October,Wednesday
+B-25846,94,87,13.42857143,7,1,7%,7,Clothing,Leggings,UPI,Punjab,,Chandigarh,Soodesh,03-11-2018,November,Saturday
+B-25745,296,71,26.90909091,225,20.45454545,76%,11,Clothing,Saree,COD,Gujarat,,Ahmedabad,Kartik,09-08-2018,August,Thursday
+B-26073,37,20,12.33333333,17,5.666666667,46%,3,Clothing,Hankerchief,Debit Card,Madhya Pradesh,,Indore,Pournamasi,21-03-2018,March,Wednesday
+B-26030,291,198,145.5,93,46.5,32%,2,Electronics,Printers,COD,Maharashtra,,Pune,Sarita,21-02-2018,February,Wednesday
+B-25678,327,366,327,-39,-39,-12%,1,Electronics,Phones,COD,Karnataka,,Bangalore,Bathina,03-06-2018,June,Sunday
+B-26035,291,172,26.45454545,119,10.81818182,41%,11,Clothing,Saree,COD,Jammu and Kashmir,,Kashmir,Pinky,23-02-2018,February,Friday
+B-25896,287,353,47.83333333,-66,-11,-23%,6,Clothing,Kurti,COD,Maharashtra,,Mumbai,Aman,05-12-2018,December,Wednesday
+B-25989,42,27,42,15,15,36%,1,Electronics,Accessories,UPI,Delhi,,Delhi,Anjali,01-02-2018,February,Thursday
+B-26016,429,368,143,61,20.33333333,14%,3,Electronics,Electronic Games,Credit Card,Karnataka,,Bangalore,Hazel,14-02-2018,February,Wednesday
+B-26009,285,157,142.5,128,64,45%,2,Electronics,Printers,COD,Uttar Pradesh,,Lucknow,Komal,10-02-2018,February,Saturday
+B-25915,277,274,277,3,3,1%,1,Electronics,Electronic Games,COD,Punjab,,Amritsar,Sukruta,19-12-2018,December,Wednesday
+B-25845,274,281,68.5,-7,-1.75,-3%,4,Electronics,Phones,COD,Kerala ,,Thiruvananthapuram,Snel,03-11-2018,November,Saturday
+B-25645,273,360,68.25,-87,-21.75,-32%,4,Electronics,Phones,COD,Madhya Pradesh,,Indore,Yaanvi,01-05-2018,May,Tuesday
+B-25803,269,178,269,91,91,34%,1,Electronics,Electronic Games,COD,Madhya Pradesh,,Indore,Shivanshu,05-10-2018,October,Friday
+B-26030,11,6,11,5,5,45%,1,Clothing,Skirt,COD,Maharashtra,,Pune,Sarita,21-02-2018,February,Wednesday
+B-25955,39,37,19.5,2,1,5%,2,Clothing,Saree,Debit Card,Maharashtra,,Pune,Shiva,16-01-2018,January,Tuesday
+B-26096,264,290,88,-26,-8.666666667,-10%,3,Clothing,Trousers,COD,West Bengal,,Kolkata,Atharv,28-03-2018,March,Wednesday
+B-25635,40,24,13.33333333,16,5.333333333,40%,3,Clothing,Hankerchief,Debit Card,Nagaland,,Kohima,Nidhi,26-04-2018,April,Thursday
+B-26038,41,22,20.5,19,9.5,46%,2,Clothing,T-shirt,Debit Card,Bihar,,Patna,Pooja,24-02-2018,February,Saturday
+B-25791,253,316,126.5,-63,-31.5,-25%,2,Clothing,Saree,UPI,Kerala ,,Thiruvananthapuram,Avish,24-09-2018,September,Monday
+B-26014,406,309,58,97,13.85714286,24%,7,Furniture,Chairs,Credit Card,Rajasthan,,Jaipur,Divsha,13-02-2018,February,Tuesday
+B-25751,32,25,10.66666667,7,2.333333333,22%,3,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-25962,260,192,130,68,34,26%,2,Electronics,Printers,COD,Maharashtra,,Pune,Tejeswini,19-01-2018,January,Friday
+B-26025,41,22,8.2,19,3.8,46%,5,Clothing,Hankerchief,Debit Card,Sikkim,,Gangtok,Bhavna,19-02-2018,February,Monday
+B-26048,401,388,66.83333333,13,2.166666667,3%,6,Furniture,Chairs,Credit Card,Maharashtra,,Pune,Parth,04-03-2018,March,Sunday
+B-25635,382,352,127.3333333,30,10,8%,3,Clothing,Saree,Credit Card,Nagaland,,Kohima,Nidhi,26-04-2018,April,Thursday
+B-25981,867,616,173.4,251,50.2,29%,5,Electronics,Phones,COD,Delhi,,Delhi,Amruta,28-01-2018,January,Sunday
+B-25610,43,43,14.33333333,0,0,0%,3,Clothing,Saree,Debit Card,Bihar,,Patna,Yogesh,09-04-2018,April,Monday
+B-25733,43,86,6.142857143,-43,-6.142857143,-100%,7,Clothing,Stole,Debit Card,Maharashtra,,Mumbai,Dhirajendu,28-07-2018,July,Saturday
+B-25977,74,45,24.66666667,29,9.666666667,39%,3,Clothing,Stole,COD,Gujarat,,Surat,Aayushi,27-01-2018,January,Saturday
+B-25655,44,70,14.66666667,-26,-8.666666667,-59%,3,Clothing,Hankerchief,Debit Card,Madhya Pradesh,,Indore,Nida,11-05-2018,May,Friday
+B-25612,259,314,129.5,-55,-27.5,-21%,2,Furniture,Chairs,COD,Punjab,,Chandigarh,Shrichand,12-04-2018,April,Thursday
+B-25608,257,234,51.4,23,4.6,9%,5,Clothing,Hankerchief,COD,Tamil Nadu,,Chennai,Aarushi,08-04-2018,April,Sunday
+B-25752,76,49,15.2,27,5.4,36%,5,Clothing,Stole,COD,Madhya Pradesh,,Indore,Vaibhav,14-08-2018,August,Tuesday
+B-25700,44,76,14.66666667,-32,-10.66666667,-73%,3,Clothing,Stole,Debit Card,Maharashtra,,Mumbai,Shubhi,25-06-2018,June,Monday
+B-25856,257,254,128.5,3,1.5,1%,2,Clothing,Saree,COD,Maharashtra,,Mumbai,Abhijeet,10-11-2018,November,Saturday
+B-26026,255,179,28.33333333,76,8.444444444,30%,9,Clothing,Hankerchief,COD,Goa,,Goa,Kanak,19-02-2018,February,Monday
+B-25861,44,30,14.66666667,14,4.666666667,32%,3,Clothing,Hankerchief,Debit Card,Uttar Pradesh,,Lucknow,Aayush,15-11-2018,November,Thursday
+B-25673,45,47,11.25,-2,-0.5,-4%,4,Clothing,Shirt,COD,Gujarat,,Ahmedabad,Arsheen,28-05-2018,May,Monday
+B-25681,44,47,44,-3,-3,-7%,1,Clothing,Saree,Debit Card,Madhya Pradesh,,Indore,Bhawna,04-06-2018,June,Monday
+B-26051,382,263,191,119,59.5,31%,2,Clothing,Saree,Credit Card,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-25951,250,150,83.33333333,100,33.33333333,40%,3,Clothing,Trousers,COD,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-25799,45,60,22.5,-15,-7.5,-33%,2,Furniture,Chairs,COD,Gujarat,,Ahmedabad,Divyansh,01-10-2018,October,Monday
+B-26053,246,185,123,61,30.5,25%,2,Furniture,Bookcases,COD,Jammu and Kashmir,,Kashmir,Kirti,09-03-2018,March,Friday
+B-26030,50,25,10,25,5,50%,5,Clothing,Stole,COD,Maharashtra,,Pune,Sarita,21-02-2018,February,Wednesday
+B-26054,246,148,49.2,98,19.6,40%,5,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Mayank,10-03-2018,March,Saturday
+B-25696,44,-55,14.66666667,99,33,225%,3,Clothing,Kurti,Debit Card,Karnataka,,Bangalore,Noopur,21-06-2018,June,Thursday
+B-25660,245,323,81.66666667,-78,-26,-32%,3,Clothing,Saree,COD,Karnataka,,Bangalore,Shruti,16-05-2018,May,Wednesday
+B-25858,245,215,122.5,30,15,12%,2,Clothing,Saree,COD,Maharashtra,,Mumbai,Uudhav,13-11-2018,November,Tuesday
+B-26045,376,376,53.71428571,0,0,0%,7,Clothing,Stole,Credit Card,Nagaland,,Kohima,Nidhi,03-03-2018,March,Saturday
+B-25850,45,44,15,1,0.333333333,2%,3,Clothing,T-shirt,Debit Card,Goa,,Goa,Abhishek,05-11-2018,November,Monday
+B-25781,45,73,22.5,-28,-14,-62%,2,Clothing,Stole,Debit Card,Gujarat,,Ahmedabad,Rutuja,14-09-2018,September,Friday
+B-25918,244,366,48.8,-122,-24.4,-50%,5,Furniture,Furnishings,COD,Madhya Pradesh,,Indore,Karandeep,22-12-2018,December,Saturday
+B-25971,244,161,122,83,41.5,34%,2,Furniture,Bookcases,COD,Madhya Pradesh,,Indore,Mitali,22-01-2018,January,Monday
+B-25870,10,6,10,4,4,40%,1,Clothing,Kurti,UPI,Andhra Pradesh,,Hyderabad,Pranav,20-11-2018,November,Tuesday
+B-25770,375,195,125,180,60,48%,3,Furniture,Bookcases,Credit Card,Madhya Pradesh,,Indore,Sakshi,02-09-2018,September,Sunday
+B-25757,46,32,9.2,14,2.8,30%,5,Clothing,Skirt,Debit Card,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25699,49,80,24.5,-31,-15.5,-63%,2,Clothing,Stole,UPI,Uttar Pradesh,,Lucknow,Kritika,24-06-2018,June,Sunday
+B-25776,47,67,23.5,-20,-10,-43%,2,Clothing,Kurti,Debit Card,Maharashtra,,Mumbai,Mousam,09-09-2018,September,Sunday
+B-25893,355,469,50.71428571,-114,-16.28571429,-32%,7,Clothing,Stole,Credit Card,Uttar Pradesh,,Mathura,Vrinda,04-12-2018,December,Tuesday
+B-25985,32,24,6.4,8,1.6,25%,5,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Ginny,31-01-2018,January,Wednesday
+B-25681,243,257,121.5,-14,-7,-6%,2,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Bhawna,04-06-2018,June,Monday
+B-26063,241,318,60.25,-77,-19.25,-32%,4,Electronics,Electronic Games,COD,Nagaland,,Kohima,Farah,15-03-2018,March,Thursday
+B-26032,47,32,9.4,15,3,32%,5,Clothing,Saree,Debit Card,Rajasthan,,Jaipur,Monisha,22-02-2018,February,Thursday
+B-26001,50,60,8.333333333,-10,-1.666666667,-20%,6,Clothing,Skirt,Debit Card,Delhi,,Delhi,Patil,07-02-2018,February,Wednesday
+B-26056,15,9,7.5,6,3,40%,2,Clothing,Hankerchief,COD,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-25850,148,124,49.33333333,24,8,16%,3,Clothing,Stole,COD,Goa,,Goa,Abhishek,05-11-2018,November,Monday
+B-25767,299,327,99.66666667,-28,-9.333333333,-9%,3,Electronics,Electronic Games,UPI,West Bengal,,Kolkata,Ashmeet,31-08-2018,August,Friday
+B-25693,68,98,68,-30,-30,-44%,1,Electronics,Phones,UPI,Madhya Pradesh,,Bhopal,Parna,18-06-2018,June,Monday
+B-25850,52,34,10.4,18,3.6,35%,5,Clothing,Leggings,Debit Card,Goa,,Goa,Abhishek,05-11-2018,November,Monday
+B-25796,239,401,47.8,-162,-32.4,-68%,5,Furniture,Chairs,COD,Maharashtra,,Mumbai,Sukrith,24-09-2018,September,Monday
+B-26053,27,21,9,6,2,22%,3,Clothing,Skirt,COD,Jammu and Kashmir,,Kashmir,Kirti,09-03-2018,March,Friday
+B-25650,238,218,119,20,10,8%,2,Clothing,Saree,COD,Maharashtra,,Mumbai,Chirag,06-05-2018,May,Sunday
+B-25961,48,32,16,16,5.333333333,33%,3,Clothing,Shirt,COD,Gujarat,,Ahmedabad,Surbhi,18-01-2018,January,Thursday
+B-26023,66,44,22,22,7.333333333,33%,3,Clothing,Stole,UPI,Haryana,,Chandigarh,Mukesh,19-02-2018,February,Monday
+B-25809,53,29,53,24,24,45%,1,Clothing,Hankerchief,Debit Card,Kerala ,,Thiruvananthapuram,Suman,09-10-2018,October,Tuesday
+B-25621,233,243,46.6,-10,-2,-4%,5,Electronics,Electronic Games,COD,Madhya Pradesh,,Bhopal,Deepak,20-04-2018,April,Friday
+B-25854,53,55,17.66666667,-2,-0.666666667,-4%,3,Clothing,Saree,Debit Card,Maharashtra,,Pune,Shubham,08-11-2018,November,Thursday
+B-26057,54,46,13.5,8,2,15%,4,Clothing,T-shirt,Debit Card,Kerala ,,Thiruvananthapuram,Sharda,10-03-2018,March,Saturday
+B-25688,352,697,70.4,-345,-69,-98%,5,Clothing,Saree,Credit Card,Madhya Pradesh,,Indore,Swetha,11-06-2018,June,Monday
+B-25885,349,349,49.85714286,0,0,0%,7,Clothing,Stole,Credit Card,Madhya Pradesh,,Indore,Shatayu,28-11-2018,November,Wednesday
+B-25753,341,426,56.83333333,-85,-14.16666667,-25%,6,Clothing,Trousers,Credit Card,Uttar Pradesh,,Lucknow,Shivam,17-08-2018,August,Friday
+B-25981,54,42,18,12,4,22%,3,Clothing,Saree,Debit Card,Delhi,,Delhi,Amruta,28-01-2018,January,Sunday
+B-26055,57,50,28.5,7,3.5,12%,2,Clothing,Shirt,UPI,Uttar Pradesh,,Mathura,Harivansh,10-03-2018,March,Saturday
+B-25714,340,320,48.57142857,20,2.857142857,6%,7,Clothing,Shirt,Credit Card,Karnataka,,Bangalore,Stuti,09-07-2018,July,Monday
+B-26055,227,179,45.4,48,9.6,21%,5,Clothing,Stole,COD,Uttar Pradesh,,Mathura,Harivansh,10-03-2018,March,Saturday
+B-25989,330,249,330,81,81,25%,1,Furniture,Bookcases,Credit Card,Delhi,,Delhi,Anjali,01-02-2018,February,Thursday
+B-25710,216,254,36,-38,-6.333333333,-18%,6,Furniture,Furnishings,UPI,Maharashtra,,Pune,Megha,05-07-2018,July,Thursday
+B-25773,224,367,74.66666667,-143,-47.66666667,-64%,3,Furniture,Chairs,COD,Kerala ,,Thiruvananthapuram,Shreya,06-09-2018,September,Thursday
+B-25661,55,88,27.5,-33,-16.5,-60%,2,Furniture,Chairs,Debit Card,Jammu and Kashmir,,Kashmir,Subhashree,17-05-2018,May,Thursday
+B-26021,49,28,49,21,21,43%,1,Clothing,Stole,UPI,Kerala ,,Thiruvananthapuram,Anita,17-02-2018,February,Saturday
+B-26057,224,137,74.66666667,87,29,39%,3,Clothing,Trousers,COD,Kerala ,,Thiruvananthapuram,Sharda,10-03-2018,March,Saturday
+B-25858,223,196,111.5,27,13.5,12%,2,Furniture,Bookcases,COD,Maharashtra,,Mumbai,Uudhav,13-11-2018,November,Tuesday
+B-25857,324,285,40.5,39,4.875,12%,8,Electronics,Accessories,Credit Card,Madhya Pradesh,,Indore,Anand,10-11-2018,November,Saturday
+B-25656,56,38,28,18,9,32%,2,Clothing,Hankerchief,Debit Card,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-25999,223,161,31.85714286,62,8.857142857,28%,7,Clothing,Shirt,COD,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-25856,10,8,5,2,1,20%,2,Clothing,Skirt,COD,Maharashtra,,Mumbai,Abhijeet,10-11-2018,November,Saturday
+B-25926,57,51,11.4,6,1.2,11%,5,Clothing,Leggings,Debit Card,Madhya Pradesh,,Indore,Dipali,30-12-2018,December,Sunday
+B-25728,322,435,80.5,-113,-28.25,-35%,4,Clothing,Saree,Credit Card,Maharashtra,,Pune,Ameesha,22-07-2018,July,Sunday
+B-26076,219,215,109.5,4,2,2%,2,Clothing,Saree,COD,Madhya Pradesh,,Bhopal,Jahan,21-03-2018,March,Wednesday
+B-25913,103,82,14.71428571,21,3,20%,7,Clothing,Stole,UPI,Delhi,,Delhi,Geetanjali,17-12-2018,December,Monday
+B-25703,47,74,11.75,-27,-6.75,-57%,4,Clothing,Saree,COD,Madhya Pradesh,,Indore,Ekta,28-06-2018,June,Thursday
+B-25858,219,219,219,0,0,0%,1,Clothing,Saree,COD,Maharashtra,,Mumbai,Uudhav,13-11-2018,November,Tuesday
+B-25727,57,105,9.5,-48,-8,-84%,6,Clothing,Leggings,Debit Card,Madhya Pradesh,,Indore,Turumella,22-07-2018,July,Sunday
+B-26020,319,217,53.16666667,102,17,32%,6,Electronics,Accessories,Credit Card,Bihar,,Patna,Yogesh,16-02-2018,February,Friday
+B-26003,315,323,105,-8,-2.666666667,-3%,3,Furniture,Chairs,Credit Card,Madhya Pradesh,,Bhopal,Hitesh,08-02-2018,February,Thursday
+B-25925,314,355,104.6666667,-41,-13.66666667,-13%,3,Electronics,Electronic Games,Credit Card,Maharashtra,,Mumbai,Shruti,29-12-2018,December,Saturday
+B-26087,311,271,311,40,40,13%,1,Electronics,Electronic Games,EMI,Himachal Pradesh,,Simla,Vandana,26-03-2018,March,Monday
+B-25810,307,233,102.3333333,74,24.66666667,24%,3,Electronics,Accessories,EMI,Punjab,,Chandigarh,Nripraj,10-10-2018,October,Wednesday
+B-25858,294,185,42,109,15.57142857,37%,7,Electronics,Accessories,EMI,Maharashtra,,Mumbai,Uudhav,13-11-2018,November,Tuesday
+B-25861,216,299,72,-83,-27.66666667,-38%,3,Electronics,Electronic Games,COD,Uttar Pradesh,,Lucknow,Aayush,15-11-2018,November,Thursday
+B-25661,58,100,29,-42,-21,-72%,2,Furniture,Chairs,Debit Card,Jammu and Kashmir,,Kashmir,Subhashree,17-05-2018,May,Thursday
+B-25943,48,28,12,20,5,42%,4,Clothing,Stole,UPI,Gujarat,,Ahmedabad,Shardul,09-01-2018,January,Tuesday
+B-25955,54,40,18,14,4.666666667,26%,3,Clothing,T-shirt,UPI,Maharashtra,,Pune,Shiva,16-01-2018,January,Tuesday
+B-26051,216,166,54,50,12.5,23%,4,Clothing,Stole,COD,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-25999,215,245,107.5,-30,-15,-14%,2,Clothing,Saree,COD,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-26083,43,35,14.33333333,8,2.666666667,19%,3,Clothing,Leggings,COD,Bihar,,Patna,Yogesh,24-03-2018,March,Saturday
+B-25950,136,169,27.2,-33,-6.6,-24%,5,Clothing,Saree,COD,Madhya Pradesh,,Indore,Shruti,13-01-2018,January,Saturday
+B-25625,59,89,19.66666667,-30,-10,-51%,3,Clothing,Leggings,Debit Card,Jammu and Kashmir,,Kashmir,Pinky,23-04-2018,April,Monday
+B-26055,213,209,15.21428571,4,0.285714286,2%,14,Clothing,Shirt,COD,Uttar Pradesh,,Mathura,Harivansh,10-03-2018,March,Saturday
+B-26023,59,38,29.5,21,10.5,36%,2,Clothing,Stole,Debit Card,Haryana,,Chandigarh,Mukesh,19-02-2018,February,Monday
+B-26010,55,52,18.33333333,3,1,5%,3,Clothing,T-shirt,COD,Bihar,,Patna,Kartikay,11-02-2018,February,Sunday
+B-25955,294,232,32.66666667,62,6.888888889,21%,9,Clothing,T-shirt,EMI,Maharashtra,,Pune,Shiva,16-01-2018,January,Tuesday
+B-25900,210,148,105,62,31,30%,2,Electronics,Phones,COD,Punjab,,Amritsar,Anand,09-12-2018,December,Sunday
+B-26089,59,35,9.833333333,24,4,41%,6,Clothing,Kurti,Debit Card,Goa,,Goa,Kanak,26-03-2018,March,Monday
+B-25655,396,427,44,-31,-3.444444444,-8%,9,Clothing,Saree,COD,Madhya Pradesh,,Indore,Nida,11-05-2018,May,Friday
+B-25979,284,239,142,45,22.5,16%,2,Furniture,Bookcases,EMI,Madhya Pradesh,,Indore,Shivangi,27-01-2018,January,Saturday
+B-26002,276,224,55.2,52,10.4,19%,5,Clothing,Saree,EMI,Delhi,,Delhi,Harsh,08-02-2018,February,Thursday
+B-25635,23,21,11.5,2,1,9%,2,Clothing,Skirt,UPI,Nagaland,,Kohima,Nidhi,26-04-2018,April,Thursday
+B-26084,209,272,52.25,-63,-15.75,-30%,4,Electronics,Electronic Games,COD,Kerala ,,Thiruvananthapuram,Anita,25-03-2018,March,Sunday
+B-25998,50,78,10,-28,-5.6,-56%,5,Furniture,Furnishings,COD,Rajasthan,,Udaipur,Anmol,04-02-2018,February,Sunday
+B-25872,57,30,28.5,27,13.5,47%,2,Clothing,Shirt,COD,Maharashtra,,Mumbai,Saurabh,22-11-2018,November,Thursday
+B-25795,276,297,138,-21,-10.5,-8%,2,Electronics,Phones,EMI,Sikkim,,Gangtok,Sukant,24-09-2018,September,Monday
+B-25902,268,262,134,6,3,2%,2,Furniture,Bookcases,UPI,Maharashtra,,Mumbai,Ishpreet,10-12-2018,December,Monday
+B-25650,269,158,89.66666667,111,37,41%,3,Clothing,Trousers,EMI,Maharashtra,,Mumbai,Chirag,06-05-2018,May,Sunday
+B-25957,209,207,209,2,2,1%,1,Clothing,Saree,COD,Madhya Pradesh,,Indore,Mahima,18-01-2018,January,Thursday
+B-25793,60,72,15,-12,-3,-20%,4,Clothing,Hankerchief,Debit Card,Madhya Pradesh,,Indore,Siddharth,24-09-2018,September,Monday
+B-25654,269,355,134.5,-86,-43,-32%,2,Electronics,Electronic Games,EMI,Maharashtra,,Mumbai,Sabah,10-05-2018,May,Thursday
+B-25750,208,233,104,-25,-12.5,-12%,2,Clothing,Saree,COD,Madhya Pradesh,,Indore,Priyanshu,14-08-2018,August,Tuesday
+B-25835,27,25,13.5,2,1,7%,2,Clothing,Leggings,UPI,Gujarat,,Ahmedabad,Moumita,29-10-2018,October,Monday
+B-25652,206,412,68.66666667,-206,-68.66666667,-100%,3,Clothing,Saree,COD,Goa,,Goa,Tushina,08-05-2018,May,Tuesday
+B-26018,61,53,15.25,8,2,13%,4,Clothing,Hankerchief,Debit Card,Tamil Nadu,,Chennai,Aarushi,14-02-2018,February,Wednesday
+B-25750,212,236,106,-24,-12,-11%,2,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Priyanshu,14-08-2018,August,Tuesday
+B-25840,262,198,43.66666667,64,10.66666667,24%,6,Clothing,Saree,EMI,Karnataka,,Bangalore,Sneha,31-10-2018,October,Wednesday
+B-25756,204,-72,68,276,92,135%,3,Furniture,Bookcases,COD,Maharashtra,,Mumbai,Mohan,20-08-2018,August,Monday
+B-25777,59,105,8.428571429,-46,-6.571428571,-78%,7,Clothing,T-shirt,UPI,Madhya Pradesh,,Indore,Aditi,10-09-2018,September,Monday
+B-25750,199,217,99.5,-18,-9,-9%,2,Clothing,Saree,COD,Madhya Pradesh,,Indore,Priyanshu,14-08-2018,August,Tuesday
+B-25823,59,53,59,6,6,10%,1,Electronics,Accessories,UPI,Maharashtra,,Mumbai,Rohan,18-10-2018,October,Thursday
+B-26096,45,36,15,9,3,20%,3,Clothing,Leggings,UPI,West Bengal,,Kolkata,Atharv,28-03-2018,March,Wednesday
+B-25757,211,192,26.375,19,2.375,9%,8,Clothing,Stole,COD,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25698,65,81,32.5,-16,-8,-25%,2,Electronics,Phones,Debit Card,Tamil Nadu,,Chennai,Amisha,23-06-2018,June,Saturday
+B-25710,25,25,6.25,0,0,0%,4,Clothing,Skirt,UPI,Maharashtra,,Pune,Megha,05-07-2018,July,Thursday
+B-25994,196,203,39.2,-7,-1.4,-4%,5,Electronics,Phones,COD,Delhi,,Delhi,Omkar,03-02-2018,February,Saturday
+B-25950,261,248,43.5,13,2.166666667,5%,6,Clothing,Shirt,Credit Card,Madhya Pradesh,,Indore,Shruti,13-01-2018,January,Saturday
+B-25653,195,312,39,-117,-23.4,-60%,5,Electronics,Phones,COD,Nagaland,,Kohima,Farah,08-05-2018,May,Tuesday
+B-25785,192,338,64,-146,-48.66666667,-76%,3,Clothing,Saree,COD,West Bengal,,Kolkata,Ayush,15-09-2018,September,Saturday
+B-25863,189,102,27,87,12.42857143,46%,7,Clothing,Stole,COD,Kerala ,,Thiruvananthapuram,Manibalan,15-11-2018,November,Thursday
+B-25959,32,30,16,2,1,6%,2,Clothing,Kurti,UPI,Madhya Pradesh,,Indore,Muskan,18-01-2018,January,Thursday
+B-25991,188,175,26.85714286,13,1.857142857,7%,7,Clothing,Shirt,COD,Madhya Pradesh,,Indore,Mansi,03-02-2018,February,Saturday
+B-25680,73,98,24.33333333,-25,-8.333333333,-34%,3,Clothing,Saree,COD,Madhya Pradesh,,Indore,Aayushi,04-06-2018,June,Monday
+B-25910,259,212,51.8,47,9.4,18%,5,Clothing,Hankerchief,Credit Card,Delhi,,Delhi,Jay,14-12-2018,December,Friday
+B-25737,187,202,62.33333333,-15,-5,-8%,3,Clothing,Trousers,COD,Madhya Pradesh,,Indore,Shubham,01-08-2018,August,Wednesday
+B-25853,26,15,13,11,5.5,42%,2,Clothing,Hankerchief,UPI,Gujarat,,Ahmedabad,Gaurav,08-11-2018,November,Thursday
+B-26097,185,211,30.83333333,-26,-4.333333333,-14%,6,Furniture,Chairs,COD,Karnataka,,Bangalore,Vini,28-03-2018,March,Wednesday
+B-25875,248,240,124,8,4,3%,2,Clothing,Saree,Credit Card,Uttar Pradesh,,Prayagraj,Divyeshkumar,24-11-2018,November,Saturday
+B-26031,67,58,16.75,9,2.25,13%,4,Clothing,Leggings,Debit Card,Madhya Pradesh,,Bhopal,Deepak,22-02-2018,February,Thursday
+B-25773,248,318,82.66666667,-70,-23.33333333,-28%,3,Furniture,Chairs,Credit Card,Kerala ,,Thiruvananthapuram,Shreya,06-09-2018,September,Thursday
+B-25840,246,185,123,61,30.5,25%,2,Furniture,Bookcases,Credit Card,Karnataka,,Bangalore,Sneha,31-10-2018,October,Wednesday
+B-25908,179,204,35.8,-25,-5,-14%,5,Clothing,Kurti,COD,Delhi,,Delhi,Pradeep,12-12-2018,December,Wednesday
+B-26041,176,204,35.2,-28,-5.6,-16%,5,Furniture,Furnishings,COD,Haryana,,Chandigarh,Ritu,27-02-2018,February,Tuesday
+B-26010,176,189,35.2,-13,-2.6,-7%,5,Furniture,Furnishings,COD,Bihar,,Patna,Kartikay,11-02-2018,February,Sunday
+B-25640,68,130,34,-62,-31,-91%,2,Clothing,Trousers,Debit Card,Rajasthan,,Jaipur,Paridhi,27-04-2018,April,Friday
+B-25794,176,139,29.33333333,37,6.166666667,21%,6,Electronics,Accessories,COD,Himachal Pradesh,,Simla,Aditya,24-09-2018,September,Monday
+B-25987,88,77,12.57142857,11,1.571428571,13%,7,Clothing,Hankerchief,UPI,Delhi,,Delhi,Manjiri,31-01-2018,January,Wednesday
+B-25615,68,48,13.6,20,4,29%,5,Clothing,Hankerchief,Debit Card,Sikkim,,Gangtok,Bhavna,15-04-2018,April,Sunday
+B-25997,231,132,115.5,99,49.5,43%,2,Electronics,Electronic Games,Credit Card,Maharashtra,,Pune,Yogesh,04-02-2018,February,Sunday
+B-25981,62,54,31,8,4,13%,2,Clothing,T-shirt,UPI,Delhi,,Delhi,Amruta,28-01-2018,January,Sunday
+B-25791,175,98,58.33333333,77,25.66666667,44%,3,Clothing,Saree,COD,Kerala ,,Thiruvananthapuram,Avish,24-09-2018,September,Monday
+B-25986,71,67,14.2,4,0.8,6%,5,Clothing,Leggings,Debit Card,Rajasthan,,Udaipur,Shweta,31-01-2018,January,Wednesday
+B-25652,174,244,58,-70,-23.33333333,-40%,3,Electronics,Accessories,COD,Goa,,Goa,Tushina,08-05-2018,May,Tuesday
+B-25952,173,104,57.66666667,69,23,40%,3,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Priyanka,13-01-2018,January,Saturday
+B-25898,171,169,85.5,2,1,1%,2,Electronics,Electronic Games,COD,Rajasthan,,Udaipur,Abhishek,07-12-2018,December,Friday
+B-25785,268,293,89.33333333,-25,-8.333333333,-9%,3,Clothing,Saree,COD,West Bengal,,Kolkata,Ayush,15-09-2018,September,Saturday
+B-25990,71,39,23.66666667,32,10.66666667,45%,3,Clothing,Saree,Debit Card,Delhi,,Delhi,Mugdha,02-02-2018,February,Friday
+B-26091,29,19,7.25,10,2.5,34%,4,Clothing,Hankerchief,UPI,Andhra Pradesh,,Hyderabad,Manju,27-03-2018,March,Tuesday
+B-25604,65,48,32.5,17,8.5,26%,2,Clothing,T-shirt,UPI,Rajasthan,,Jaipur,Divsha,03-04-2018,April,Tuesday
+B-25754,72,118,10.28571429,-46,-6.571428571,-64%,7,Clothing,Kurti,Debit Card,Bihar,,Patna,Akshay,18-08-2018,August,Saturday
+B-25724,168,219,84,-51,-25.5,-30%,2,Furniture,Bookcases,COD,Madhya Pradesh,,Indore,Sheetal,19-07-2018,July,Thursday
+B-25757,165,135,55,30,10,18%,3,Clothing,Stole,COD,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25767,74,133,37,-59,-29.5,-80%,2,Electronics,Accessories,Debit Card,West Bengal,,Kolkata,Ashmeet,31-08-2018,August,Friday
+B-25886,89,72,44.5,17,8.5,19%,2,Clothing,Stole,UPI,Rajasthan,,Udaipur,Brijesh,28-11-2018,November,Wednesday
+B-25621,228,165,76,63,21,28%,3,Electronics,Electronic Games,Credit Card,Madhya Pradesh,,Bhopal,Deepak,20-04-2018,April,Friday
+B-25967,119,143,29.75,-24,-6,-20%,4,Furniture,Furnishings,COD,Uttar Pradesh,,Prayagraj,Sudevi,21-01-2018,January,Sunday
+B-25691,75,100,25,-25,-8.333333333,-33%,3,Clothing,Stole,UPI,Maharashtra,,Mumbai,Akancha,16-06-2018,June,Saturday
+B-25953,67,47,16.75,20,5,30%,4,Clothing,T-shirt,UPI,Andhra Pradesh,,Hyderabad,Krutika,14-01-2018,January,Sunday
+B-25651,7,7,7,0,0,0%,1,Clothing,Leggings,COD,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25828,222,187,44.4,35,7,16%,5,Clothing,Saree,Credit Card,Punjab,,Chandigarh,Nikita,24-10-2018,October,Wednesday
+B-25628,219,228,54.75,-9,-2.25,-4%,4,Clothing,Saree,Credit Card,Bihar,,Patna,Pooja,24-04-2018,April,Tuesday
+B-25703,42,65,21,-23,-11.5,-55%,2,Furniture,Furnishings,UPI,Madhya Pradesh,,Indore,Ekta,28-06-2018,June,Thursday
+B-25929,216,351,72,-135,-45,-63%,3,Furniture,Chairs,Credit Card,Kerala ,,Thiruvananthapuram,Girase,02-01-2018,January,Tuesday
+B-25748,47,68,23.5,-21,-10.5,-45%,2,Electronics,Electronic Games,COD,Rajasthan,,Jaipur,Nitant,12-08-2018,August,Sunday
+B-25610,68,123,13.6,-55,-11,-81%,5,Electronics,Accessories,UPI,Bihar,,Patna,Yogesh,09-04-2018,April,Monday
+B-25903,74,41,37,33,16.5,45%,2,Clothing,Shirt,Debit Card,Madhya Pradesh,,Indore,Amlan,10-12-2018,December,Monday
+B-25878,165,119,55,46,15.33333333,28%,3,Furniture,Furnishings,COD,Maharashtra,,Mumbai,Mrinal,24-11-2018,November,Saturday
+B-26056,101,90,50.5,11,5.5,11%,2,Clothing,Hankerchief,UPI,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-26004,162,89,81,73,36.5,45%,2,Electronics,Electronic Games,COD,Rajasthan,,Jaipur,Nandita,08-02-2018,February,Thursday
+B-25699,20,42,20,-22,-22,-110%,1,Furniture,Furnishings,UPI,Uttar Pradesh,,Lucknow,Kritika,24-06-2018,June,Sunday
+B-26053,162,107,54,55,18.33333333,34%,3,Clothing,Stole,COD,Jammu and Kashmir,,Kashmir,Kirti,09-03-2018,March,Friday
+B-25654,229,252,114.5,-23,-11.5,-10%,2,Clothing,Saree,UPI,Maharashtra,,Mumbai,Sabah,10-05-2018,May,Thursday
+B-25954,27,27,13.5,0,0,0%,2,Clothing,Leggings,COD,Gujarat,,Ahmedabad,Trupti,14-01-2018,January,Sunday
+B-25910,685,678,97.85714286,7,1,1%,7,Clothing,Trousers,UPI,Delhi,,Delhi,Jay,14-12-2018,December,Friday
+B-26064,75,73,15,2,0.4,3%,5,Clothing,Leggings,Debit Card,Maharashtra,,Mumbai,Ankita,16-03-2018,March,Friday
+B-25983,161,390,20.125,-229,-28.625,-142%,8,Furniture,Furnishings,COD,Delhi,,Delhi,Atul,30-01-2018,January,Tuesday
+B-26002,71,52,23.66666667,19,6.333333333,27%,3,Clothing,T-shirt,COD,Delhi,,Delhi,Harsh,08-02-2018,February,Thursday
+B-25650,211,316,105.5,-105,-52.5,-50%,2,Clothing,Saree,Credit Card,Maharashtra,,Mumbai,Chirag,06-05-2018,May,Sunday
+B-26043,79,74,13.16666667,5,0.833333333,6%,6,Clothing,Hankerchief,Debit Card,Sikkim,,Gangtok,Amit,01-03-2018,March,Thursday
+B-25657,32,54,6.4,-22,-4.4,-69%,5,Clothing,Saree,UPI,Madhya Pradesh,,Bhopal,Tulika,13-05-2018,May,Sunday
+B-25838,161,121,53.66666667,40,13.33333333,25%,3,Clothing,Stole,COD,Madhya Pradesh,,Indore,Sanjana,29-10-2018,October,Monday
+B-25651,159,155,159,4,4,3%,1,Clothing,Saree,COD,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25808,210,260,52.5,-50,-12.5,-24%,4,Clothing,Hankerchief,Credit Card,Bihar,,Patna,Apsingekar,08-10-2018,October,Monday
+B-25973,79,40,39.5,39,19.5,49%,2,Clothing,Shirt,Debit Card,Uttar Pradesh,,Mathura,Madan Mohan,24-01-2018,January,Wednesday
+B-25698,207,54,69,153,51,74%,3,Clothing,Saree,Credit Card,Tamil Nadu,,Chennai,Amisha,23-06-2018,June,Saturday
+B-25818,36,36,9,0,0,0%,4,Clothing,Kurti,COD,Madhya Pradesh,,Indore,Sandeep,14-10-2018,October,Sunday
+B-26061,206,194,206,12,12,6%,1,Electronics,Printers,Credit Card,Madhya Pradesh,,Indore,Anurag,14-03-2018,March,Wednesday
+B-25878,46,46,11.5,0,0,0%,4,Clothing,Leggings,COD,Maharashtra,,Mumbai,Mrinal,24-11-2018,November,Saturday
+B-26054,156,133,52,23,7.666666667,15%,3,Clothing,Stole,COD,Maharashtra,,Mumbai,Mayank,10-03-2018,March,Saturday
+B-25809,154,100,51.33333333,54,18,35%,3,Clothing,Hankerchief,COD,Kerala ,,Thiruvananthapuram,Suman,09-10-2018,October,Tuesday
+B-26042,36,21,12,15,5,42%,3,Clothing,Stole,UPI,Himachal Pradesh,,Simla,Manish,28-02-2018,February,Wednesday
+B-26008,206,155,51.5,51,12.75,25%,4,Clothing,Hankerchief,Credit Card,Tamil Nadu,,Chennai,Kalyani,09-02-2018,February,Friday
+B-25927,200,193,50,7,1.75,4%,4,Electronics,Electronic Games,Credit Card,Uttar Pradesh,,Lucknow,Shreya,31-12-2018,December,Monday
+B-26008,199,200,199,-1,-1,-1%,1,Clothing,Saree,Credit Card,Tamil Nadu,,Chennai,Kalyani,09-02-2018,February,Friday
+B-25753,154,132,22,22,3.142857143,14%,7,Clothing,T-shirt,COD,Uttar Pradesh,,Lucknow,Shivam,17-08-2018,August,Friday
+B-25948,152,129,50.66666667,23,7.666666667,15%,3,Furniture,Furnishings,COD,Maharashtra,,Pune,Mukund,13-01-2018,January,Saturday
+B-26094,152,102,25.33333333,50,8.333333333,33%,6,Clothing,Stole,COD,Madhya Pradesh,,Bhopal,Deepak,27-03-2018,March,Tuesday
+B-25654,122,143,40.66666667,-21,-7,-17%,3,Furniture,Furnishings,UPI,Maharashtra,,Mumbai,Sabah,10-05-2018,May,Thursday
+B-25854,149,101,24.83333333,48,8,32%,6,Clothing,Stole,COD,Maharashtra,,Pune,Shubham,08-11-2018,November,Thursday
+B-25623,149,236,37.25,-87,-21.75,-58%,4,Clothing,Saree,COD,West Bengal,,Kolkata,Atharv,22-04-2018,April,Sunday
+B-25985,197,177,49.25,20,5,10%,4,Clothing,Kurti,Credit Card,Madhya Pradesh,,Indore,Ginny,31-01-2018,January,Wednesday
+B-25723,76,130,25.33333333,-54,-18,-71%,3,Electronics,Electronic Games,COD,Maharashtra,,Mumbai,Wale,18-07-2018,July,Wednesday
+B-25751,221,236,110.5,-15,-7.5,-7%,2,Electronics,Electronic Games,COD,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-26050,79,47,26.33333333,32,10.66666667,41%,3,Clothing,Saree,Debit Card,Rajasthan,,Jaipur,Paridhi,06-03-2018,March,Tuesday
+B-25800,45,33,6.428571429,12,1.714285714,27%,7,Clothing,Hankerchief,UPI,Maharashtra,,Pune,Ishit,01-10-2018,October,Monday
+B-25673,149,150,149,-1,-1,-1%,1,Clothing,Saree,COD,Gujarat,,Ahmedabad,Arsheen,28-05-2018,May,Monday
+B-26002,80,58,26.66666667,22,7.333333333,28%,3,Clothing,Stole,Debit Card,Delhi,,Delhi,Harsh,08-02-2018,February,Thursday
+B-26009,195,183,21.66666667,12,1.333333333,6%,9,Clothing,Shirt,Credit Card,Uttar Pradesh,,Lucknow,Komal,10-02-2018,February,Saturday
+B-25754,19,19,6.333333333,0,0,0%,3,Clothing,Skirt,UPI,Bihar,,Patna,Akshay,18-08-2018,August,Saturday
+B-25953,81,40,27,41,13.66666667,51%,3,Clothing,Stole,Debit Card,Andhra Pradesh,,Hyderabad,Krutika,14-01-2018,January,Sunday
+B-26039,83,49,16.6,34,6.8,41%,5,Clothing,Shirt,Debit Card,Kerala ,,Thiruvananthapuram,Hemant,25-02-2018,February,Sunday
+B-26001,149,132,37.25,17,4.25,11%,4,Furniture,Furnishings,COD,Delhi,,Delhi,Patil,07-02-2018,February,Wednesday
+B-25620,193,147,193,46,46,24%,1,Electronics,Printers,Credit Card,Maharashtra,,Pune,Sarita,20-04-2018,April,Friday
+B-26051,85,61,8.5,24,2.4,28%,10,Clothing,Hankerchief,Debit Card,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-25673,44,61,8.8,-17,-3.4,-39%,5,Clothing,Saree,UPI,Gujarat,,Ahmedabad,Arsheen,28-05-2018,May,Monday
+B-25721,149,189,74.5,-40,-20,-27%,2,Electronics,Phones,COD,Haryana,,Chandigarh,Anchal,16-07-2018,July,Monday
+B-25764,26,26,13,0,0,0%,2,Clothing,Kurti,COD,Maharashtra,,Pune,Sanjova,28-08-2018,August,Tuesday
+B-25645,86,86,21.5,0,0,0%,4,Clothing,T-shirt,Debit Card,Madhya Pradesh,,Indore,Yaanvi,01-05-2018,May,Tuesday
+B-26066,86,64,43,22,11,26%,2,Clothing,Saree,Debit Card,Maharashtra,,Pune,Priyanka,16-03-2018,March,Friday
+B-26003,79,63,26.33333333,16,5.333333333,20%,3,Clothing,T-shirt,COD,Madhya Pradesh,,Bhopal,Hitesh,08-02-2018,February,Thursday
+B-25712,193,468,64.33333333,-275,-91.66666667,-142%,3,Electronics,Phones,Credit Card,Rajasthan,,Jaipur,Adhvaita,07-07-2018,July,Saturday
+B-25796,148,148,49.33333333,0,0,0%,3,Clothing,Saree,COD,Maharashtra,,Mumbai,Sukrith,24-09-2018,September,Monday
+B-25738,70,84,35,-14,-7,-20%,2,Furniture,Furnishings,UPI,Punjab,,Chandigarh,Ayush,02-08-2018,August,Thursday
+B-25771,148,89,49.33333333,59,19.66666667,40%,3,Clothing,Hankerchief,COD,Uttar Pradesh,,Lucknow,Vaibhavi,02-09-2018,September,Sunday
+B-25950,190,171,21.11111111,19,2.111111111,10%,9,Furniture,Furnishings,Credit Card,Madhya Pradesh,,Indore,Shruti,13-01-2018,January,Saturday
+B-26038,52,38,26,14,7,27%,2,Clothing,Stole,COD,Bihar,,Patna,Pooja,24-02-2018,February,Saturday
+B-26004,147,103,49,44,14.66666667,30%,3,Clothing,Saree,COD,Rajasthan,,Jaipur,Nandita,08-02-2018,February,Thursday
+B-25896,190,122,23.75,68,8.5,36%,8,Clothing,T-shirt,Credit Card,Maharashtra,,Mumbai,Aman,05-12-2018,December,Wednesday
+B-25601,80,136,20,-56,-14,-70%,4,Electronics,Electronic Games,UPI,Gujarat,,Ahmedabad,Bharat,01-04-2018,April,Sunday
+B-25952,147,99,49,48,16,33%,3,Clothing,Saree,COD,Madhya Pradesh,,Indore,Priyanka,13-01-2018,January,Saturday
+B-25873,66,54,22,12,4,18%,3,Clothing,Stole,COD,Madhya Pradesh,,Indore,Divyeta,23-11-2018,November,Friday
+B-25844,86,78,43,8,4,9%,2,Clothing,Saree,Debit Card,Madhya Pradesh,,Indore,Swati,03-11-2018,November,Saturday
+B-26054,88,69,44,19,9.5,22%,2,Clothing,Shirt,Debit Card,Maharashtra,,Mumbai,Mayank,10-03-2018,March,Saturday
+B-25953,188,381,94,-193,-96.5,-103%,2,Electronics,Electronic Games,Credit Card,Andhra Pradesh,,Hyderabad,Krutika,14-01-2018,January,Sunday
+B-25951,89,60,44.5,29,14.5,33%,2,Clothing,Stole,UPI,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-26065,146,127,29.2,19,3.8,13%,5,Clothing,Stole,COD,Madhya Pradesh,,Indore,Nida,16-03-2018,March,Friday
+B-26033,143,111,143,32,32,22%,1,Furniture,Bookcases,COD,West Bengal,,Kolkata,Atharv,22-02-2018,February,Thursday
+B-25781,25,26,6.25,-1,-0.25,-4%,4,Clothing,Kurti,COD,Gujarat,,Ahmedabad,Rutuja,14-09-2018,September,Friday
+B-26043,30,18,10,12,4,40%,3,Clothing,Skirt,UPI,Sikkim,,Gangtok,Amit,01-03-2018,March,Thursday
+B-25787,140,198,35,-58,-14.5,-41%,4,Furniture,Furnishings,COD,Jammu and Kashmir,,Kashmir,Asish,20-09-2018,September,Thursday
+B-25664,83,131,83,-48,-48,-58%,1,Furniture,Bookcases,UPI,Bihar,,Patna,Pratyusmita,20-05-2018,May,Sunday
+B-25825,140,134,28,6,1.2,4%,5,Clothing,Saree,COD,Madhya Pradesh,,Indore,Kartik,21-10-2018,October,Sunday
+B-25818,28,14,7,14,3.5,50%,4,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Sandeep,14-10-2018,October,Sunday
+B-25765,139,125,46.33333333,14,4.666666667,10%,3,Clothing,Stole,COD,Madhya Pradesh,,Bhopal,Meghana,29-08-2018,August,Wednesday
+B-25853,30,16,10,14,4.666666667,47%,3,Clothing,Hankerchief,UPI,Gujarat,,Ahmedabad,Gaurav,08-11-2018,November,Thursday
+B-26030,89,53,29.66666667,36,12,40%,3,Clothing,Shirt,UPI,Maharashtra,,Pune,Sarita,21-02-2018,February,Wednesday
+B-25730,187,157,46.75,30,7.5,16%,4,Electronics,Accessories,Credit Card,Rajasthan,,Jaipur,Rishabh,22-07-2018,July,Sunday
+B-26054,139,118,46.33333333,21,7,15%,3,Electronics,Accessories,COD,Maharashtra,,Mumbai,Mayank,10-03-2018,March,Saturday
+B-25773,437,451,218.5,-14,-7,-3%,2,Clothing,Saree,UPI,Kerala ,,Thiruvananthapuram,Shreya,06-09-2018,September,Thursday
+B-25717,138,141,27.6,-3,-0.6,-2%,5,Clothing,Saree,COD,Uttar Pradesh,,Lucknow,Manshul,12-07-2018,July,Thursday
+B-26010,85,72,42.5,13,6.5,15%,2,Clothing,Shirt,UPI,Bihar,,Patna,Kartikay,11-02-2018,February,Sunday
+B-25893,83,71,27.66666667,12,4,14%,3,Clothing,Stole,UPI,Uttar Pradesh,,Mathura,Vrinda,04-12-2018,December,Tuesday
+B-26076,91,69,45.5,22,11,24%,2,Clothing,Stole,UPI,Madhya Pradesh,,Bhopal,Jahan,21-03-2018,March,Wednesday
+B-25803,137,132,27.4,5,1,4%,5,Clothing,Shirt,COD,Madhya Pradesh,,Indore,Shivanshu,05-10-2018,October,Friday
+B-25709,33,45,4.714285714,-12,-1.714285714,-36%,7,Clothing,Saree,UPI,Madhya Pradesh,,Indore,Aakanksha,01-07-2018,July,Sunday
+B-25755,134,168,67,-34,-17,-25%,2,Furniture,Chairs,COD,Kerala ,,Thiruvananthapuram,Shourya,19-08-2018,August,Sunday
+B-25684,134,92,67,42,21,31%,2,Furniture,Chairs,COD,Maharashtra,,Mumbai,Samiksha,09-06-2018,June,Saturday
+B-25739,133,189,66.5,-56,-28,-42%,2,Furniture,Chairs,COD,Haryana,,Chandigarh,Daksh,03-08-2018,August,Friday
+B-26081,93,177,31,-84,-28,-90%,3,Clothing,Saree,UPI,Tamil Nadu,,Chennai,Aarushi,22-03-2018,March,Thursday
+B-25662,86,107,86,-21,-21,-24%,1,Electronics,Electronic Games,UPI,Maharashtra,,Mumbai,Sweta,17-05-2018,May,Thursday
+B-25845,132,78,26.4,54,10.8,41%,5,Clothing,Stole,COD,Kerala ,,Thiruvananthapuram,Snel,03-11-2018,November,Saturday
+B-26085,132,142,44,-10,-3.333333333,-8%,3,Clothing,Saree,COD,Punjab,,Chandigarh,Shrichand,26-03-2018,March,Monday
+B-25745,132,211,26.4,-79,-15.8,-60%,5,Furniture,Furnishings,COD,Gujarat,,Ahmedabad,Kartik,09-08-2018,August,Thursday
+B-25999,93,158,23.25,-65,-16.25,-70%,4,Clothing,Stole,UPI,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-26082,95,90,47.5,5,2.5,5%,2,Clothing,Stole,UPI,Uttar Pradesh,,Lucknow,Jitesh,23-03-2018,March,Friday
+B-26097,97,85,48.5,12,6,12%,2,Clothing,Hankerchief,UPI,Karnataka,,Bangalore,Vini,28-03-2018,March,Wednesday
+B-25731,131,285,16.375,-154,-19.25,-118%,8,Furniture,Furnishings,COD,West Bengal,,Kolkata,Akash,26-07-2018,July,Thursday
+B-25625,97,68,48.5,29,14.5,30%,2,Clothing,Hankerchief,UPI,Jammu and Kashmir,,Kashmir,Pinky,23-04-2018,April,Monday
+B-25853,128,124,42.66666667,4,1.333333333,3%,3,Clothing,Saree,COD,Gujarat,,Ahmedabad,Gaurav,08-11-2018,November,Thursday
+B-25703,186,-55,20.66666667,241,26.77777778,130%,9,Clothing,Shirt,Credit Card,Madhya Pradesh,,Indore,Ekta,28-06-2018,June,Thursday
+B-26003,128,81,32,47,11.75,37%,4,Clothing,Hankerchief,COD,Madhya Pradesh,,Bhopal,Hitesh,08-02-2018,February,Thursday
+B-25803,185,137,46.25,48,12,26%,4,Clothing,Stole,Credit Card,Madhya Pradesh,,Indore,Shivanshu,05-10-2018,October,Friday
+B-25719,29,19,14.5,10,5,34%,2,Clothing,Stole,COD,Madhya Pradesh,,Indore,Rashmi,12-07-2018,July,Thursday
+B-25883,127,98,42.33333333,29,9.666666667,23%,3,Furniture,Furnishings,COD,Gujarat,,Surat,Saptadeep,27-11-2018,November,Tuesday
+B-25891,97,61,13.85714286,36,5.142857143,37%,7,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Shivani,04-12-2018,December,Tuesday
+B-25821,125,125,41.66666667,0,0,0%,3,Electronics,Accessories,COD,West Bengal,,Kolkata,Ajay,16-10-2018,October,Tuesday
+B-25646,299,307,149.5,-8,-4,-3%,2,Clothing,Saree,COD,Bihar,,Patna,Sonal,01-05-2018,May,Tuesday
+B-25874,124,70,24.8,54,10.8,44%,5,Clothing,T-shirt,COD,Rajasthan,,Udaipur,Megha,24-11-2018,November,Saturday
+B-25717,90,73,30,17,5.666666667,19%,3,Clothing,Shirt,COD,Uttar Pradesh,,Lucknow,Manshul,12-07-2018,July,Thursday
+B-26073,122,111,30.5,11,2.75,9%,4,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Pournamasi,21-03-2018,March,Wednesday
+B-25800,122,188,13.55555556,-66,-7.333333333,-54%,9,Electronics,Accessories,COD,Maharashtra,,Pune,Ishit,01-10-2018,October,Monday
+B-25991,90,60,45,30,15,33%,2,Furniture,Chairs,UPI,Madhya Pradesh,,Indore,Mansi,03-02-2018,February,Saturday
+B-25638,182,193,60.66666667,-11,-3.666666667,-6%,3,Furniture,Bookcases,Credit Card,Maharashtra,,Pune,Parth,26-04-2018,April,Thursday
+B-26021,122,63,17.42857143,59,8.428571429,48%,7,Furniture,Furnishings,COD,Kerala ,,Thiruvananthapuram,Anita,17-02-2018,February,Saturday
+B-25882,121,102,30.25,19,4.75,16%,4,Clothing,Stole,COD,Punjab,,Amritsar,Masurkar,26-11-2018,November,Monday
+B-26053,120,119,120,1,1,1%,1,Furniture,Chairs,COD,Jammu and Kashmir,,Kashmir,Kirti,09-03-2018,March,Friday
+B-25951,120,97,24,23,4.6,19%,5,Clothing,Stole,COD,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-25757,34,45,6.8,-11,-2.2,-32%,5,Clothing,T-shirt,COD,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25777,117,100,19.5,17,2.833333333,15%,6,Clothing,Kurti,COD,Madhya Pradesh,,Indore,Aditi,10-09-2018,September,Monday
+B-26040,38,29,19,9,4.5,24%,2,Clothing,Stole,COD,Punjab,,Chandigarh,Sahil,26-02-2018,February,Monday
+B-25696,117,123,39,-6,-2,-5%,3,Electronics,Phones,COD,Karnataka,,Bangalore,Noopur,21-06-2018,June,Thursday
+B-25977,180,126,45,54,13.5,30%,4,Clothing,T-shirt,Credit Card,Gujarat,,Surat,Aayushi,27-01-2018,January,Saturday
+B-25743,99,104,99,-5,-5,-5%,1,Clothing,Saree,UPI,Nagaland,,Kohima,Aman,07-08-2018,August,Tuesday
+B-25651,172,275,57.33333333,-103,-34.33333333,-60%,3,Furniture,Chairs,EMI,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25603,116,100,29,16,4,14%,4,Clothing,Stole,COD,Madhya Pradesh,,Bhopal,Jahan,03-04-2018,April,Tuesday
+B-25696,116,120,116,-4,-4,-3%,1,Clothing,Saree,COD,Karnataka,,Bangalore,Noopur,21-06-2018,June,Thursday
+B-26037,171,103,24.42857143,68,9.714285714,40%,7,Clothing,Stole,EMI,Madhya Pradesh,,Indore,Hitika,23-02-2018,February,Friday
+B-26098,46,32,9.2,14,2.8,30%,5,Clothing,Skirt,COD,Jammu and Kashmir,,Kashmir,Pinky,29-03-2018,March,Thursday
+B-25697,115,154,38.33333333,-39,-13,-34%,3,Clothing,Trousers,COD,Jammu and Kashmir,,Kashmir,Vijay,22-06-2018,June,Friday
+B-25920,100,93,50,7,3.5,7%,2,Clothing,T-shirt,UPI,Uttar Pradesh,,Prayagraj,Jayanti,24-12-2018,December,Monday
+B-25993,44,36,22,8,4,18%,2,Clothing,Stole,COD,Delhi,,Delhi,Madhav,03-02-2018,February,Saturday
+B-26089,139,125,46.33333333,14,4.666666667,10%,3,Clothing,Kurti,COD,Goa,,Goa,Kanak,26-03-2018,March,Monday
+B-25960,171,311,85.5,-140,-70,-82%,2,Furniture,Bookcases,EMI,Andhra Pradesh,,Hyderabad,Shreya,18-01-2018,January,Thursday
+B-25917,100,88,50,12,6,12%,2,Clothing,T-shirt,UPI,Maharashtra,,Mumbai,Sanjay,21-12-2018,December,Friday
+B-25825,115,90,19.16666667,25,4.166666667,22%,6,Clothing,Stole,COD,Madhya Pradesh,,Indore,Kartik,21-10-2018,October,Sunday
+B-25696,168,177,56,-9,-3,-5%,3,Clothing,Saree,COD,Karnataka,,Bangalore,Noopur,21-06-2018,June,Thursday
+B-25972,115,68,57.5,47,23.5,41%,2,Electronics,Accessories,COD,Rajasthan,,Udaipur,Jesslyn,23-01-2018,January,Tuesday
+B-25602,168,279,84,-111,-55.5,-66%,2,Electronics,Phones,EMI,Maharashtra,,Pune,Vrinda,01-04-2018,April,Sunday
+B-25736,31,38,6.2,-7,-1.4,-23%,5,Clothing,Skirt,UPI,Maharashtra,,Mumbai,Akshat,31-07-2018,July,Tuesday
+B-26003,114,73,19,41,6.833333333,36%,6,Furniture,Furnishings,COD,Madhya Pradesh,,Bhopal,Hitesh,08-02-2018,February,Thursday
+B-25970,111,102,27.75,9,2.25,8%,4,Clothing,Stole,COD,Maharashtra,,Mumbai,Rhea,22-01-2018,January,Monday
+B-25742,11,19,5.5,-8,-4,-73%,2,Clothing,Skirt,UPI,Goa,,Goa,Ashwin,03-08-2018,August,Friday
+B-25770,110,75,110,35,35,32%,1,Furniture,Furnishings,COD,Madhya Pradesh,,Indore,Sakshi,02-09-2018,September,Sunday
+B-26098,59,44,29.5,15,7.5,25%,2,Clothing,T-shirt,UPI,Jammu and Kashmir,,Kashmir,Pinky,29-03-2018,March,Thursday
+B-26050,166,139,83,27,13.5,16%,2,Electronics,Accessories,EMI,Rajasthan,,Jaipur,Paridhi,06-03-2018,March,Tuesday
+B-25778,109,115,18.16666667,-6,-1,-6%,6,Clothing,Saree,COD,Maharashtra,,Mumbai,Surabhi,11-09-2018,September,Tuesday
+B-25652,34,40,8.5,-6,-1.5,-18%,4,Clothing,Leggings,COD,Goa,,Goa,Tushina,08-05-2018,May,Tuesday
+B-25999,109,69,109,40,40,37%,1,Furniture,Furnishings,COD,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-25909,108,86,36,22,7.333333333,20%,3,Electronics,Accessories,COD,Maharashtra,,Pune,Sujay,13-12-2018,December,Thursday
+B-25823,103,53,51.5,50,25,49%,2,Furniture,Furnishings,UPI,Maharashtra,,Mumbai,Rohan,18-10-2018,October,Thursday
+B-25701,10,18,5,-8,-4,-80%,2,Clothing,Skirt,COD,Madhya Pradesh,,Indore,Maithilee,26-06-2018,June,Tuesday
+B-25855,90,73,30,17,5.666666667,19%,3,Clothing,Hankerchief,COD,Madhya Pradesh,,Bhopal,Abhijeet,08-11-2018,November,Thursday
+B-25654,105,59,52.5,46,23,44%,2,Clothing,Stole,UPI,Maharashtra,,Mumbai,Sabah,10-05-2018,May,Thursday
+B-25623,105,85,52.5,20,10,19%,2,Clothing,Stole,Debit Card,West Bengal,,Kolkata,Atharv,22-04-2018,April,Sunday
+B-25641,22,28,22,-6,-6,-27%,1,Furniture,Furnishings,COD,West Bengal,,Kolkata,Parishi,27-04-2018,April,Friday
+B-25852,105,138,21,-33,-6.6,-31%,5,Clothing,Kurti,COD,Andhra Pradesh,,Hyderabad,Soumyabrata,07-11-2018,November,Wednesday
+B-25958,105,80,52.5,25,12.5,24%,2,Clothing,Hankerchief,EMI,West Bengal,,Kolkata,Aparajita,18-01-2018,January,Thursday
+B-25802,25,32,5,-7,-1.4,-28%,5,Clothing,Saree,UPI,Maharashtra,,Mumbai,Yash,05-10-2018,October,Friday
+B-25823,104,102,52,2,1,2%,2,Furniture,Furnishings,COD,Maharashtra,,Mumbai,Rohan,18-10-2018,October,Thursday
+B-25834,16,11,16,5,5,31%,1,Clothing,Stole,UPI,Andhra Pradesh,,Hyderabad,Ananya,29-10-2018,October,Monday
+B-25678,64,71,21.33333333,-7,-2.333333333,-11%,3,Clothing,Saree,COD,Karnataka,,Bangalore,Bathina,03-06-2018,June,Sunday
+B-25774,38,44,19,-6,-3,-16%,2,Furniture,Furnishings,UPI,Punjab,,Chandigarh,Snehal,07-09-2018,September,Friday
+B-25904,83,71,41.5,12,6,14%,2,Furniture,Chairs,COD,Delhi,,Delhi,Swapnil,10-12-2018,December,Monday
+B-25896,103,67,51.5,36,18,35%,2,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Aman,05-12-2018,December,Wednesday
+B-25796,37,43,37,-6,-6,-16%,1,Clothing,Saree,UPI,Maharashtra,,Mumbai,Sukrith,24-09-2018,September,Monday
+B-25934,105,72,17.5,33,5.5,31%,6,Clothing,Saree,EMI,Madhya Pradesh,,Indore,Rahul,04-01-2018,January,Thursday
+B-25750,78,84,39,-6,-3,-8%,2,Furniture,Furnishings,UPI,Madhya Pradesh,,Indore,Priyanshu,14-08-2018,August,Tuesday
+B-25761,102,192,102,-90,-90,-88%,1,Clothing,Saree,COD,Uttar Pradesh,,Mathura,Madhav,25-08-2018,August,Saturday
+B-25912,102,91,17,11,1.833333333,11%,6,Clothing,T-shirt,COD,Delhi,,Delhi,Preksha,16-12-2018,December,Sunday
+B-25751,10,18,10,-8,-8,-80%,1,Clothing,Kurti,UPI,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-25656,101,83,11.22222222,18,2,18%,9,Clothing,Skirt,COD,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-25647,42,48,10.5,-6,-1.5,-14%,4,Clothing,Saree,UPI,Kerala ,,Thiruvananthapuram,Sharda,03-05-2018,May,Thursday
+B-25861,56,38,28,18,9,32%,2,Clothing,Hankerchief,UPI,Uttar Pradesh,,Lucknow,Aayush,15-11-2018,November,Thursday
+B-25802,95,90,47.5,5,2.5,5%,2,Clothing,Stole,COD,Maharashtra,,Mumbai,Yash,05-10-2018,October,Friday
+B-25901,159,157,53,2,0.666666667,1%,3,Furniture,Furnishings,EMI,Gujarat,,Surat,Suraj,10-12-2018,December,Monday
+B-25623,158,89,52.66666667,69,23,44%,3,Clothing,Stole,EMI,West Bengal,,Kolkata,Atharv,22-04-2018,April,Sunday
+B-25751,106,106,53,0,0,0%,2,Electronics,Phones,EMI,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-26052,101,85,25.25,16,4,16%,4,Clothing,T-shirt,COD,Karnataka,,Bangalore,Ajay,08-03-2018,March,Thursday
+B-25886,107,70,35.66666667,37,12.33333333,35%,3,Clothing,Shirt,COD,Rajasthan,,Udaipur,Brijesh,28-11-2018,November,Wednesday
+B-25804,156,120,31.2,36,7.2,23%,5,Clothing,T-shirt,EMI,Karnataka,,Bangalore,Sudheer,05-10-2018,October,Friday
+B-25734,108,127,36,-19,-6.333333333,-18%,3,Electronics,Electronic Games,UPI,Madhya Pradesh,,Indore,Pranav,29-07-2018,July,Sunday
+B-25610,107,161,26.75,-54,-13.5,-50%,4,Clothing,Stole,EMI,Bihar,,Patna,Yogesh,09-04-2018,April,Monday
+B-25711,100,158,25,-58,-14.5,-58%,4,Clothing,Hankerchief,COD,Madhya Pradesh,,Bhopal,Sakshi,06-07-2018,July,Friday
+B-25985,108,82,27,26,6.5,24%,4,Clothing,Shirt,UPI,Madhya Pradesh,,Indore,Ginny,31-01-2018,January,Wednesday
+B-25864,100,94,25,6,1.5,6%,4,Clothing,Stole,COD,Maharashtra,,Mumbai,Aromal,15-11-2018,November,Thursday
+B-25648,100,123,100,-23,-23,-23%,1,Electronics,Phones,COD,Punjab,,Chandigarh,Aditya,04-05-2018,May,Friday
+B-26086,43,26,21.5,17,8.5,40%,2,Clothing,T-shirt,UPI,Haryana,,Chandigarh,Mukesh,26-03-2018,March,Monday
+B-25835,155,129,51.66666667,26,8.666666667,17%,3,Clothing,Stole,EMI,Gujarat,,Ahmedabad,Moumita,29-10-2018,October,Monday
+B-25949,151,142,50.33333333,9,3,6%,3,Clothing,Hankerchief,EMI,Maharashtra,,Mumbai,Shantanu,13-01-2018,January,Saturday
+B-25930,151,122,30.2,29,5.8,19%,5,Clothing,Hankerchief,EMI,Punjab,,Chandigarh,Monica,03-01-2018,January,Wednesday
+B-25655,110,178,27.5,-68,-17,-62%,4,Clothing,Saree,EMI,Madhya Pradesh,,Indore,Nida,11-05-2018,May,Friday
+B-25757,98,89,49,9,4.5,9%,2,Furniture,Furnishings,COD,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25655,97,159,48.5,-62,-31,-64%,2,Clothing,Trousers,COD,Madhya Pradesh,,Indore,Nida,11-05-2018,May,Friday
+B-26033,111,76,22.2,35,7,32%,5,Clothing,Shirt,COD,West Bengal,,Kolkata,Atharv,22-02-2018,February,Thursday
+B-26083,45,28,45,17,17,38%,1,Electronics,Accessories,COD,Bihar,,Patna,Yogesh,24-03-2018,March,Saturday
+B-25805,112,97,56,15,7.5,13%,2,Furniture,Chairs,COD,Maharashtra,,Mumbai,Ankit,05-10-2018,October,Friday
+B-25955,110,90,22,20,4,18%,5,Clothing,Stole,Debit Card,Maharashtra,,Pune,Shiva,16-01-2018,January,Tuesday
+B-25762,98,103,49,-5,-2.5,-5%,2,Clothing,Saree,UPI,Madhya Pradesh,,Indore,Anudeep,26-08-2018,August,Sunday
+B-25919,110,98,15.71428571,12,1.714285714,11%,7,Clothing,Stole,Debit Card,Rajasthan,,Udaipur,Neha,23-12-2018,December,Sunday
+B-25853,95,84,23.75,11,2.75,12%,4,Furniture,Furnishings,COD,Gujarat,,Ahmedabad,Gaurav,08-11-2018,November,Thursday
+B-25925,1228,1214,409.3333333,14,4.666666667,1%,3,Furniture,Chairs,UPI,Maharashtra,,Mumbai,Shruti,29-12-2018,December,Saturday
+B-26023,29,29,9.666666667,0,0,0%,3,Furniture,Furnishings,COD,Haryana,,Chandigarh,Mukesh,19-02-2018,February,Monday
+B-26055,94,67,47,27,13.5,29%,2,Clothing,T-shirt,COD,Uttar Pradesh,,Mathura,Harivansh,10-03-2018,March,Saturday
+B-25653,115,90,115,25,25,22%,1,Electronics,Accessories,COD,Nagaland,,Kohima,Farah,08-05-2018,May,Tuesday
+B-25893,149,134,49.66666667,15,5,10%,3,Clothing,Saree,EMI,Uttar Pradesh,,Mathura,Vrinda,04-12-2018,December,Tuesday
+B-26052,148,125,37,23,5.75,16%,4,Clothing,Kurti,EMI,Karnataka,,Bangalore,Ajay,08-03-2018,March,Thursday
+B-25830,93,78,46.5,15,7.5,16%,2,Electronics,Accessories,COD,Himachal Pradesh,,Simla,Aastha,26-10-2018,October,Friday
+B-26040,113,89,28.25,24,6,21%,4,Clothing,Hankerchief,Debit Card,Punjab,,Chandigarh,Sahil,26-02-2018,February,Monday
+B-25981,48,46,16,2,0.666666667,4%,3,Clothing,Stole,COD,Delhi,,Delhi,Amruta,28-01-2018,January,Sunday
+B-25954,148,139,148,9,9,6%,1,Electronics,Electronic Games,UPI,Gujarat,,Ahmedabad,Trupti,14-01-2018,January,Sunday
+B-25889,114,103,28.5,11,2.75,10%,4,Clothing,T-shirt,Debit Card,Gujarat,,Surat,Abhishek,03-12-2018,December,Monday
+B-25810,92,50,46,42,21,46%,2,Clothing,Stole,COD,Punjab,,Chandigarh,Nripraj,10-10-2018,October,Wednesday
+B-25637,117,103,39,14,4.666666667,12%,3,Clothing,Shirt,UPI,Madhya Pradesh,,Indore,Ashmi,26-04-2018,April,Thursday
+B-25801,21,31,5.25,-10,-2.5,-48%,4,Clothing,Leggings,COD,Madhya Pradesh,,Bhopal,Aryan,01-10-2018,October,Monday
+B-25783,33,43,5.5,-10,-1.666666667,-30%,6,Clothing,Leggings,UPI,Madhya Pradesh,,Indore,Shivangi,15-09-2018,September,Saturday
+B-25697,114,106,38,8,2.666666667,7%,3,Electronics,Accessories,Debit Card,Jammu and Kashmir,,Kashmir,Vijay,22-06-2018,June,Friday
+B-26028,115,115,115,0,0,0%,1,Electronics,Accessories,Debit Card,Andhra Pradesh,,Hyderabad,Manju,20-02-2018,February,Tuesday
+B-25851,90,61,18,29,5.8,32%,5,Clothing,T-shirt,COD,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-25938,61,60,30.5,1,0.5,2%,2,Furniture,Furnishings,COD,Himachal Pradesh,,Simla,Shikhar,05-01-2018,January,Friday
+B-25820,119,118,119,1,1,1%,1,Furniture,Chairs,COD,Rajasthan,,Jaipur,Dheeraj,16-10-2018,October,Tuesday
+B-25850,117,81,58.5,36,18,31%,2,Clothing,Trousers,Debit Card,Goa,,Goa,Abhishek,05-11-2018,November,Monday
+B-25924,148,94,74,54,27,36%,2,Furniture,Chairs,UPI,Karnataka,,Bangalore,Prajakta,28-12-2018,December,Friday
+B-25609,249,254,62.25,-5,-1.25,-2%,4,Clothing,Saree,COD,Uttar Pradesh,,Lucknow,Jitesh,09-04-2018,April,Monday
+B-25898,147,74,49,73,24.33333333,50%,3,Clothing,Stole,UPI,Rajasthan,,Udaipur,Abhishek,07-12-2018,December,Friday
+B-25814,118,83,16.85714286,35,5,30%,7,Clothing,T-shirt,EMI,Madhya Pradesh,,Indore,Swapnil,10-10-2018,October,Wednesday
+B-26087,119,63,17,56,8,47%,7,Clothing,Saree,EMI,Himachal Pradesh,,Simla,Vandana,26-03-2018,March,Monday
+B-25901,90,63,45,27,13.5,30%,2,Clothing,T-shirt,COD,Gujarat,,Surat,Suraj,10-12-2018,December,Monday
+B-26025,32,31,16,1,0.5,3%,2,Clothing,Stole,COD,Sikkim,,Gangtok,Bhavna,19-02-2018,February,Monday
+B-25631,89,178,44.5,-89,-44.5,-100%,2,Furniture,Furnishings,COD,Haryana,,Chandigarh,Ritu,24-04-2018,April,Tuesday
+B-25954,146,80,146,66,66,45%,1,Electronics,Phones,UPI,Gujarat,,Ahmedabad,Trupti,14-01-2018,January,Sunday
+B-25956,89,126,22.25,-37,-9.25,-42%,4,Clothing,Shirt,COD,Maharashtra,,Mumbai,Shreya,17-01-2018,January,Wednesday
+B-26096,88,77,29.33333333,11,3.666666667,13%,3,Electronics,Accessories,COD,West Bengal,,Kolkata,Atharv,28-03-2018,March,Wednesday
+B-25862,121,80,30.25,41,10.25,34%,4,Clothing,Stole,EMI,Bihar,,Patna,Amol,15-11-2018,November,Thursday
+B-26054,88,68,44,20,10,23%,2,Clothing,Saree,COD,Maharashtra,,Mumbai,Mayank,10-03-2018,March,Saturday
+B-25698,87,170,17.4,-83,-16.6,-95%,5,Clothing,Kurti,COD,Tamil Nadu,,Chennai,Amisha,23-06-2018,June,Saturday
+B-25606,87,83,43.5,4,2,5%,2,Clothing,Shirt,COD,Karnataka,,Bangalore,Hazel,06-04-2018,April,Friday
+B-25928,122,107,40.66666667,15,5,12%,3,Electronics,Accessories,EMI,Bihar,,Patna,Smriti,01-01-2018,January,Monday
+B-26005,87,77,29,10,3.333333333,11%,3,Clothing,Stole,COD,West Bengal,,Kolkata,Parnavi,08-02-2018,February,Thursday
+B-25963,53,45,17.66666667,8,2.666666667,15%,3,Furniture,Furnishings,UPI,Maharashtra,,Mumbai,Pratiksha,19-01-2018,January,Friday
+B-25952,87,119,9.666666667,-32,-3.555555556,-37%,9,Clothing,Skirt,COD,Madhya Pradesh,,Indore,Priyanka,13-01-2018,January,Saturday
+B-25683,86,141,14.33333333,-55,-9.166666667,-64%,6,Clothing,Saree,COD,Kerala ,,Thiruvananthapuram,Shreya,08-06-2018,June,Friday
+B-25914,125,103,41.66666667,22,7.333333333,18%,3,Clothing,Stole,EMI,Delhi,,Delhi,Kajal,18-12-2018,December,Tuesday
+B-25828,128,131,42.66666667,-3,-1,-2%,3,Clothing,Saree,Debit Card,Punjab,,Chandigarh,Nikita,24-10-2018,October,Wednesday
+B-25743,143,267,28.6,-124,-24.8,-87%,5,Clothing,Saree,UPI,Nagaland,,Kohima,Aman,07-08-2018,August,Tuesday
+B-26085,86,64,43,22,11,26%,2,Clothing,Saree,COD,Punjab,,Chandigarh,Shrichand,26-03-2018,March,Monday
+B-25869,86,77,28.66666667,9,3,10%,3,Clothing,Saree,COD,Nagaland,,Kohima,Parakh,19-11-2018,November,Monday
+B-25773,85,94,21.25,-9,-2.25,-11%,4,Clothing,Saree,COD,Kerala ,,Thiruvananthapuram,Shreya,06-09-2018,September,Thursday
+B-25700,129,204,25.8,-75,-15,-58%,5,Clothing,Shirt,Debit Card,Maharashtra,,Mumbai,Shubhi,25-06-2018,June,Monday
+B-25921,84,126,42,-42,-21,-50%,2,Electronics,Accessories,COD,Punjab,,Amritsar,Sandra,25-12-2018,December,Tuesday
+B-25730,83,164,27.66666667,-81,-27,-98%,3,Furniture,Chairs,COD,Rajasthan,,Jaipur,Rishabh,22-07-2018,July,Sunday
+B-26083,143,137,71.5,6,3,4%,2,Electronics,Accessories,UPI,Bihar,,Patna,Yogesh,24-03-2018,March,Saturday
+B-25849,336,213,112,123,41,37%,3,Electronics,Phones,UPI,Sikkim,,Gangtok,K,04-11-2018,November,Sunday
+B-25909,323,201,64.6,122,24.4,38%,5,Electronics,Phones,UPI,Maharashtra,,Pune,Sujay,13-12-2018,December,Thursday
+B-26038,130,69,43.33333333,61,20.33333333,47%,3,Clothing,Shirt,Debit Card,Bihar,,Patna,Pooja,24-02-2018,February,Saturday
+B-25999,152,155,30.4,-3,-0.6,-2%,5,Clothing,Saree,COD,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-25928,25,15,25,10,10,40%,1,Furniture,Furnishings,UPI,Bihar,,Patna,Smriti,01-01-2018,January,Monday
+B-25878,140,125,28,15,3,11%,5,Clothing,Stole,UPI,Maharashtra,,Mumbai,Mrinal,24-11-2018,November,Saturday
+B-25843,45,45,22.5,0,0,0%,2,Clothing,Stole,UPI,Maharashtra,,Mumbai,Mrunal,03-11-2018,November,Saturday
+B-25959,132,83,44,49,16.33333333,37%,3,Clothing,Shirt,COD,Madhya Pradesh,,Indore,Muskan,18-01-2018,January,Thursday
+B-25630,133,121,26.6,12,2.4,9%,5,Clothing,Stole,Debit Card,Punjab,,Chandigarh,Sahil,24-04-2018,April,Tuesday
+B-25858,82,69,41,13,6.5,16%,2,Clothing,Shirt,COD,Maharashtra,,Mumbai,Uudhav,13-11-2018,November,Tuesday
+B-26096,140,84,35,56,14,40%,4,Clothing,Shirt,UPI,West Bengal,,Kolkata,Atharv,28-03-2018,March,Wednesday
+B-25838,81,62,11.57142857,19,2.714285714,23%,7,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Sanjana,29-10-2018,October,Monday
+B-25943,137,99,27.4,38,7.6,28%,5,Clothing,Hankerchief,Debit Card,Gujarat,,Ahmedabad,Shardul,09-01-2018,January,Tuesday
+B-25780,137,178,45.66666667,-41,-13.66666667,-30%,3,Electronics,Phones,Debit Card,Andhra Pradesh,,Hyderabad,Teena,13-09-2018,September,Thursday
+B-25949,140,83,70,57,28.5,41%,2,Clothing,Trousers,Debit Card,Maharashtra,,Mumbai,Shantanu,13-01-2018,January,Saturday
+B-25892,139,109,46.33333333,30,10,22%,3,Clothing,Shirt,UPI,Rajasthan,,Udaipur,Aditi,04-12-2018,December,Tuesday
+B-26054,138,127,27.6,11,2.2,8%,5,Clothing,Stole,UPI,Maharashtra,,Mumbai,Mayank,10-03-2018,March,Saturday
+B-25988,79,203,8.777777778,-124,-13.77777778,-157%,9,Clothing,Skirt,COD,Delhi,,Delhi,Nirja,31-01-2018,January,Wednesday
+B-25939,136,95,45.33333333,41,13.66666667,30%,3,Electronics,Accessories,UPI,Sikkim,,Gangtok,Vineet,05-01-2018,January,Friday
+B-26083,145,129,48.33333333,16,5.333333333,11%,3,Clothing,T-shirt,Debit Card,Bihar,,Patna,Yogesh,24-03-2018,March,Saturday
+B-26078,44,24,22,20,10,45%,2,Clothing,T-shirt,UPI,West Bengal,,Kolkata,Kasheen,22-03-2018,March,Thursday
+B-25902,79,73,11.28571429,6,0.857142857,8%,7,Clothing,Saree,COD,Maharashtra,,Mumbai,Ishpreet,10-12-2018,December,Monday
+B-25676,79,43,19.75,36,9,46%,4,Clothing,Shirt,COD,Rajasthan,,Jaipur,Chandni,01-06-2018,June,Friday
+B-26016,134,147,44.66666667,-13,-4.333333333,-10%,3,Electronics,Electronic Games,UPI,Karnataka,,Bangalore,Hazel,14-02-2018,February,Wednesday
+B-25950,133,128,26.6,5,1,4%,5,Clothing,Stole,UPI,Madhya Pradesh,,Indore,Shruti,13-01-2018,January,Saturday
+B-26056,47,27,6.714285714,20,2.857142857,43%,7,Clothing,Hankerchief,UPI,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-25645,133,175,133,-42,-42,-32%,1,Electronics,Printers,UPI,Madhya Pradesh,,Indore,Yaanvi,01-05-2018,May,Tuesday
+B-25906,78,51,26,27,9,35%,3,Clothing,Stole,COD,Delhi,,Delhi,Abhijit,11-12-2018,December,Tuesday
+B-26017,78,71,78,7,7,9%,1,Furniture,Chairs,COD,Jammu and Kashmir,,Kashmir,Sonakshi,14-02-2018,February,Wednesday
+B-25644,76,168,9.5,-92,-11.5,-121%,8,Furniture,Furnishings,COD,Maharashtra,,Mumbai,Mayank,30-04-2018,April,Monday
+B-25679,76,126,76,-50,-50,-66%,1,Clothing,Saree,COD,Maharashtra,,Mumbai,Avni,04-06-2018,June,Monday
+B-25854,76,57,25.33333333,19,6.333333333,25%,3,Clothing,Hankerchief,COD,Maharashtra,,Pune,Shubham,08-11-2018,November,Thursday
+B-25670,74,45,24.66666667,29,9.666666667,39%,3,Clothing,Stole,COD,Goa,,Goa,Charika,25-05-2018,May,Friday
+B-25792,74,99,24.66666667,-25,-8.333333333,-34%,3,Clothing,Stole,COD,Maharashtra,,Mumbai,Abhishek,24-09-2018,September,Monday
+B-25808,146,209,48.66666667,-63,-21,-43%,3,Electronics,Electronic Games,Debit Card,Bihar,,Patna,Apsingekar,08-10-2018,October,Monday
+B-25750,73,104,73,-31,-31,-42%,1,Furniture,Bookcases,COD,Madhya Pradesh,,Indore,Priyanshu,14-08-2018,August,Tuesday
+B-26051,80,58,26.66666667,22,7.333333333,28%,3,Clothing,Stole,UPI,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-26076,133,87,26.6,46,9.2,35%,5,Clothing,Shirt,EMI,Madhya Pradesh,,Bhopal,Jahan,21-03-2018,March,Wednesday
+B-25946,146,139,73,7,3.5,5%,2,Electronics,Phones,Debit Card,Andhra Pradesh,,Hyderabad,Saurabh,12-01-2018,January,Friday
+B-25648,130,171,32.5,-41,-10.25,-32%,4,Clothing,Saree,EMI,Punjab,,Chandigarh,Aditya,04-05-2018,May,Friday
+B-25992,141,100,47,41,13.66666667,29%,3,Clothing,Shirt,UPI,Rajasthan,,Udaipur,Gaurav,03-02-2018,February,Saturday
+B-25848,147,126,49,21,7,14%,3,Furniture,Furnishings,Debit Card,Himachal Pradesh,,Simla,Rohan,03-11-2018,November,Saturday
+B-25697,73,80,73,-7,-7,-10%,1,Electronics,Phones,COD,Jammu and Kashmir,,Kashmir,Vijay,22-06-2018,June,Friday
+B-25659,148,76,21.14285714,72,10.28571429,49%,7,Clothing,T-shirt,Debit Card,West Bengal,,Kolkata,Sanskriti,15-05-2018,May,Tuesday
+B-25716,58,58,14.5,0,0,0%,4,Clothing,Saree,UPI,Tamil Nadu,,Chennai,Surabhi,11-07-2018,July,Wednesday
+B-25652,21,34,7,-13,-4.333333333,-62%,3,Clothing,Leggings,UPI,Goa,,Goa,Tushina,08-05-2018,May,Tuesday
+B-26093,148,123,49.33333333,25,8.333333333,17%,3,Clothing,Saree,Debit Card,Maharashtra,,Pune,Sarita,27-03-2018,March,Tuesday
+B-25725,144,151,36,-7,-1.75,-5%,4,Electronics,Electronic Games,COD,Nagaland,,Kohima,Anisha,20-07-2018,July,Friday
+B-25661,145,249,29,-104,-20.8,-72%,5,Furniture,Chairs,UPI,Jammu and Kashmir,,Kashmir,Subhashree,17-05-2018,May,Thursday
+B-25693,72,121,72,-49,-49,-68%,1,Electronics,Phones,COD,Madhya Pradesh,,Bhopal,Parna,18-06-2018,June,Monday
+B-25910,125,110,25,15,3,12%,5,Clothing,Shirt,EMI,Delhi,,Delhi,Jay,14-12-2018,December,Friday
+B-25943,149,134,49.66666667,15,5,10%,3,Clothing,Saree,Debit Card,Gujarat,,Ahmedabad,Shardul,09-01-2018,January,Tuesday
+B-26100,72,56,36,16,8,22%,2,Clothing,Shirt,COD,Madhya Pradesh,,Indore,Hitika,31-03-2018,March,Saturday
+B-25830,71,71,8.875,0,0,0%,8,Clothing,Skirt,COD,Himachal Pradesh,,Simla,Aastha,26-10-2018,October,Friday
+B-25932,71,85,17.75,-14,-3.5,-20%,4,Furniture,Furnishings,COD,Madhya Pradesh,,Indore,Bhutekar,04-01-2018,January,Thursday
+B-25929,154,239,51.33333333,-85,-28.33333333,-55%,3,Furniture,Chairs,EMI,Kerala ,,Thiruvananthapuram,Girase,02-01-2018,January,Tuesday
+B-25708,191,178,23.875,13,1.625,7%,8,Furniture,Furnishings,COD,Madhya Pradesh,,Indore,Kishwar,01-07-2018,July,Sunday
+B-25921,170,151,34,19,3.8,11%,5,Clothing,T-shirt,UPI,Punjab,,Amritsar,Sandra,25-12-2018,December,Tuesday
+B-25755,47,50,23.5,-3,-1.5,-6%,2,Clothing,Stole,UPI,Kerala ,,Thiruvananthapuram,Shourya,19-08-2018,August,Sunday
+B-25640,122,169,30.5,-47,-11.75,-39%,4,Clothing,Saree,EMI,Rajasthan,,Jaipur,Paridhi,27-04-2018,April,Friday
+B-25838,70,44,14,26,5.2,37%,5,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Sanjana,29-10-2018,October,Monday
+B-26025,155,150,51.66666667,5,1.666666667,3%,3,Clothing,Stole,EMI,Sikkim,,Gangtok,Bhavna,19-02-2018,February,Monday
+B-25789,67,153,7.444444444,-86,-9.555555556,-128%,9,Furniture,Furnishings,COD,Uttar Pradesh,,Lucknow,Akshay,22-09-2018,September,Saturday
+B-25697,67,109,22.33333333,-42,-14,-63%,3,Clothing,Stole,COD,Jammu and Kashmir,,Kashmir,Vijay,22-06-2018,June,Friday
+B-25797,148,249,74,-101,-50.5,-68%,2,Furniture,Bookcases,UPI,Madhya Pradesh,,Indore,Sauptik,30-09-2018,September,Sunday
+B-26064,122,84,20.33333333,38,6.333333333,31%,6,Clothing,T-shirt,Credit Card,Maharashtra,,Mumbai,Ankita,16-03-2018,March,Friday
+B-25732,16,21,8,-5,-2.5,-31%,2,Clothing,Stole,UPI,Karnataka,,Bangalore,Anubhaw,27-07-2018,July,Friday
+B-25654,121,138,40.33333333,-17,-5.666666667,-14%,3,Furniture,Furnishings,Credit Card,Maharashtra,,Mumbai,Sabah,10-05-2018,May,Thursday
+B-25750,42,57,3.5,-15,-1.25,-36%,12,Clothing,Skirt,UPI,Madhya Pradesh,,Indore,Priyanshu,14-08-2018,August,Tuesday
+B-25751,65,69,10.83333333,-4,-0.666666667,-6%,6,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-25889,119,162,17,-43,-6.142857143,-36%,7,Clothing,Kurti,Credit Card,Gujarat,,Surat,Abhishek,03-12-2018,December,Monday
+B-25683,155,99,51.66666667,56,18.66666667,36%,3,Furniture,Furnishings,EMI,Kerala ,,Thiruvananthapuram,Shreya,08-06-2018,June,Friday
+B-25602,119,124,14.875,-5,-0.625,-4%,8,Clothing,Saree,Credit Card,Maharashtra,,Pune,Vrinda,01-04-2018,April,Sunday
+B-25871,118,93,29.5,25,6.25,21%,4,Clothing,Hankerchief,Credit Card,Gujarat,,Surat,Gunjal,21-11-2018,November,Wednesday
+B-25953,116,94,116,22,22,19%,1,Electronics,Accessories,Credit Card,Andhra Pradesh,,Hyderabad,Krutika,14-01-2018,January,Sunday
+B-25950,158,187,15.8,-29,-2.9,-18%,10,Clothing,Hankerchief,EMI,Madhya Pradesh,,Indore,Shruti,13-01-2018,January,Saturday
+B-26091,158,89,52.66666667,69,23,44%,3,Clothing,Stole,EMI,Andhra Pradesh,,Hyderabad,Manju,27-03-2018,March,Tuesday
+B-25753,65,117,21.66666667,-52,-17.33333333,-80%,3,Electronics,Accessories,COD,Uttar Pradesh,,Lucknow,Shivam,17-08-2018,August,Friday
+B-25611,160,219,80,-59,-29.5,-37%,2,Clothing,Saree,EMI,Kerala ,,Thiruvananthapuram,Anita,11-04-2018,April,Wednesday
+B-25935,162,142,54,20,6.666666667,12%,3,Furniture,Chairs,EMI,Nagaland,,Kohima,Sudhir,04-01-2018,January,Thursday
+B-25886,63,62,15.75,1,0.25,2%,4,Clothing,T-shirt,COD,Rajasthan,,Udaipur,Brijesh,28-11-2018,November,Wednesday
+B-25833,64,37,12.8,27,5.4,42%,5,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Krishna,29-10-2018,October,Monday
+B-25665,166,279,41.5,-113,-28.25,-68%,4,Electronics,Accessories,EMI,Kerala ,,Thiruvananthapuram,Chayanika,21-05-2018,May,Monday
+B-25694,167,124,23.85714286,43,6.142857143,26%,7,Clothing,T-shirt,EMI,Rajasthan,,Jaipur,Subhasmita,18-06-2018,June,Monday
+B-25668,123,106,41,17,5.666666667,14%,3,Furniture,Furnishings,COD,Himachal Pradesh,,Simla,Rhea,24-05-2018,May,Thursday
+B-25945,63,49,31.5,14,7,22%,2,Clothing,Shirt,COD,Madhya Pradesh,,Indore,Mhatre,11-01-2018,January,Thursday
+B-25954,891,891,178.2,0,0,0%,5,Clothing,Saree,COD,Gujarat,,Ahmedabad,Trupti,14-01-2018,January,Sunday
+B-25818,75,47,8.333333333,28,3.111111111,37%,9,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Sandeep,14-10-2018,October,Sunday
+B-25861,62,56,12.4,6,1.2,10%,5,Clothing,Hankerchief,COD,Uttar Pradesh,,Lucknow,Aayush,15-11-2018,November,Thursday
+B-25721,29,47,4.142857143,-18,-2.571428571,-62%,7,Clothing,Skirt,UPI,Haryana,,Chandigarh,Anchal,16-07-2018,July,Monday
+B-26024,168,150,28,18,3,11%,6,Clothing,Stole,Debit Card,Himachal Pradesh,,Simla,Vandana,19-02-2018,February,Monday
+B-26056,70,46,23.33333333,24,8,34%,3,Clothing,Stole,UPI,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-26050,169,114,42.25,55,13.75,33%,4,Clothing,Saree,Debit Card,Rajasthan,,Jaipur,Paridhi,06-03-2018,March,Tuesday
+B-25708,32,40,16,-8,-4,-25%,2,Clothing,Stole,COD,Madhya Pradesh,,Indore,Kishwar,01-07-2018,July,Sunday
+B-25651,44,52,14.66666667,-8,-2.666666667,-18%,3,Clothing,Stole,UPI,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25616,116,172,23.2,-56,-11.2,-48%,5,Clothing,Stole,Credit Card,Goa,,Goa,Kanak,15-04-2018,April,Sunday
+B-25827,156,135,52,21,7,13%,3,Furniture,Chairs,COD,Madhya Pradesh,,Indore,Sheetal,23-10-2018,October,Tuesday
+B-25996,62,56,10.33333333,6,1,10%,6,Clothing,Skirt,COD,Delhi,,Delhi,Prashant,04-02-2018,February,Sunday
+B-25830,54,53,27,1,0.5,2%,2,Clothing,Saree,UPI,Himachal Pradesh,,Simla,Aastha,26-10-2018,October,Friday
+B-25951,111,100,12.33333333,11,1.222222222,10%,9,Clothing,Hankerchief,Credit Card,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-25713,158,221,39.5,-63,-15.75,-40%,4,Furniture,Chairs,UPI,West Bengal,,Kolkata,Raksha,08-07-2018,July,Sunday
+B-25678,7,10,3.5,-3,-1.5,-43%,2,Clothing,Skirt,UPI,Karnataka,,Bangalore,Bathina,03-06-2018,June,Sunday
+B-25901,61,33,30.5,28,14,46%,2,Clothing,Hankerchief,UPI,Gujarat,,Surat,Suraj,10-12-2018,December,Monday
+B-25798,61,111,15.25,-50,-12.5,-82%,4,Clothing,Hankerchief,COD,Andhra Pradesh,,Hyderabad,Shishu,01-10-2018,October,Monday
+B-25902,154,128,38.5,26,6.5,17%,4,Electronics,Accessories,COD,Maharashtra,,Mumbai,Ishpreet,10-12-2018,December,Monday
+B-25851,62,61,20.66666667,1,0.333333333,2%,3,Clothing,Saree,COD,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-25944,169,131,56.33333333,38,12.66666667,22%,3,Clothing,Saree,Debit Card,Maharashtra,,Pune,Syed,10-01-2018,January,Wednesday
+B-25939,61,43,30.5,18,9,30%,2,Electronics,Accessories,COD,Sikkim,,Gangtok,Vineet,05-01-2018,January,Friday
+B-25656,61,84,30.5,-23,-11.5,-38%,2,Clothing,Saree,COD,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-25695,171,157,19,14,1.555555556,8%,9,Clothing,Shirt,Debit Card,West Bengal,,Kolkata,Suhani,18-06-2018,June,Monday
+B-25781,60,109,7.5,-49,-6.125,-82%,8,Clothing,Hankerchief,COD,Gujarat,,Ahmedabad,Rutuja,14-09-2018,September,Friday
+B-25783,25,36,25,-11,-11,-44%,1,Clothing,Stole,UPI,Madhya Pradesh,,Indore,Shivangi,15-09-2018,September,Saturday
+B-25867,163,137,40.75,26,6.5,16%,4,Clothing,Shirt,COD,Sikkim,,Gangtok,Ankit,17-11-2018,November,Saturday
+B-25993,173,87,173,86,86,50%,1,Electronics,Printers,Debit Card,Delhi,,Delhi,Madhav,03-02-2018,February,Saturday
+B-25755,257,260,128.5,-3,-1.5,-1%,2,Furniture,Bookcases,UPI,Kerala ,,Thiruvananthapuram,Shourya,19-08-2018,August,Sunday
+B-25880,108,71,54,37,18.5,34%,2,Clothing,Stole,Credit Card,Rajasthan,,Udaipur,Apoorv,24-11-2018,November,Saturday
+B-25941,177,136,44.25,41,10.25,23%,4,Clothing,Shirt,Debit Card,Nagaland,,Kohima,Jaideep,07-01-2018,January,Sunday
+B-25757,106,91,15.14285714,15,2.142857143,14%,7,Clothing,Hankerchief,Credit Card,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25754,41,55,8.2,-14,-2.8,-34%,5,Clothing,Leggings,UPI,Bihar,,Patna,Akshay,18-08-2018,August,Saturday
+B-25653,168,178,56,-10,-3.333333333,-6%,3,Electronics,Accessories,UPI,Nagaland,,Kohima,Farah,08-05-2018,May,Tuesday
+B-25821,60,39,15,21,5.25,35%,4,Clothing,Stole,COD,West Bengal,,Kolkata,Ajay,16-10-2018,October,Tuesday
+B-25706,31,42,7.75,-11,-2.75,-35%,4,Clothing,Stole,COD,Goa,,Goa,Swetlana,01-07-2018,July,Sunday
+B-26064,179,179,89.5,0,0,0%,2,Clothing,Saree,Debit Card,Maharashtra,,Mumbai,Ankita,16-03-2018,March,Friday
+B-25803,106,94,35.33333333,12,4,11%,3,Clothing,Trousers,Credit Card,Madhya Pradesh,,Indore,Shivanshu,05-10-2018,October,Friday
+B-26076,60,47,30,13,6.5,22%,2,Clothing,T-shirt,COD,Madhya Pradesh,,Bhopal,Jahan,21-03-2018,March,Wednesday
+B-25603,180,175,60,5,1.666666667,3%,3,Clothing,Trousers,Debit Card,Madhya Pradesh,,Bhopal,Jahan,03-04-2018,April,Tuesday
+B-25903,60,70,30,-10,-5,-17%,2,Furniture,Furnishings,COD,Madhya Pradesh,,Indore,Amlan,10-12-2018,December,Monday
+B-25938,59,34,19.66666667,25,8.333333333,42%,3,Clothing,Stole,COD,Himachal Pradesh,,Simla,Shikhar,05-01-2018,January,Friday
+B-25868,170,97,85,73,36.5,43%,2,Electronics,Accessories,UPI,Goa,,Goa,Vikash,18-11-2018,November,Sunday
+B-25956,59,49,29.5,10,5,17%,2,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Shreya,17-01-2018,January,Wednesday
+B-25652,24,45,3.428571429,-21,-3,-88%,7,Clothing,Skirt,COD,Goa,,Goa,Tushina,08-05-2018,May,Tuesday
+B-25883,105,131,13.125,-26,-3.25,-25%,8,Clothing,Leggings,Credit Card,Gujarat,,Surat,Saptadeep,27-11-2018,November,Tuesday
+B-26096,103,57,51.5,46,23,45%,2,Clothing,Saree,Credit Card,West Bengal,,Kolkata,Atharv,28-03-2018,March,Wednesday
+B-25969,171,154,28.5,17,2.833333333,10%,6,Clothing,T-shirt,UPI,Gujarat,,Surat,Shreyshi,21-01-2018,January,Sunday
+B-25951,102,89,51,13,6.5,13%,2,Clothing,Stole,Credit Card,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-25855,98,86,49,12,6,12%,2,Clothing,Hankerchief,Credit Card,Madhya Pradesh,,Bhopal,Abhijeet,08-11-2018,November,Thursday
+B-26091,59,49,14.75,10,2.5,17%,4,Clothing,Leggings,COD,Andhra Pradesh,,Hyderabad,Manju,27-03-2018,March,Tuesday
+B-25954,189,129,47.25,60,15,32%,4,Furniture,Furnishings,Debit Card,Gujarat,,Ahmedabad,Trupti,14-01-2018,January,Sunday
+B-25763,58,110,19.33333333,-52,-17.33333333,-90%,3,Furniture,Chairs,COD,Gujarat,,Ahmedabad,Noshiba,27-08-2018,August,Monday
+B-25945,60,57,20,3,1,5%,3,Clothing,Saree,UPI,Madhya Pradesh,,Indore,Mhatre,11-01-2018,January,Thursday
+B-25740,58,66,29,-8,-4,-14%,2,Clothing,Saree,COD,Maharashtra,,Mumbai,Rane,03-08-2018,August,Friday
+B-25818,94,74,47,20,10,21%,2,Furniture,Furnishings,UPI,Madhya Pradesh,,Indore,Sandeep,14-10-2018,October,Sunday
+B-25603,193,359,64.33333333,-166,-55.33333333,-86%,3,Clothing,Saree,EMI,Madhya Pradesh,,Bhopal,Jahan,03-04-2018,April,Tuesday
+B-25964,199,199,49.75,0,0,0%,4,Clothing,Stole,EMI,Maharashtra,,Pune,Oshin,20-01-2018,January,Saturday
+B-25930,202,113,22.44444444,89,9.888888889,44%,9,Clothing,T-shirt,EMI,Punjab,,Chandigarh,Monica,03-01-2018,January,Wednesday
+B-25930,58,41,29,17,8.5,29%,2,Clothing,Hankerchief,COD,Punjab,,Chandigarh,Monica,03-01-2018,January,Wednesday
+B-25879,57,85,28.5,-28,-14,-49%,2,Clothing,Kurti,COD,Madhya Pradesh,,Indore,Siddharth,24-11-2018,November,Saturday
+B-25903,204,298,51,-94,-23.5,-46%,4,Clothing,Hankerchief,EMI,Madhya Pradesh,,Indore,Amlan,10-12-2018,December,Monday
+B-25614,98,110,49,-12,-6,-12%,2,Electronics,Electronic Games,Credit Card,Himachal Pradesh,,Simla,Vandana,13-04-2018,April,Friday
+B-25750,22,34,7.333333333,-12,-4,-55%,3,Clothing,Stole,COD,Madhya Pradesh,,Indore,Priyanshu,14-08-2018,August,Tuesday
+B-25852,97,80,48.5,17,8.5,18%,2,Clothing,Stole,Credit Card,Andhra Pradesh,,Hyderabad,Soumyabrata,07-11-2018,November,Wednesday
+B-26008,57,33,11.4,24,4.8,42%,5,Clothing,Leggings,COD,Tamil Nadu,,Chennai,Kalyani,09-02-2018,February,Friday
+B-26092,97,83,48.5,14,7,14%,2,Clothing,T-shirt,Credit Card,Gujarat,,Ahmedabad,Ramesh,27-03-2018,March,Tuesday
+B-25689,97,80,48.5,17,8.5,18%,2,Clothing,Stole,Credit Card,Maharashtra,,Mumbai,Bhaggyasree,14-06-2018,June,Thursday
+B-25730,96,74,19.2,22,4.4,23%,5,Clothing,Stole,Credit Card,Rajasthan,,Jaipur,Rishabh,22-07-2018,July,Sunday
+B-25885,94,67,47,27,13.5,29%,2,Clothing,Shirt,Credit Card,Madhya Pradesh,,Indore,Shatayu,28-11-2018,November,Wednesday
+B-25999,26,43,26,-17,-17,-65%,1,Clothing,Stole,COD,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-26011,93,49,46.5,44,22,47%,2,Clothing,Stole,Credit Card,Gujarat,,Ahmedabad,Bharat,12-02-2018,February,Monday
+B-25754,93,158,23.25,-65,-16.25,-70%,4,Clothing,Stole,Credit Card,Bihar,,Patna,Akshay,18-08-2018,August,Saturday
+B-26030,92,87,15.33333333,5,0.833333333,5%,6,Clothing,Hankerchief,Credit Card,Maharashtra,,Pune,Sarita,21-02-2018,February,Wednesday
+B-25851,57,30,28.5,27,13.5,47%,2,Clothing,T-shirt,COD,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-25870,57,50,19,7,2.333333333,12%,3,Furniture,Furnishings,COD,Andhra Pradesh,,Hyderabad,Pranav,20-11-2018,November,Tuesday
+B-26074,57,36,14.25,21,5.25,37%,4,Clothing,Leggings,COD,Gujarat,,Ahmedabad,Bharat,21-03-2018,March,Wednesday
+B-25861,128,124,42.66666667,4,1.333333333,3%,3,Clothing,Saree,COD,Uttar Pradesh,,Lucknow,Aayush,15-11-2018,November,Thursday
+B-25797,89,93,17.8,-4,-0.8,-4%,5,Clothing,Saree,Credit Card,Madhya Pradesh,,Indore,Sauptik,30-09-2018,September,Sunday
+B-25993,221,195,31.57142857,26,3.714285714,12%,7,Furniture,Furnishings,COD,Delhi,,Delhi,Madhav,03-02-2018,February,Saturday
+B-25799,205,324,68.33333333,-119,-39.66666667,-58%,3,Clothing,Saree,Debit Card,Gujarat,,Ahmedabad,Divyansh,01-10-2018,October,Monday
+B-25721,191,140,38.2,51,10.2,27%,5,Clothing,Shirt,UPI,Haryana,,Chandigarh,Anchal,16-07-2018,July,Monday
+B-26056,206,188,51.5,18,4.5,9%,4,Clothing,Hankerchief,Debit Card,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-25743,56,56,14,0,0,0%,4,Clothing,Hankerchief,COD,Nagaland,,Kohima,Aman,07-08-2018,August,Tuesday
+B-25854,88,72,22,16,4,18%,4,Clothing,Stole,Credit Card,Maharashtra,,Pune,Shubham,08-11-2018,November,Thursday
+B-25748,224,166,74.66666667,58,19.33333333,26%,3,Electronics,Phones,UPI,Rajasthan,,Jaipur,Nitant,12-08-2018,August,Sunday
+B-25976,193,185,48.25,8,2,4%,4,Clothing,T-shirt,UPI,Punjab,,Amritsar,Piyam,25-01-2018,January,Thursday
+B-25953,87,51,17.4,36,7.2,41%,5,Clothing,Stole,Credit Card,Andhra Pradesh,,Hyderabad,Krutika,14-01-2018,January,Sunday
+B-25996,189,185,189,4,4,2%,1,Clothing,Saree,UPI,Delhi,,Delhi,Prashant,04-02-2018,February,Sunday
+B-25717,55,88,27.5,-33,-16.5,-60%,2,Furniture,Chairs,COD,Uttar Pradesh,,Lucknow,Manshul,12-07-2018,July,Thursday
+B-25865,85,86,28.33333333,-1,-0.333333333,-1%,3,Clothing,Saree,Credit Card,Madhya Pradesh,,Indore,Arun,15-11-2018,November,Thursday
+B-25959,252,196,126,56,28,22%,2,Electronics,Phones,UPI,Madhya Pradesh,,Indore,Muskan,18-01-2018,January,Thursday
+B-25855,197,124,197,73,73,37%,1,Furniture,Bookcases,COD,Madhya Pradesh,,Bhopal,Abhijeet,08-11-2018,November,Thursday
+B-25703,17,20,8.5,-3,-1.5,-18%,2,Clothing,Stole,UPI,Madhya Pradesh,,Indore,Ekta,28-06-2018,June,Thursday
+B-26049,100,72,50,28,14,28%,2,Clothing,Hankerchief,UPI,Madhya Pradesh,,Bhopal,Lisha,05-03-2018,March,Monday
+B-25755,80,99,16,-19,-3.8,-24%,5,Clothing,Stole,UPI,Kerala ,,Thiruvananthapuram,Shourya,19-08-2018,August,Sunday
+B-26070,75,46,75,29,29,39%,1,Clothing,Trousers,UPI,Karnataka,,Bangalore,Shruti,18-03-2018,March,Sunday
+B-25755,26,22,13,4,2,15%,2,Clothing,Saree,UPI,Kerala ,,Thiruvananthapuram,Shourya,19-08-2018,August,Sunday
+B-26047,55,43,11,12,2.4,22%,5,Clothing,Skirt,COD,Madhya Pradesh,,Indore,Ashmi,04-03-2018,March,Sunday
+B-25604,157,152,17.44444444,5,0.555555556,3%,9,Clothing,Saree,UPI,Rajasthan,,Jaipur,Divsha,03-04-2018,April,Tuesday
+B-25651,200,260,50,-60,-15,-30%,4,Furniture,Bookcases,UPI,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25983,230,225,115,5,2.5,2%,2,Clothing,Saree,UPI,Delhi,,Delhi,Atul,30-01-2018,January,Tuesday
+B-26056,213,358,71,-145,-48.33333333,-68%,3,Furniture,Bookcases,Debit Card,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-25940,55,51,27.5,4,2,7%,2,Clothing,Stole,COD,Goa,,Goa,Vivek,06-01-2018,January,Saturday
+B-25766,220,239,110,-19,-9.5,-9%,2,Clothing,Saree,Debit Card,Rajasthan,,Jaipur,Surabhi,30-08-2018,August,Thursday
+B-25935,150,118,50,32,10.66666667,21%,3,Clothing,Hankerchief,COD,Nagaland,,Kohima,Sudhir,04-01-2018,January,Thursday
+B-25970,203,119,101.5,84,42,41%,2,Electronics,Printers,UPI,Maharashtra,,Mumbai,Rhea,22-01-2018,January,Monday
+B-26053,93,62,31,31,10.33333333,33%,3,Electronics,Accessories,UPI,Jammu and Kashmir,,Kashmir,Kirti,09-03-2018,March,Friday
+B-25947,290,255,48.33333333,35,5.833333333,12%,6,Clothing,Hankerchief,COD,Gujarat,,Ahmedabad,Chetan,13-01-2018,January,Saturday
+B-25856,48,42,48,6,6,13%,1,Clothing,Saree,COD,Maharashtra,,Mumbai,Abhijeet,10-11-2018,November,Saturday
+B-26030,221,186,55.25,35,8.75,16%,4,Electronics,Accessories,Debit Card,Maharashtra,,Pune,Sarita,21-02-2018,February,Wednesday
+B-26069,55,37,27.5,18,9,33%,2,Clothing,Kurti,COD,West Bengal,,Kolkata,Sanskriti,17-03-2018,March,Saturday
+B-25653,227,125,28.375,102,12.75,45%,8,Electronics,Accessories,Debit Card,Nagaland,,Kohima,Farah,08-05-2018,May,Tuesday
+B-25627,55,94,13.75,-39,-9.75,-71%,4,Clothing,Stole,COD,Madhya Pradesh,,Indore,Hitika,23-04-2018,April,Monday
+B-25947,207,174,103.5,33,16.5,16%,2,Electronics,Accessories,UPI,Gujarat,,Ahmedabad,Chetan,13-01-2018,January,Saturday
+B-25801,64,58,16,6,1.5,9%,4,Clothing,Saree,COD,Madhya Pradesh,,Bhopal,Aryan,01-10-2018,October,Monday
+B-25964,89,83,17.8,6,1.2,7%,5,Clothing,Saree,COD,Maharashtra,,Pune,Oshin,20-01-2018,January,Saturday
+B-25950,54,27,27,27,13.5,50%,2,Clothing,Stole,COD,Madhya Pradesh,,Indore,Shruti,13-01-2018,January,Saturday
+B-25878,84,43,28,41,13.66666667,49%,3,Clothing,T-shirt,Credit Card,Maharashtra,,Mumbai,Mrinal,24-11-2018,November,Saturday
+B-25773,209,230,104.5,-21,-10.5,-10%,2,Electronics,Electronic Games,UPI,Kerala ,,Thiruvananthapuram,Shreya,06-09-2018,September,Thursday
+B-26081,79,46,19.75,33,8.25,42%,4,Clothing,Stole,UPI,Tamil Nadu,,Chennai,Aarushi,22-03-2018,March,Thursday
+B-26027,54,46,13.5,8,2,15%,4,Clothing,T-shirt,COD,Nagaland,,Kohima,Sagar,20-02-2018,February,Tuesday
+B-25967,229,170,25.44444444,59,6.555555556,26%,9,Clothing,Saree,Debit Card,Uttar Pradesh,,Prayagraj,Sudevi,21-01-2018,January,Sunday
+B-25901,158,120,52.66666667,38,12.66666667,24%,3,Clothing,Hankerchief,UPI,Gujarat,,Surat,Suraj,10-12-2018,December,Monday
+B-25951,248,143,124,105,52.5,42%,2,Electronics,Phones,Debit Card,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-25853,199,193,99.5,6,3,3%,2,Clothing,Saree,UPI,Gujarat,,Ahmedabad,Gaurav,08-11-2018,November,Thursday
+B-25923,253,264,253,-11,-11,-4%,1,Clothing,Trousers,Debit Card,Maharashtra,,Mumbai,Gopal,27-12-2018,December,Thursday
+B-25793,257,509,64.25,-252,-63,-98%,4,Clothing,Saree,Debit Card,Madhya Pradesh,,Indore,Siddharth,24-09-2018,September,Monday
+B-26068,193,160,38.6,33,6.6,17%,5,Electronics,Accessories,COD,Rajasthan,,Jaipur,Shefali,16-03-2018,March,Friday
+B-26080,109,74,18.16666667,35,5.833333333,32%,6,Clothing,T-shirt,COD,Jammu and Kashmir,,Kashmir,Sonakshi,22-03-2018,March,Thursday
+B-25843,214,184,71.33333333,30,10,14%,3,Electronics,Accessories,COD,Maharashtra,,Mumbai,Mrunal,03-11-2018,November,Saturday
+B-26002,141,134,20.14285714,7,1,5%,7,Clothing,Saree,COD,Delhi,,Delhi,Harsh,08-02-2018,February,Thursday
+B-25993,201,169,50.25,32,8,16%,4,Furniture,Furnishings,UPI,Delhi,,Delhi,Madhav,03-02-2018,February,Saturday
+B-26070,54,42,13.5,12,3,22%,4,Clothing,Shirt,COD,Karnataka,,Bangalore,Shruti,18-03-2018,March,Sunday
+B-25887,83,77,13.83333333,6,1,7%,6,Clothing,Shirt,EMI,Uttar Pradesh,,Prayagraj,Vishakha,01-12-2018,December,Saturday
+B-25654,54,57,18,-3,-1,-6%,3,Clothing,Saree,COD,Maharashtra,,Mumbai,Sabah,10-05-2018,May,Thursday
+B-25898,53,48,17.66666667,5,1.666666667,9%,3,Clothing,T-shirt,COD,Rajasthan,,Udaipur,Abhishek,07-12-2018,December,Friday
+B-25664,258,285,129,-27,-13.5,-10%,2,Electronics,Phones,Debit Card,Bihar,,Patna,Pratyusmita,20-05-2018,May,Sunday
+B-26012,199,191,99.5,8,4,4%,2,Clothing,Saree,COD,Maharashtra,,Pune,Pearl,13-02-2018,February,Tuesday
+B-25979,82,109,27.33333333,-27,-9,-33%,3,Clothing,Kurti,EMI,Madhya Pradesh,,Indore,Shivangi,27-01-2018,January,Saturday
+B-26054,139,103,46.33333333,36,12,26%,3,Clothing,Stole,COD,Maharashtra,,Mumbai,Mayank,10-03-2018,March,Saturday
+B-25757,53,38,26.5,15,7.5,28%,2,Clothing,Stole,COD,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25623,53,52,13.25,1,0.25,2%,4,Clothing,Stole,COD,West Bengal,,Kolkata,Atharv,22-04-2018,April,Sunday
+B-25824,101,63,50.5,38,19,38%,2,Furniture,Furnishings,COD,Madhya Pradesh,,Indore,Shyam,20-10-2018,October,Saturday
+B-25754,262,47,131,215,107.5,82%,2,Electronics,Printers,Debit Card,Bihar,,Patna,Akshay,18-08-2018,August,Saturday
+B-25693,82,121,16.4,-39,-7.8,-48%,5,Clothing,T-shirt,EMI,Madhya Pradesh,,Bhopal,Parna,18-06-2018,June,Monday
+B-25638,154,115,51.33333333,39,13,25%,3,Clothing,Hankerchief,COD,Maharashtra,,Pune,Parth,26-04-2018,April,Thursday
+B-25922,52,34,26,18,9,35%,2,Clothing,Stole,COD,Gujarat,,Surat,Akshata,26-12-2018,December,Wednesday
+B-25919,1599,1562,266.5,37,6.166666667,2%,6,Electronics,Electronic Games,UPI,Rajasthan,,Udaipur,Neha,23-12-2018,December,Sunday
+B-25989,338,297,48.28571429,41,5.857142857,12%,7,Clothing,Hankerchief,UPI,Delhi,,Delhi,Anjali,01-02-2018,February,Thursday
+B-25999,51,100,25.5,-49,-24.5,-96%,2,Electronics,Electronic Games,COD,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-25661,224,305,74.66666667,-81,-27,-36%,3,Furniture,Chairs,COD,Jammu and Kashmir,,Kashmir,Subhashree,17-05-2018,May,Thursday
+B-26099,207,170,51.75,37,9.25,18%,4,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Bhishm,30-03-2018,March,Friday
+B-25866,51,37,25.5,14,7,27%,2,Clothing,Stole,COD,Himachal Pradesh,,Simla,Komal,16-11-2018,November,Friday
+B-26098,82,74,27.33333333,8,2.666666667,10%,3,Electronics,Accessories,EMI,Jammu and Kashmir,,Kashmir,Pinky,29-03-2018,March,Thursday
+B-26062,50,67,25,-17,-8.5,-34%,2,Clothing,Stole,COD,Goa,,Goa,Tushina,15-03-2018,March,Thursday
+B-25761,263,294,29.22222222,-31,-3.444444444,-12%,9,Electronics,Electronic Games,Debit Card,Uttar Pradesh,,Mathura,Madhav,25-08-2018,August,Saturday
+B-25843,50,43,8.333333333,7,1.166666667,14%,6,Clothing,Skirt,COD,Maharashtra,,Mumbai,Mrunal,03-11-2018,November,Saturday
+B-25683,245,248,61.25,-3,-0.75,-1%,4,Electronics,Phones,UPI,Kerala ,,Thiruvananthapuram,Shreya,08-06-2018,June,Friday
+B-25959,82,58,13.66666667,24,4,29%,6,Clothing,Hankerchief,EMI,Madhya Pradesh,,Indore,Muskan,18-01-2018,January,Thursday
+B-25787,229,270,28.625,-41,-5.125,-18%,8,Electronics,Accessories,COD,Jammu and Kashmir,,Kashmir,Asish,20-09-2018,September,Thursday
+B-25951,50,36,50,14,14,28%,1,Electronics,Electronic Games,COD,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-26056,220,180,110,40,20,18%,2,Electronics,Accessories,COD,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-25643,263,326,131.5,-63,-31.5,-24%,2,Electronics,Electronic Games,Debit Card,Jammu and Kashmir,,Kashmir,Kirti,29-04-2018,April,Sunday
+B-26093,81,122,16.2,-41,-8.2,-51%,5,Clothing,Leggings,EMI,Maharashtra,,Pune,Sarita,27-03-2018,March,Tuesday
+B-25775,50,67,25,-17,-8.5,-34%,2,Clothing,Stole,COD,Haryana,,Chandigarh,Duhita,08-09-2018,September,Saturday
+B-26093,49,44,12.25,5,1.25,10%,4,Clothing,Hankerchief,COD,Maharashtra,,Pune,Sarita,27-03-2018,March,Tuesday
+B-25851,237,190,26.33333333,47,5.222222222,20%,9,Clothing,T-shirt,UPI,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-25685,264,294,88,-30,-10,-11%,3,Furniture,Furnishings,Debit Card,Madhya Pradesh,,Indore,Sheetal,10-06-2018,June,Sunday
+B-25651,49,46,49,3,3,6%,1,Clothing,Shirt,COD,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25793,63,87,10.5,-24,-4,-38%,6,Clothing,Kurti,COD,Madhya Pradesh,,Indore,Siddharth,24-09-2018,September,Monday
+B-25708,81,132,11.57142857,-51,-7.285714286,-63%,7,Clothing,Stole,EMI,Madhya Pradesh,,Indore,Kishwar,01-07-2018,July,Sunday
+B-25847,264,193,26.4,71,7.1,27%,10,Furniture,Furnishings,Debit Card,Haryana,,Chandigarh,Aniket,03-11-2018,November,Saturday
+B-25954,48,37,24,11,5.5,23%,2,Clothing,Shirt,COD,Gujarat,,Ahmedabad,Trupti,14-01-2018,January,Sunday
+B-25997,48,33,48,15,15,31%,1,Clothing,Hankerchief,COD,Maharashtra,,Pune,Yogesh,04-02-2018,February,Sunday
+B-25650,245,323,122.5,-78,-39,-32%,2,Electronics,Printers,UPI,Maharashtra,,Mumbai,Chirag,06-05-2018,May,Sunday
+B-25883,146,104,29.2,42,8.4,29%,5,Clothing,Hankerchief,UPI,Gujarat,,Surat,Saptadeep,27-11-2018,November,Tuesday
+B-25945,245,235,122.5,10,5,4%,2,Furniture,Bookcases,COD,Madhya Pradesh,,Indore,Mhatre,11-01-2018,January,Thursday
+B-25981,245,154,122.5,91,45.5,37%,2,Furniture,Bookcases,UPI,Delhi,,Delhi,Amruta,28-01-2018,January,Sunday
+B-25862,80,77,26.66666667,3,1,4%,3,Clothing,Stole,EMI,Bihar,,Patna,Amol,15-11-2018,November,Thursday
+B-25877,269,236,53.8,33,6.6,12%,5,Furniture,Chairs,Debit Card,Gujarat,,Surat,Dashyam,24-11-2018,November,Saturday
+B-26090,80,58,26.66666667,22,7.333333333,28%,3,Clothing,Stole,EMI,Nagaland,,Kohima,Sagar,27-03-2018,March,Tuesday
+B-26050,284,240,47.33333333,44,7.333333333,15%,6,Clothing,Hankerchief,COD,Rajasthan,,Jaipur,Paridhi,06-03-2018,March,Tuesday
+B-26072,313,269,104.3333333,44,14.66666667,14%,3,Electronics,Electronic Games,COD,Maharashtra,,Mumbai,Sweta,20-03-2018,March,Tuesday
+B-25916,80,106,8.888888889,-26,-2.888888889,-33%,9,Clothing,Skirt,EMI,Gujarat,,Surat,Utkarsh,20-12-2018,December,Thursday
+B-25722,48,56,6,-8,-1,-17%,8,Clothing,Stole,COD,Himachal Pradesh,,Simla,Inderpreet,17-07-2018,July,Tuesday
+B-25746,87,71,43.5,16,8,18%,2,Clothing,Saree,UPI,Maharashtra,,Pune,Shivam,10-08-2018,August,Friday
+B-25753,47,161,9.4,-114,-22.8,-243%,5,Furniture,Furnishings,COD,Uttar Pradesh,,Lucknow,Shivam,17-08-2018,August,Friday
+B-25956,140,112,70,28,14,20%,2,Electronics,Phones,COD,Maharashtra,,Mumbai,Shreya,17-01-2018,January,Wednesday
+B-25996,47,46,23.5,1,0.5,2%,2,Clothing,Stole,COD,Delhi,,Delhi,Prashant,04-02-2018,February,Sunday
+B-25896,79,81,39.5,-2,-1,-3%,2,Furniture,Furnishings,EMI,Maharashtra,,Mumbai,Aman,05-12-2018,December,Wednesday
+B-25796,78,142,11.14285714,-64,-9.142857143,-82%,7,Clothing,Stole,EMI,Maharashtra,,Mumbai,Sukrith,24-09-2018,September,Monday
+B-25798,47,50,23.5,-3,-1.5,-6%,2,Clothing,Stole,COD,Andhra Pradesh,,Hyderabad,Shishu,01-10-2018,October,Monday
+B-26043,185,137,46.25,48,12,26%,4,Clothing,Stole,UPI,Sikkim,,Gangtok,Amit,01-03-2018,March,Thursday
+B-26028,77,41,38.5,36,18,47%,2,Clothing,Shirt,EMI,Andhra Pradesh,,Hyderabad,Manju,20-02-2018,February,Tuesday
+B-25812,259,212,51.8,47,9.4,18%,5,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Kshitij,10-10-2018,October,Wednesday
+B-25605,75,75,10.71428571,0,0,0%,7,Clothing,Saree,EMI,West Bengal,,Kolkata,Kasheen,05-04-2018,April,Thursday
+B-25702,75,75,25,0,0,0%,3,Clothing,Shirt,EMI,Maharashtra,,Mumbai,Shaily,27-06-2018,June,Wednesday
+B-25940,46,46,11.5,0,0,0%,4,Clothing,Leggings,COD,Goa,,Goa,Vivek,06-01-2018,January,Saturday
+B-26087,46,33,15.33333333,13,4.333333333,28%,3,Clothing,Hankerchief,COD,Himachal Pradesh,,Simla,Vandana,26-03-2018,March,Monday
+B-25955,200,187,40,13,2.6,7%,5,Electronics,Phones,COD,Maharashtra,,Pune,Shiva,16-01-2018,January,Tuesday
+B-25626,46,60,46,-14,-14,-30%,1,Electronics,Phones,COD,Maharashtra,,Mumbai,Bhishm,23-04-2018,April,Monday
+B-25811,126,74,31.5,52,13,41%,4,Clothing,Hankerchief,UPI,Maharashtra,,Mumbai,Utsav,10-10-2018,October,Wednesday
+B-25856,74,45,24.66666667,29,9.666666667,39%,3,Clothing,Stole,EMI,Maharashtra,,Mumbai,Abhijeet,10-11-2018,November,Saturday
+B-25628,45,32,11.25,13,3.25,29%,4,Clothing,Skirt,COD,Bihar,,Patna,Pooja,24-04-2018,April,Tuesday
+B-26016,74,65,24.66666667,9,3,12%,3,Clothing,Shirt,UPI,Karnataka,,Bangalore,Hazel,14-02-2018,February,Wednesday
+B-25999,129,118,64.5,11,5.5,9%,2,Electronics,Phones,UPI,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-26043,122,72,17.42857143,50,7.142857143,41%,7,Clothing,Stole,UPI,Sikkim,,Gangtok,Amit,01-03-2018,March,Thursday
+B-25743,74,125,24.66666667,-51,-17,-69%,3,Clothing,Stole,UPI,Nagaland,,Kohima,Aman,07-08-2018,August,Tuesday
+B-26014,278,239,55.6,39,7.8,14%,5,Furniture,Chairs,Debit Card,Rajasthan,,Jaipur,Divsha,13-02-2018,February,Tuesday
+B-25876,282,268,70.5,14,3.5,5%,4,Clothing,Trousers,Debit Card,Punjab,,Amritsar,Bhosale,24-11-2018,November,Saturday
+B-25785,45,45,22.5,0,0,0%,2,Clothing,T-shirt,COD,West Bengal,,Kolkata,Ayush,15-09-2018,September,Saturday
+B-25810,45,39,15,6,2,13%,3,Clothing,Shirt,COD,Punjab,,Chandigarh,Nripraj,10-10-2018,October,Wednesday
+B-25833,45,29,15,16,5.333333333,36%,3,Clothing,Stole,COD,Madhya Pradesh,,Indore,Krishna,29-10-2018,October,Monday
+B-25931,73,109,24.33333333,-36,-12,-49%,3,Furniture,Chairs,UPI,Maharashtra,,Mumbai,Sidharth,04-01-2018,January,Thursday
+B-25852,45,33,11.25,12,3,27%,4,Clothing,Hankerchief,COD,Andhra Pradesh,,Hyderabad,Soumyabrata,07-11-2018,November,Wednesday
+B-25738,72,78,24,-6,-2,-8%,3,Clothing,Saree,UPI,Punjab,,Chandigarh,Ayush,02-08-2018,August,Thursday
+B-25921,71,115,14.2,-44,-8.8,-62%,5,Electronics,Accessories,UPI,Punjab,,Amritsar,Sandra,25-12-2018,December,Tuesday
+B-25685,45,47,11.25,-2,-0.5,-4%,4,Clothing,Shirt,COD,Madhya Pradesh,,Indore,Sheetal,10-06-2018,June,Sunday
+B-25996,286,146,47.66666667,140,23.33333333,49%,6,Clothing,Shirt,Debit Card,Delhi,,Delhi,Prashant,04-02-2018,February,Sunday
+B-25663,294,156,147,138,69,47%,2,Electronics,Printers,Debit Card,Madhya Pradesh,,Indore,Pournamasi,19-05-2018,May,Saturday
+B-25888,223,219,74.33333333,4,1.333333333,2%,3,Electronics,Phones,COD,Punjab,,Amritsar,Rohan,02-12-2018,December,Sunday
+B-25677,20,22,20,-2,-2,-10%,1,Electronics,Accessories,UPI,West Bengal,,Kolkata,Ekta,02-06-2018,June,Saturday
+B-26045,302,227,50.33333333,75,12.5,25%,6,Furniture,Furnishings,Debit Card,Nagaland,,Kohima,Nidhi,03-03-2018,March,Saturday
+B-26002,113,85,56.5,28,14,25%,2,Clothing,Saree,UPI,Delhi,,Delhi,Harsh,08-02-2018,February,Thursday
+B-25953,44,42,14.66666667,2,0.666666667,5%,3,Clothing,Hankerchief,COD,Andhra Pradesh,,Hyderabad,Krutika,14-01-2018,January,Sunday
+B-25617,305,575,61,-270,-54,-89%,5,Electronics,Electronic Games,Debit Card,Nagaland,,Kohima,Sagar,17-04-2018,April,Tuesday
+B-25702,306,453,102,-147,-49,-48%,3,Clothing,Saree,Debit Card,Maharashtra,,Mumbai,Shaily,27-06-2018,June,Wednesday
+B-25799,70,134,14,-64,-12.8,-91%,5,Clothing,Stole,UPI,Gujarat,,Ahmedabad,Divyansh,01-10-2018,October,Monday
+B-25985,44,33,11,11,2.75,25%,4,Clothing,Stole,COD,Madhya Pradesh,,Indore,Ginny,31-01-2018,January,Wednesday
+B-25952,44,30,14.66666667,14,4.666666667,32%,3,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Priyanka,13-01-2018,January,Saturday
+B-25754,319,7,63.8,312,62.4,98%,5,Clothing,Saree,Debit Card,Bihar,,Patna,Akshay,18-08-2018,August,Saturday
+B-25770,287,567,23.91666667,-280,-23.33333333,-98%,12,Furniture,Chairs,UPI,Madhya Pradesh,,Indore,Sakshi,02-09-2018,September,Sunday
+B-25954,44,34,14.66666667,10,3.333333333,23%,3,Clothing,Stole,COD,Gujarat,,Ahmedabad,Trupti,14-01-2018,January,Sunday
+B-25657,288,468,72,-180,-45,-63%,4,Furniture,Chairs,COD,Madhya Pradesh,,Bhopal,Tulika,13-05-2018,May,Sunday
+B-25801,49,80,24.5,-31,-15.5,-63%,2,Clothing,Stole,COD,Madhya Pradesh,,Bhopal,Aryan,01-10-2018,October,Monday
+B-26000,43,53,10.75,-10,-2.5,-23%,4,Clothing,Skirt,COD,Delhi,,Delhi,Shubham,06-02-2018,February,Tuesday
+B-25897,43,38,14.33333333,5,1.666666667,12%,3,Clothing,Stole,COD,Madhya Pradesh,,Indore,Rohan,06-12-2018,December,Thursday
+B-25681,68,95,22.66666667,-27,-9,-40%,3,Electronics,Accessories,UPI,Madhya Pradesh,,Indore,Bhawna,04-06-2018,June,Monday
+B-25852,320,176,320,144,144,45%,1,Electronics,Printers,Debit Card,Andhra Pradesh,,Hyderabad,Soumyabrata,07-11-2018,November,Wednesday
+B-26067,67,65,16.75,2,0.5,3%,4,Clothing,T-shirt,UPI,Madhya Pradesh,,Bhopal,Tulika,16-03-2018,March,Friday
+B-25601,66,78,13.2,-12,-2.4,-18%,5,Clothing,Stole,UPI,Gujarat,,Ahmedabad,Bharat,01-04-2018,April,Sunday
+B-25804,321,295,107,26,8.666666667,8%,3,Electronics,Printers,Debit Card,Karnataka,,Bangalore,Sudheer,05-10-2018,October,Friday
+B-25751,43,48,21.5,-5,-2.5,-12%,2,Clothing,Saree,COD,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-25630,114,153,22.8,-39,-7.8,-34%,5,Clothing,Kurti,COD,Punjab,,Chandigarh,Sahil,24-04-2018,April,Tuesday
+B-25899,43,26,43,17,17,40%,1,Clothing,Saree,COD,Uttar Pradesh,,Prayagraj,Aishwarya,08-12-2018,December,Saturday
+B-25751,43,22,14.33333333,21,7,49%,3,Clothing,Shirt,COD,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-26081,637,587,127.4,50,10,8%,5,Clothing,Saree,COD,Tamil Nadu,,Chennai,Aarushi,22-03-2018,March,Thursday
+B-25851,300,258,150,42,21,14%,2,Electronics,Printers,COD,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-26036,341,297,48.71428571,44,6.285714286,13%,7,Furniture,Furnishings,UPI,Maharashtra,,Mumbai,Bhishm,23-02-2018,February,Friday
+B-25704,102,102,34,0,0,0%,3,Electronics,Phones,COD,Maharashtra,,Mumbai,Riya,29-06-2018,June,Friday
+B-25761,328,343,109.3333333,-15,-5,-5%,3,Electronics,Electronic Games,Debit Card,Uttar Pradesh,,Mathura,Madhav,25-08-2018,August,Saturday
+B-25978,341,181,48.71428571,160,22.85714286,47%,7,Clothing,Stole,Debit Card,Maharashtra,,Mumbai,Parin,27-01-2018,January,Saturday
+B-26077,62,51,8.857142857,11,1.571428571,18%,7,Clothing,Hankerchief,UPI,Rajasthan,,Jaipur,Divsha,22-03-2018,March,Thursday
+B-25981,42,29,14,13,4.333333333,31%,3,Clothing,Leggings,COD,Delhi,,Delhi,Amruta,28-01-2018,January,Sunday
+B-26043,62,34,12.4,28,5.6,45%,5,Clothing,Hankerchief,UPI,Sikkim,,Gangtok,Amit,01-03-2018,March,Thursday
+B-25896,42,35,21,7,3.5,17%,2,Clothing,Kurti,COD,Maharashtra,,Mumbai,Aman,05-12-2018,December,Wednesday
+B-25790,42,45,42,-3,-3,-7%,1,Electronics,Electronic Games,COD,Bihar,,Patna,Sajal,23-09-2018,September,Sunday
+B-25789,313,326,62.6,-13,-2.6,-4%,5,Furniture,Bookcases,UPI,Uttar Pradesh,,Lucknow,Akshay,22-09-2018,September,Saturday
+B-26061,109,57,54.5,52,26,48%,2,Clothing,Stole,UPI,Madhya Pradesh,,Indore,Anurag,14-03-2018,March,Wednesday
+B-25923,226,168,75.33333333,58,19.33333333,26%,3,Electronics,Accessories,COD,Maharashtra,,Mumbai,Gopal,27-12-2018,December,Thursday
+B-25868,62,63,62,-1,-1,-2%,1,Electronics,Phones,UPI,Goa,,Goa,Vikash,18-11-2018,November,Sunday
+B-25777,61,86,15.25,-25,-6.25,-41%,4,Electronics,Accessories,UPI,Madhya Pradesh,,Indore,Aditi,10-09-2018,September,Monday
+B-25999,222,148,44.4,74,14.8,33%,5,Clothing,Hankerchief,COD,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-25854,342,496,48.85714286,-154,-22,-45%,7,Furniture,Furnishings,Debit Card,Maharashtra,,Pune,Shubham,08-11-2018,November,Thursday
+B-25667,344,378,114.6666667,-34,-11.33333333,-10%,3,Clothing,Saree,Debit Card,Haryana,,Chandigarh,Anjali,23-05-2018,May,Wednesday
+B-25829,345,307,49.28571429,38,5.428571429,11%,7,Clothing,Hankerchief,Debit Card,Haryana,,Chandigarh,Apoorva,25-10-2018,October,Thursday
+B-25705,46,46,23,0,0,0%,2,Electronics,Electronic Games,COD,Madhya Pradesh,,Indore,Shweta,30-06-2018,June,Saturday
+B-25843,255,181,51,74,14.8,29%,5,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Mrunal,03-11-2018,November,Saturday
+B-25958,360,328,120,32,10.66666667,9%,3,Clothing,Saree,UPI,West Bengal,,Kolkata,Aparajita,18-01-2018,January,Thursday
+B-25893,372,313,124,59,19.66666667,16%,3,Electronics,Printers,UPI,Uttar Pradesh,,Mathura,Vrinda,04-12-2018,December,Tuesday
+B-25855,61,31,30.5,30,15,49%,2,Clothing,Hankerchief,UPI,Madhya Pradesh,,Bhopal,Abhijeet,08-11-2018,November,Thursday
+B-25616,42,30,8.4,12,2.4,29%,5,Clothing,Hankerchief,COD,Goa,,Goa,Kanak,15-04-2018,April,Sunday
+B-25630,42,68,21,-26,-13,-62%,2,Clothing,Kurti,COD,Punjab,,Chandigarh,Sahil,24-04-2018,April,Tuesday
+B-25936,61,36,15.25,25,6.25,41%,4,Clothing,Saree,UPI,Punjab,,Chandigarh,Nikhil,05-01-2018,January,Friday
+B-25830,41,30,6.833333333,11,1.833333333,27%,6,Clothing,Hankerchief,COD,Himachal Pradesh,,Simla,Aastha,26-10-2018,October,Friday
+B-25930,40,27,13.33333333,13,4.333333333,33%,3,Clothing,T-shirt,COD,Punjab,,Chandigarh,Monica,03-01-2018,January,Wednesday
+B-25808,59,38,29.5,21,10.5,36%,2,Clothing,Stole,UPI,Bihar,,Patna,Apsingekar,08-10-2018,October,Monday
+B-25979,57,30,28.5,27,13.5,47%,2,Clothing,Shirt,UPI,Madhya Pradesh,,Indore,Shivangi,27-01-2018,January,Saturday
+B-25687,17,11,17,6,6,35%,1,Clothing,Stole,UPI,Maharashtra,,Mumbai,Sanjna,11-06-2018,June,Monday
+B-26087,40,30,20,10,5,25%,2,Clothing,Stole,COD,Himachal Pradesh,,Simla,Vandana,26-03-2018,March,Monday
+B-25764,349,373,174.5,-24,-12,-7%,2,Clothing,Saree,Debit Card,Maharashtra,,Pune,Sanjova,28-08-2018,August,Tuesday
+B-25782,335,357,47.85714286,-22,-3.142857143,-7%,7,Furniture,Chairs,UPI,Maharashtra,,Mumbai,Aayushi,15-09-2018,September,Saturday
+B-25854,40,24,13.33333333,16,5.333333333,40%,3,Clothing,Hankerchief,COD,Maharashtra,,Pune,Shubham,08-11-2018,November,Thursday
+B-26085,40,23,20,17,8.5,43%,2,Clothing,Stole,COD,Punjab,,Chandigarh,Shrichand,26-03-2018,March,Monday
+B-25630,40,47,13.33333333,-7,-2.333333333,-18%,3,Clothing,Stole,COD,Punjab,,Chandigarh,Sahil,24-04-2018,April,Tuesday
+B-25999,352,278,44,74,9.25,21%,8,Clothing,Stole,Debit Card,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-25648,55,81,13.75,-26,-6.5,-47%,4,Clothing,Saree,UPI,Punjab,,Chandigarh,Aditya,04-05-2018,May,Friday
+B-25952,352,334,70.4,18,3.6,5%,5,Clothing,Trousers,Debit Card,Madhya Pradesh,,Indore,Priyanka,13-01-2018,January,Saturday
+B-25710,53,71,13.25,-18,-4.5,-34%,4,Clothing,T-shirt,UPI,Maharashtra,,Pune,Megha,05-07-2018,July,Thursday
+B-25685,51,44,25.5,7,3.5,14%,2,Furniture,Furnishings,UPI,Madhya Pradesh,,Indore,Sheetal,10-06-2018,June,Sunday
+B-25740,40,77,13.33333333,-37,-12.33333333,-93%,3,Clothing,Stole,COD,Maharashtra,,Mumbai,Rane,03-08-2018,August,Friday
+B-25973,39,25,7.8,14,2.8,36%,5,Clothing,Leggings,COD,Uttar Pradesh,,Mathura,Madan Mohan,24-01-2018,January,Wednesday
+B-25769,355,359,177.5,-4,-2,-1%,2,Clothing,Saree,Debit Card,Maharashtra,,Mumbai,Surbhi,02-09-2018,September,Sunday
+B-25687,357,218,178.5,139,69.5,39%,2,Clothing,Saree,Debit Card,Maharashtra,,Mumbai,Sanjna,11-06-2018,June,Monday
+B-25603,38,20,38,18,18,47%,1,Clothing,Kurti,COD,Madhya Pradesh,,Bhopal,Jahan,03-04-2018,April,Tuesday
+B-26050,38,29,19,9,4.5,24%,2,Clothing,Stole,COD,Rajasthan,,Jaipur,Paridhi,06-03-2018,March,Tuesday
+B-25748,141,131,35.25,10,2.5,7%,4,Clothing,Shirt,UPI,Rajasthan,,Jaipur,Nitant,12-08-2018,August,Sunday
+B-25833,36,32,4,4,0.444444444,11%,9,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Krishna,29-10-2018,October,Monday
+B-25930,351,445,70.2,-94,-18.8,-27%,5,Electronics,Electronic Games,COD,Punjab,,Chandigarh,Monica,03-01-2018,January,Wednesday
+B-26035,369,354,123,15,5,4%,3,Electronics,Electronic Games,Debit Card,Jammu and Kashmir,,Kashmir,Pinky,23-02-2018,February,Friday
+B-25851,53,29,8.833333333,24,4,45%,6,Clothing,Hankerchief,EMI,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-25718,371,256,371,115,115,31%,1,Furniture,Bookcases,Debit Card,Maharashtra,,Mumbai,Anjali,12-07-2018,July,Thursday
+B-25898,499,466,124.75,33,8.25,7%,4,Clothing,Saree,COD,Rajasthan,,Udaipur,Abhishek,07-12-2018,December,Friday
+B-25893,223,161,31.85714286,62,8.857142857,28%,7,Clothing,Shirt,COD,Uttar Pradesh,,Mathura,Vrinda,04-12-2018,December,Tuesday
+B-25983,50,54,8.333333333,-4,-0.666666667,-8%,6,Clothing,T-shirt,EMI,Delhi,,Delhi,Atul,30-01-2018,January,Tuesday
+B-26056,391,301,65.16666667,90,15,23%,6,Electronics,Phones,Debit Card,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-25715,416,279,138.6666667,137,45.66666667,33%,3,Electronics,Phones,Debit Card,Jammu and Kashmir,,Kashmir,Srishti,10-07-2018,July,Tuesday
+B-25702,424,441,47.11111111,-17,-1.888888889,-4%,9,Furniture,Chairs,Debit Card,Maharashtra,,Mumbai,Shaily,27-06-2018,June,Wednesday
+B-25618,362,235,362,127,127,35%,1,Furniture,Bookcases,COD,Andhra Pradesh,,Hyderabad,Manju,18-04-2018,April,Wednesday
+B-25643,36,43,36,-7,-7,-19%,1,Electronics,Electronic Games,COD,Jammu and Kashmir,,Kashmir,Kirti,29-04-2018,April,Sunday
+B-25961,34,44,11.33333333,-10,-3.333333333,-29%,3,Clothing,Skirt,COD,Gujarat,,Ahmedabad,Surbhi,18-01-2018,January,Thursday
+B-25873,367,294,122.3333333,73,24.33333333,20%,3,Electronics,Electronic Games,UPI,Madhya Pradesh,,Indore,Divyeta,23-11-2018,November,Friday
+B-26053,425,217,60.71428571,208,29.71428571,49%,7,Clothing,Saree,Debit Card,Jammu and Kashmir,,Kashmir,Kirti,09-03-2018,March,Friday
+B-25683,433,407,144.3333333,26,8.666666667,6%,3,Electronics,Printers,Debit Card,Kerala ,,Thiruvananthapuram,Shreya,08-06-2018,June,Friday
+B-25718,460,429,153.3333333,31,10.33333333,7%,3,Furniture,Bookcases,Debit Card,Maharashtra,,Mumbai,Anjali,12-07-2018,July,Thursday
+B-25753,62,118,12.4,-56,-11.2,-90%,5,Clothing,Kurti,COD,Uttar Pradesh,,Lucknow,Shivam,17-08-2018,August,Friday
+B-25852,50,34,50,16,16,32%,1,Clothing,Stole,EMI,Andhra Pradesh,,Hyderabad,Soumyabrata,07-11-2018,November,Wednesday
+B-25914,460,603,153.3333333,-143,-47.66666667,-31%,3,Furniture,Chairs,Debit Card,Delhi,,Delhi,Kajal,18-12-2018,December,Tuesday
+B-26083,34,31,11.33333333,3,1,9%,3,Clothing,Saree,COD,Bihar,,Patna,Yogesh,24-03-2018,March,Saturday
+B-25857,227,168,113.5,59,29.5,26%,2,Furniture,Furnishings,UPI,Madhya Pradesh,,Indore,Anand,10-11-2018,November,Saturday
+B-25939,469,436,117.25,33,8.25,7%,4,Electronics,Electronic Games,Debit Card,Sikkim,,Gangtok,Vineet,05-01-2018,January,Friday
+B-25851,103,57,51.5,46,23,45%,2,Clothing,Saree,UPI,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-25699,34,47,6.8,-13,-2.6,-38%,5,Clothing,Leggings,COD,Uttar Pradesh,,Lucknow,Kritika,24-06-2018,June,Sunday
+B-26078,137,74,45.66666667,63,21,46%,3,Clothing,Stole,COD,West Bengal,,Kolkata,Kasheen,22-03-2018,March,Thursday
+B-26075,34,22,17,12,6,35%,2,Clothing,Stole,COD,Maharashtra,,Pune,Pearl,21-03-2018,March,Wednesday
+B-25956,474,418,118.5,56,14,12%,4,Electronics,Phones,Debit Card,Maharashtra,,Mumbai,Shreya,17-01-2018,January,Wednesday
+B-25861,50,47,25,3,1.5,6%,2,Clothing,Stole,EMI,Uttar Pradesh,,Lucknow,Aayush,15-11-2018,November,Thursday
+B-25777,69,136,17.25,-67,-16.75,-97%,4,Clothing,Kurti,UPI,Madhya Pradesh,,Indore,Aditi,10-09-2018,September,Monday
+B-25634,389,472,129.6666667,-83,-27.66666667,-21%,3,Furniture,Chairs,UPI,Goa,,Goa,Sanjay,26-04-2018,April,Thursday
+B-25753,77,120,9.625,-43,-5.375,-56%,8,Clothing,Stole,COD,Uttar Pradesh,,Lucknow,Shivam,17-08-2018,August,Friday
+B-25687,51,30,17,21,7,41%,3,Clothing,T-shirt,COD,Maharashtra,,Mumbai,Sanjna,11-06-2018,June,Monday
+B-25885,394,248,197,146,73,37%,2,Furniture,Bookcases,UPI,Madhya Pradesh,,Indore,Shatayu,28-11-2018,November,Wednesday
+B-25767,48,70,24,-22,-11,-46%,2,Clothing,Saree,EMI,West Bengal,,Kolkata,Ashmeet,31-08-2018,August,Friday
+B-25961,34,46,6.8,-12,-2.4,-35%,5,Clothing,Leggings,COD,Gujarat,,Ahmedabad,Surbhi,18-01-2018,January,Thursday
+B-25923,484,456,161.3333333,28,9.333333333,6%,3,Electronics,Printers,Debit Card,Maharashtra,,Mumbai,Gopal,27-12-2018,December,Thursday
+B-25799,47,74,11.75,-27,-6.75,-57%,4,Clothing,Saree,EMI,Gujarat,,Ahmedabad,Divyansh,01-10-2018,October,Monday
+B-25955,45,37,11.25,8,2,18%,4,Clothing,Skirt,EMI,Maharashtra,,Pune,Shiva,16-01-2018,January,Tuesday
+B-26015,128,73,128,55,55,43%,1,Clothing,Saree,COD,West Bengal,,Kolkata,Kasheen,14-02-2018,February,Wednesday
+B-26051,669,595,133.8,74,14.8,11%,5,Furniture,Bookcases,COD,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-25822,34,21,17,13,6.5,38%,2,Clothing,Saree,COD,Karnataka,,Bangalore,Tejas,18-10-2018,October,Thursday
+B-25989,44,30,14.66666667,14,4.666666667,32%,3,Clothing,Hankerchief,Credit Card,Delhi,,Delhi,Anjali,01-02-2018,February,Thursday
+B-25910,33,32,16.5,1,0.5,3%,2,Clothing,Shirt,COD,Delhi,,Delhi,Jay,14-12-2018,December,Friday
+B-25956,33,23,11,10,3.333333333,30%,3,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Shreya,17-01-2018,January,Wednesday
+B-25986,487,510,162.3333333,-23,-7.666666667,-5%,3,Electronics,Printers,Debit Card,Rajasthan,,Udaipur,Shweta,31-01-2018,January,Wednesday
+B-26098,497,318,165.6666667,179,59.66666667,36%,3,Furniture,Chairs,Debit Card,Jammu and Kashmir,,Kashmir,Pinky,29-03-2018,March,Thursday
+B-26061,508,305,254,203,101.5,40%,2,Electronics,Accessories,Debit Card,Madhya Pradesh,,Indore,Anurag,14-03-2018,March,Wednesday
+B-25954,524,549,262,-25,-12.5,-5%,2,Electronics,Electronic Games,Debit Card,Gujarat,,Ahmedabad,Trupti,14-01-2018,January,Sunday
+B-26034,425,242,85,183,36.6,43%,5,Electronics,Accessories,UPI,Karnataka,,Bangalore,Vini,23-02-2018,February,Friday
+B-25909,168,112,56,56,18.66666667,33%,3,Clothing,Saree,COD,Maharashtra,,Pune,Sujay,13-12-2018,December,Thursday
+B-25692,141,113,20.14285714,28,4,20%,7,Furniture,Furnishings,UPI,Madhya Pradesh,,Indore,Rashmi,17-06-2018,June,Sunday
+B-25959,429,412,143,17,5.666666667,4%,3,Furniture,Chairs,UPI,Madhya Pradesh,,Indore,Muskan,18-01-2018,January,Thursday
+B-25745,44,52,14.66666667,-8,-2.666666667,-18%,3,Clothing,Stole,Credit Card,Gujarat,,Ahmedabad,Kartik,09-08-2018,August,Thursday
+B-25689,149,13,49.66666667,136,45.33333333,91%,3,Clothing,Stole,UPI,Maharashtra,,Mumbai,Bhaggyasree,14-06-2018,June,Thursday
+B-25786,44,78,14.66666667,-34,-11.33333333,-77%,3,Clothing,Stole,Credit Card,Uttar Pradesh,,Mathura,Madan Mohan,19-09-2018,September,Wednesday
+B-25897,33,23,11,10,3.333333333,30%,3,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Rohan,06-12-2018,December,Thursday
+B-26056,33,24,16.5,9,4.5,27%,2,Clothing,Hankerchief,COD,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-25855,442,411,221,31,15.5,7%,2,Electronics,Electronic Games,UPI,Madhya Pradesh,,Bhopal,Abhijeet,08-11-2018,November,Thursday
+B-25667,41,35,8.2,6,1.2,15%,5,Clothing,Skirt,Credit Card,Haryana,,Chandigarh,Anjali,23-05-2018,May,Wednesday
+B-25701,33,45,6.6,-12,-2.4,-36%,5,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Maithilee,26-06-2018,June,Tuesday
+B-26046,32,29,4,3,0.375,9%,8,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Nishi,04-03-2018,March,Sunday
+B-25676,32,26,10.66666667,6,2,19%,3,Clothing,Shirt,COD,Rajasthan,,Jaipur,Chandni,01-06-2018,June,Friday
+B-26045,179,102,179,77,77,43%,1,Clothing,Saree,UPI,Nagaland,,Kohima,Nidhi,03-03-2018,March,Saturday
+B-25889,31,21,31,10,10,32%,1,Clothing,Kurti,COD,Gujarat,,Surat,Abhishek,03-12-2018,December,Monday
+B-25900,140,72,28,68,13.6,49%,5,Clothing,T-shirt,COD,Punjab,,Amritsar,Anand,09-12-2018,December,Sunday
+B-25685,529,392,176.3333333,137,45.66666667,26%,3,Electronics,Phones,Debit Card,Madhya Pradesh,,Indore,Sheetal,10-06-2018,June,Sunday
+B-25622,534,534,178,0,0,0%,3,Clothing,Saree,Debit Card,Rajasthan,,Jaipur,Monisha,22-04-2018,April,Sunday
+B-25709,41,47,41,-6,-6,-15%,1,Furniture,Chairs,Credit Card,Madhya Pradesh,,Indore,Aakanksha,01-07-2018,July,Sunday
+B-25798,379,316,189.5,63,31.5,17%,2,Clothing,Saree,COD,Andhra Pradesh,,Hyderabad,Shishu,01-10-2018,October,Monday
+B-25933,81,125,27,-44,-14.66666667,-54%,3,Clothing,Stole,COD,Maharashtra,,Mumbai,Shikhar,04-01-2018,January,Thursday
+B-25793,40,73,8,-33,-6.6,-83%,5,Clothing,Hankerchief,Credit Card,Madhya Pradesh,,Indore,Siddharth,24-09-2018,September,Monday
+B-25951,40,22,40,18,18,45%,1,Electronics,Accessories,Credit Card,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-25656,534,534,178,0,0,0%,3,Clothing,Saree,Debit Card,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-26056,31,22,15.5,9,4.5,29%,2,Clothing,Hankerchief,COD,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-25870,473,586,52.55555556,-113,-12.55555556,-24%,9,Clothing,Hankerchief,UPI,Andhra Pradesh,,Hyderabad,Pranav,20-11-2018,November,Tuesday
+B-25690,31,41,10.33333333,-10,-3.333333333,-32%,3,Clothing,Skirt,COD,Madhya Pradesh,,Indore,Gunjan,15-06-2018,June,Friday
+B-25702,31,34,7.75,-3,-0.75,-10%,4,Clothing,Saree,COD,Maharashtra,,Mumbai,Shaily,27-06-2018,June,Wednesday
+B-25752,91,76,15.16666667,15,2.5,16%,6,Clothing,T-shirt,UPI,Madhya Pradesh,,Indore,Vaibhav,14-08-2018,August,Tuesday
+B-25781,30,55,15,-25,-12.5,-83%,2,Clothing,T-shirt,COD,Gujarat,,Ahmedabad,Rutuja,14-09-2018,September,Friday
+B-26038,30,24,30,6,6,20%,1,Clothing,T-shirt,COD,Bihar,,Patna,Pooja,24-02-2018,February,Saturday
+B-25761,40,40,13.33333333,0,0,0%,3,Clothing,Saree,Credit Card,Uttar Pradesh,,Mathura,Madhav,25-08-2018,August,Saturday
+B-25751,534,529,267,5,2.5,1%,2,Electronics,Electronic Games,Debit Card,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-25750,539,685,77,-146,-20.85714286,-27%,7,Furniture,Furnishings,Debit Card,Madhya Pradesh,,Indore,Priyanshu,14-08-2018,August,Tuesday
+B-25726,490,618,61.25,-128,-16,-26%,8,Furniture,Bookcases,UPI,Maharashtra,,Mumbai,Kiran,21-07-2018,July,Saturday
+B-26048,163,82,81.5,81,40.5,50%,2,Electronics,Accessories,COD,Maharashtra,,Pune,Parth,04-03-2018,March,Sunday
+B-26051,184,99,30.66666667,85,14.16666667,46%,6,Clothing,T-shirt,UPI,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-25614,494,440,123.5,54,13.5,11%,4,Furniture,Bookcases,COD,Himachal Pradesh,,Simla,Vandana,13-04-2018,April,Friday
+B-25907,30,19,6,11,2.2,37%,5,Clothing,Hankerchief,COD,Madhya Pradesh,,Bhopal,Jaydeep,11-12-2018,December,Tuesday
+B-25789,30,30,30,0,0,0%,1,Clothing,Kurti,COD,Uttar Pradesh,,Lucknow,Akshay,22-09-2018,September,Saturday
+B-26097,39,57,19.5,-18,-9,-46%,2,Clothing,Leggings,Credit Card,Karnataka,,Bangalore,Vini,28-03-2018,March,Wednesday
+B-25902,1700,1615,566.6666667,85,28.33333333,5%,3,Clothing,Trousers,COD,Maharashtra,,Mumbai,Ishpreet,10-12-2018,December,Monday
+B-25657,332,375,55.33333333,-43,-7.166666667,-13%,6,Electronics,Phones,UPI,Madhya Pradesh,,Bhopal,Tulika,13-05-2018,May,Sunday
+B-25854,436,305,48.44444444,131,14.55555556,30%,9,Clothing,Hankerchief,UPI,Maharashtra,,Pune,Shubham,08-11-2018,November,Thursday
+B-25610,30,35,15,-5,-2.5,-17%,2,Furniture,Furnishings,COD,Bihar,,Patna,Yogesh,09-04-2018,April,Monday
+B-25733,30,40,15,-10,-5,-33%,2,Clothing,Stole,COD,Maharashtra,,Mumbai,Dhirajendu,28-07-2018,July,Saturday
+B-25798,38,51,12.66666667,-13,-4.333333333,-34%,3,Clothing,Stole,Credit Card,Andhra Pradesh,,Hyderabad,Shishu,01-10-2018,October,Monday
+B-25803,511,317,170.3333333,194,64.66666667,38%,3,Furniture,Chairs,UPI,Madhya Pradesh,,Indore,Shivanshu,05-10-2018,October,Friday
+B-25755,37,90,12.33333333,-53,-17.66666667,-143%,3,Clothing,Saree,Credit Card,Kerala ,,Thiruvananthapuram,Shourya,19-08-2018,August,Sunday
+B-25850,513,298,256.5,215,107.5,42%,2,Electronics,Accessories,COD,Goa,,Goa,Abhishek,05-11-2018,November,Monday
+B-25667,516,447,129,69,17.25,13%,4,Furniture,Bookcases,UPI,Haryana,,Chandigarh,Anjali,23-05-2018,May,Wednesday
+B-25796,559,578,279.5,-19,-9.5,-3%,2,Clothing,Trousers,Debit Card,Maharashtra,,Mumbai,Sukrith,24-09-2018,September,Monday
+B-26013,29,39,9.666666667,-10,-3.333333333,-34%,3,Clothing,Skirt,COD,Madhya Pradesh,,Bhopal,Jahan,13-02-2018,February,Tuesday
+B-25683,148,96,29.6,52,10.4,35%,5,Clothing,Stole,UPI,Kerala ,,Thiruvananthapuram,Shreya,08-06-2018,June,Friday
+B-26054,559,733,279.5,-174,-87,-31%,2,Electronics,Electronic Games,Debit Card,Maharashtra,,Mumbai,Mayank,10-03-2018,March,Saturday
+B-26010,527,501,175.6666667,26,8.666666667,5%,3,Electronics,Electronic Games,COD,Bihar,,Patna,Kartikay,11-02-2018,February,Sunday
+B-25979,560,516,186.6666667,44,14.66666667,8%,3,Clothing,Saree,Debit Card,Madhya Pradesh,,Indore,Shivangi,27-01-2018,January,Saturday
+B-25973,571,463,47.58333333,108,9,19%,12,Clothing,Stole,Debit Card,Uttar Pradesh,,Mathura,Madan Mohan,24-01-2018,January,Wednesday
+B-25975,29,27,9.666666667,2,0.666666667,7%,3,Clothing,Skirt,COD,Uttar Pradesh,,Prayagraj,Priyanka,25-01-2018,January,Thursday
+B-26010,29,26,14.5,3,1.5,10%,2,Clothing,Stole,COD,Bihar,,Patna,Kartikay,11-02-2018,February,Sunday
+B-25767,29,32,9.666666667,-3,-1,-10%,3,Clothing,Saree,COD,West Bengal,,Kolkata,Ashmeet,31-08-2018,August,Friday
+B-25815,35,21,17.5,14,7,40%,2,Clothing,Stole,Credit Card,Nagaland,,Kohima,Harsh,10-10-2018,October,Wednesday
+B-25853,579,440,193,139,46.33333333,24%,3,Electronics,Printers,Debit Card,Gujarat,,Ahmedabad,Gaurav,08-11-2018,November,Thursday
+B-25756,29,53,7.25,-24,-6,-83%,4,Clothing,Leggings,COD,Maharashtra,,Mumbai,Mohan,20-08-2018,August,Monday
+B-25755,593,380,148.25,213,53.25,36%,4,Furniture,Bookcases,Debit Card,Kerala ,,Thiruvananthapuram,Shourya,19-08-2018,August,Sunday
+B-25996,217,145,108.5,72,36,33%,2,Furniture,Furnishings,COD,Delhi,,Delhi,Prashant,04-02-2018,February,Sunday
+B-25619,353,263,44.125,90,11.25,25%,8,Clothing,Saree,COD,Gujarat,,Ahmedabad,Ramesh,18-04-2018,April,Wednesday
+B-26050,382,290,191,92,46,24%,2,Electronics,Printers,COD,Rajasthan,,Jaipur,Paridhi,06-03-2018,March,Tuesday
+B-26000,597,504,149.25,93,23.25,16%,4,Furniture,Chairs,Debit Card,Delhi,,Delhi,Shubham,06-02-2018,February,Tuesday
+B-26058,212,115,30.28571429,97,13.85714286,46%,7,Clothing,Hankerchief,COD,Punjab,,Chandigarh,Aditya,11-03-2018,March,Sunday
+B-25856,689,599,137.8,90,18,13%,5,Clothing,Saree,COD,Maharashtra,,Mumbai,Abhijeet,10-11-2018,November,Saturday
+B-26044,28,38,9.333333333,-10,-3.333333333,-36%,3,Clothing,Skirt,COD,Goa,,Goa,Sanjay,02-03-2018,March,Friday
+B-25654,34,22,11.33333333,12,4,35%,3,Clothing,Hankerchief,Credit Card,Maharashtra,,Mumbai,Sabah,10-05-2018,May,Thursday
+B-26051,600,702,120,-102,-20.4,-17%,5,Electronics,Electronic Games,Debit Card,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-25636,637,524,127.4,113,22.6,18%,5,Clothing,Saree,UPI,Maharashtra,,Mumbai,Nishi,26-04-2018,April,Thursday
+B-25710,616,685,88,-69,-9.857142857,-11%,7,Furniture,Furnishings,Debit Card,Maharashtra,,Pune,Megha,05-07-2018,July,Thursday
+B-25656,624,587,312,37,18.5,6%,2,Electronics,Electronic Games,Debit Card,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-25919,28,24,28,4,4,14%,1,Clothing,T-shirt,COD,Rajasthan,,Udaipur,Neha,23-12-2018,December,Sunday
+B-25781,584,1028,83.42857143,-444,-63.42857143,-76%,7,Electronics,Printers,UPI,Gujarat,,Ahmedabad,Rutuja,14-09-2018,September,Friday
+B-25899,28,22,7,6,1.5,21%,4,Clothing,Skirt,COD,Uttar Pradesh,,Prayagraj,Aishwarya,08-12-2018,December,Saturday
+B-26093,33,34,33,-1,-1,-3%,1,Clothing,Saree,Credit Card,Maharashtra,,Pune,Sarita,27-03-2018,March,Tuesday
+B-25753,27,47,13.5,-20,-10,-74%,2,Clothing,Hankerchief,COD,Uttar Pradesh,,Lucknow,Shivam,17-08-2018,August,Friday
+B-25858,27,22,13.5,5,2.5,19%,2,Clothing,Skirt,COD,Maharashtra,,Mumbai,Uudhav,13-11-2018,November,Tuesday
+B-25762,27,23,9,4,1.333333333,15%,3,Clothing,Skirt,COD,Madhya Pradesh,,Indore,Anudeep,26-08-2018,August,Sunday
+B-25625,635,984,127,-349,-69.8,-55%,5,Clothing,Saree,Debit Card,Jammu and Kashmir,,Kashmir,Pinky,23-04-2018,April,Monday
+B-25857,598,432,149.5,166,41.5,28%,4,Furniture,Bookcases,UPI,Madhya Pradesh,,Indore,Anand,10-11-2018,November,Saturday
+B-25919,636,840,318,-204,-102,-32%,2,Electronics,Printers,Debit Card,Rajasthan,,Udaipur,Neha,23-12-2018,December,Sunday
+B-25864,27,18,13.5,9,4.5,33%,2,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Aromal,15-11-2018,November,Thursday
+B-25698,27,33,6.75,-6,-1.5,-22%,4,Clothing,Hankerchief,COD,Tamil Nadu,,Chennai,Amisha,23-06-2018,June,Saturday
+B-25959,637,425,79.625,212,26.5,33%,8,Electronics,Phones,Debit Card,Madhya Pradesh,,Indore,Muskan,18-01-2018,January,Thursday
+B-26073,290,180,32.22222222,110,12.22222222,38%,9,Clothing,Stole,UPI,Madhya Pradesh,,Indore,Pournamasi,21-03-2018,March,Wednesday
+B-25649,27,52,13.5,-25,-12.5,-93%,2,Clothing,Stole,COD,Haryana,,Chandigarh,Rachna,05-05-2018,May,Saturday
+B-25806,632,746,158,-114,-28.5,-18%,4,Furniture,Tables,UPI,Madhya Pradesh,,Indore,Dhanraj,06-10-2018,October,Saturday
+B-25756,643,688,321.5,-45,-22.5,-7%,2,Electronics,Printers,Debit Card,Maharashtra,,Mumbai,Mohan,20-08-2018,August,Monday
+B-26003,652,639,108.6666667,13,2.166666667,2%,6,Furniture,Furnishings,Debit Card,Madhya Pradesh,,Bhopal,Hitesh,08-02-2018,February,Thursday
+B-25752,33,60,33,-27,-27,-82%,1,Furniture,Chairs,Credit Card,Madhya Pradesh,,Indore,Vaibhav,14-08-2018,August,Tuesday
+B-25783,26,24,13,2,1,8%,2,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Shivangi,15-09-2018,September,Saturday
+B-25802,633,1266,57.54545455,-633,-57.54545455,-100%,11,Electronics,Accessories,UPI,Maharashtra,,Mumbai,Yash,05-10-2018,October,Friday
+B-25881,26,17,13,9,4.5,35%,2,Clothing,Leggings,COD,Uttar Pradesh,,Mathura,Lalita,25-11-2018,November,Sunday
+B-25898,191,98,47.75,93,23.25,49%,4,Clothing,Shirt,UPI,Rajasthan,,Udaipur,Abhishek,07-12-2018,December,Friday
+B-25696,887,807,295.6666667,80,26.66666667,9%,3,Electronics,Printers,UPI,Karnataka,,Bangalore,Noopur,21-06-2018,June,Thursday
+B-25826,637,376,318.5,261,130.5,41%,2,Electronics,Printers,COD,Maharashtra,,Mumbai,Tanushree,22-10-2018,October,Monday
+B-25745,670,655,134,15,3,2%,5,Furniture,Bookcases,Debit Card,Gujarat,,Ahmedabad,Kartik,09-08-2018,August,Thursday
+B-25943,26,19,6.5,7,1.75,27%,4,Clothing,Hankerchief,COD,Gujarat,,Ahmedabad,Shardul,09-01-2018,January,Tuesday
+B-26051,676,481,135.2,195,39,29%,5,Furniture,Bookcases,Debit Card,West Bengal,,Kolkata,Parishi,07-03-2018,March,Wednesday
+B-25624,26,14,8.666666667,12,4,46%,3,Clothing,Hankerchief,COD,Karnataka,,Bangalore,Vini,22-04-2018,April,Sunday
+B-25723,26,50,26,-24,-24,-92%,1,Clothing,Stole,COD,Maharashtra,,Mumbai,Wale,18-07-2018,July,Wednesday
+B-26052,25,18,12.5,7,3.5,28%,2,Clothing,Stole,COD,Karnataka,,Bangalore,Ajay,08-03-2018,March,Thursday
+B-25603,24,54,24,-30,-30,-125%,1,Furniture,Chairs,COD,Madhya Pradesh,,Bhopal,Jahan,03-04-2018,April,Tuesday
+B-25983,32,44,32,-12,-12,-38%,1,Furniture,Chairs,Credit Card,Delhi,,Delhi,Atul,30-01-2018,January,Tuesday
+B-25650,31,33,15.5,-2,-1,-6%,2,Clothing,Saree,Credit Card,Maharashtra,,Mumbai,Chirag,06-05-2018,May,Sunday
+B-25656,651,482,130.2,169,33.8,26%,5,Electronics,Printers,COD,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-26018,326,219,108.6666667,107,35.66666667,33%,3,Furniture,Furnishings,UPI,Tamil Nadu,,Chennai,Aarushi,14-02-2018,February,Wednesday
+B-25783,30,36,15,-6,-3,-20%,2,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Shivangi,15-09-2018,September,Saturday
+B-25951,30,25,15,5,2.5,17%,2,Clothing,Kurti,UPI,West Bengal,,Kolkata,Jesal,13-01-2018,January,Saturday
+B-25974,662,422,331,240,120,36%,2,Furniture,Bookcases,COD,Rajasthan,,Udaipur,Manisha,25-01-2018,January,Thursday
+B-25754,30,53,15,-23,-11.5,-77%,2,Clothing,Saree,UPI,Bihar,,Patna,Akshay,18-08-2018,August,Saturday
+B-26073,29,20,9.666666667,9,3,31%,3,Clothing,Saree,UPI,Madhya Pradesh,,Indore,Pournamasi,21-03-2018,March,Wednesday
+B-25796,28,27,28,1,1,4%,1,Electronics,Accessories,UPI,Maharashtra,,Mumbai,Sukrith,24-09-2018,September,Monday
+B-25653,28,31,14,-3,-1.5,-11%,2,Clothing,Saree,UPI,Nagaland,,Kohima,Farah,08-05-2018,May,Tuesday
+B-25884,24,22,6,2,0.5,8%,4,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Sumeet,28-11-2018,November,Wednesday
+B-25650,28,54,14,-26,-13,-93%,2,Clothing,Stole,UPI,Maharashtra,,Mumbai,Chirag,06-05-2018,May,Sunday
+B-26045,27,22,27,5,5,19%,1,Clothing,Stole,UPI,Nagaland,,Kohima,Nidhi,03-03-2018,March,Saturday
+B-25672,27,42,27,-15,-15,-56%,1,Clothing,Stole,UPI,Andhra Pradesh,,Hyderabad,Akanksha,28-05-2018,May,Monday
+B-25949,24,13,8,11,3.666666667,46%,3,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Shantanu,13-01-2018,January,Saturday
+B-25733,23,29,5.75,-6,-1.5,-26%,4,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Dhirajendu,28-07-2018,July,Saturday
+B-25697,322,129,64.4,193,38.6,60%,5,Electronics,Printers,COD,Jammu and Kashmir,,Kashmir,Vijay,22-06-2018,June,Friday
+B-25893,688,791,114.6666667,-103,-17.16666667,-15%,6,Electronics,Accessories,Debit Card,Uttar Pradesh,,Mathura,Vrinda,04-12-2018,December,Tuesday
+B-25802,23,26,23,-3,-3,-13%,1,Clothing,Shirt,COD,Maharashtra,,Mumbai,Yash,05-10-2018,October,Friday
+B-25961,26,23,8.666666667,3,1,12%,3,Clothing,Skirt,UPI,Gujarat,,Ahmedabad,Surbhi,18-01-2018,January,Thursday
+B-25751,68,124,34,-56,-28,-82%,2,Electronics,Phones,COD,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-25814,462,293,115.5,169,42.25,37%,4,Clothing,Saree,COD,Madhya Pradesh,,Indore,Swapnil,10-10-2018,October,Wednesday
+B-25702,941,738,313.6666667,203,67.66666667,22%,3,Furniture,Tables,UPI,Maharashtra,,Mumbai,Shaily,27-06-2018,June,Wednesday
+B-25896,23,19,11.5,4,2,17%,2,Clothing,Skirt,COD,Maharashtra,,Mumbai,Aman,05-12-2018,December,Wednesday
+B-25969,720,677,360,43,21.5,6%,2,Electronics,Printers,UPI,Gujarat,,Surat,Shreyshi,21-01-2018,January,Sunday
+B-25778,724,1171,181,-447,-111.75,-62%,4,Electronics,Electronic Games,UPI,Maharashtra,,Mumbai,Surabhi,11-09-2018,September,Tuesday
+B-25859,724,471,362,253,126.5,35%,2,Furniture,Bookcases,UPI,Madhya Pradesh,,Indore,Chikku,14-11-2018,November,Wednesday
+B-25810,26,16,6.5,10,2.5,38%,4,Clothing,Hankerchief,UPI,Punjab,,Chandigarh,Nripraj,10-10-2018,October,Wednesday
+B-25616,22,24,7.333333333,-2,-0.666666667,-9%,3,Clothing,Hankerchief,COD,Goa,,Goa,Kanak,15-04-2018,April,Sunday
+B-25633,711,719,177.75,-8,-2,-1%,4,Clothing,Saree,Debit Card,Sikkim,,Gangtok,Amit,26-04-2018,April,Thursday
+B-25753,107,76,21.4,31,6.2,29%,5,Clothing,T-shirt,COD,Uttar Pradesh,,Lucknow,Shivam,17-08-2018,August,Friday
+B-25764,765,918,382.5,-153,-76.5,-20%,2,Electronics,Phones,Debit Card,Maharashtra,,Pune,Sanjova,28-08-2018,August,Tuesday
+B-25864,22,14,11,8,4,36%,2,Clothing,Leggings,COD,Maharashtra,,Mumbai,Aromal,15-11-2018,November,Thursday
+B-25725,26,31,13,-5,-2.5,-19%,2,Clothing,Stole,UPI,Nagaland,,Kohima,Anisha,20-07-2018,July,Friday
+B-25858,22,14,7.333333333,8,2.666666667,36%,3,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Uudhav,13-11-2018,November,Tuesday
+B-25817,743,654,148.6,89,17.8,12%,5,Electronics,Printers,UPI,Maharashtra,,Mumbai,Praneet,13-10-2018,October,Saturday
+B-25703,22,37,5.5,-15,-3.75,-68%,4,Clothing,Kurti,COD,Madhya Pradesh,,Indore,Ekta,28-06-2018,June,Thursday
+B-25610,781,187,130.1666667,594,99,76%,6,Electronics,Printers,Debit Card,Bihar,,Patna,Yogesh,09-04-2018,April,Monday
+B-25652,25,27,5,-2,-0.4,-8%,5,Clothing,Hankerchief,UPI,Goa,,Goa,Tushina,08-05-2018,May,Tuesday
+B-25891,25,23,12.5,2,1,8%,2,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Shivani,04-12-2018,December,Tuesday
+B-25764,119,76,23.8,43,8.6,36%,5,Clothing,T-shirt,COD,Maharashtra,,Pune,Sanjova,28-08-2018,August,Tuesday
+B-25664,785,733,392.5,52,26,7%,2,Electronics,Phones,Debit Card,Bihar,,Patna,Pratyusmita,20-05-2018,May,Sunday
+B-25645,183,249,36.6,-66,-13.2,-36%,5,Electronics,Phones,UPI,Madhya Pradesh,,Indore,Yaanvi,01-05-2018,May,Tuesday
+B-26008,22,18,22,4,4,18%,1,Clothing,Stole,COD,Tamil Nadu,,Chennai,Kalyani,09-02-2018,February,Friday
+B-26061,642,462,128.4,180,36,28%,5,Clothing,Saree,COD,Madhya Pradesh,,Indore,Anurag,14-03-2018,March,Wednesday
+B-25781,767,1120,153.4,-353,-70.6,-46%,5,Clothing,Trousers,COD,Gujarat,,Ahmedabad,Rutuja,14-09-2018,September,Friday
+B-25999,770,447,256.6666667,323,107.6666667,42%,3,Electronics,Accessories,COD,Delhi,,Delhi,Diwakar,05-02-2018,February,Monday
+B-25783,21,38,7,-17,-5.666666667,-81%,3,Clothing,Shirt,COD,Madhya Pradesh,,Indore,Shivangi,15-09-2018,September,Saturday
+B-25800,21,27,7,-6,-2,-29%,3,Clothing,Leggings,COD,Maharashtra,,Pune,Ishit,01-10-2018,October,Monday
+B-26093,492,305,246,187,93.5,38%,2,Electronics,Accessories,UPI,Maharashtra,,Pune,Sarita,27-03-2018,March,Tuesday
+B-25638,816,912,272,-96,-32,-12%,3,Electronics,Printers,Debit Card,Maharashtra,,Pune,Parth,26-04-2018,April,Thursday
+B-26026,25,23,8.333333333,2,0.666666667,8%,3,Clothing,Kurti,Credit Card,Goa,,Goa,Kanak,19-02-2018,February,Monday
+B-25902,802,682,114.5714286,120,17.14285714,15%,7,Electronics,Accessories,COD,Maharashtra,,Mumbai,Ishpreet,10-12-2018,December,Monday
+B-25968,811,657,115.8571429,154,22,19%,7,Electronics,Accessories,UPI,Punjab,,Amritsar,Paromita,21-01-2018,January,Sunday
+B-26099,835,568,167,267,53.4,32%,5,Electronics,Phones,Debit Card,Maharashtra,,Mumbai,Bhishm,30-03-2018,March,Friday
+B-25699,21,26,21,-5,-5,-24%,1,Electronics,Accessories,COD,Uttar Pradesh,,Lucknow,Kritika,24-06-2018,June,Sunday
+B-26076,450,640,112.5,-190,-47.5,-42%,4,Furniture,Bookcases,COD,Madhya Pradesh,,Bhopal,Jahan,21-03-2018,March,Wednesday
+B-25793,24,25,6,-1,-0.25,-4%,4,Clothing,Skirt,Credit Card,Madhya Pradesh,,Indore,Siddharth,24-09-2018,September,Monday
+B-25671,832,832,277.3333333,0,0,0%,3,Clothing,Trousers,UPI,Nagaland,,Kohima,Mitali,27-05-2018,May,Sunday
+B-26040,833,740,277.6666667,93,31,11%,3,Clothing,Trousers,UPI,Punjab,,Chandigarh,Sahil,26-02-2018,February,Monday
+B-26059,20,14,20,6,6,30%,1,Clothing,T-shirt,COD,Haryana,,Chandigarh,Rachna,12-03-2018,March,Monday
+B-25725,23,28,3.285714286,-5,-0.714285714,-22%,7,Clothing,Hankerchief,Credit Card,Nagaland,,Kohima,Anisha,20-07-2018,July,Friday
+B-25855,550,792,110,-242,-48.4,-44%,5,Furniture,Furnishings,UPI,Madhya Pradesh,,Bhopal,Abhijeet,08-11-2018,November,Thursday
+B-25738,148,239,74,-91,-45.5,-61%,2,Electronics,Phones,COD,Punjab,,Chandigarh,Ayush,02-08-2018,August,Thursday
+B-25899,846,837,423,9,4.5,1%,2,Furniture,Chairs,Debit Card,Uttar Pradesh,,Prayagraj,Aishwarya,08-12-2018,December,Saturday
+B-25608,856,471,142.6666667,385,64.16666667,45%,6,Electronics,Printers,COD,Tamil Nadu,,Chennai,Aarushi,08-04-2018,April,Sunday
+B-25904,871,740,435.5,131,65.5,15%,2,Furniture,Bookcases,UPI,Delhi,,Delhi,Swapnil,10-12-2018,December,Monday
+B-26056,19,37,4.75,-18,-4.5,-95%,4,Clothing,Kurti,COD,Bihar,,Patna,Sonal,10-03-2018,March,Saturday
+B-25669,610,676,305,-66,-33,-11%,2,Furniture,Tables,COD,Sikkim,,Gangtok,Piyali,25-05-2018,May,Friday
+B-25638,880,783,110,97,12.125,11%,8,Furniture,Furnishings,Debit Card,Maharashtra,,Pune,Parth,26-04-2018,April,Thursday
+B-25953,22,30,5.5,-8,-2,-36%,4,Clothing,Hankerchief,Credit Card,Andhra Pradesh,,Hyderabad,Krutika,14-01-2018,January,Sunday
+B-25841,22,11,11,11,5.5,50%,2,Clothing,Skirt,Credit Card,Maharashtra,,Mumbai,Ashvini,01-11-2018,November,Thursday
+B-26071,21,17,7,4,1.333333333,19%,3,Clothing,Hankerchief,Credit Card,Jammu and Kashmir,,Kashmir,Subhashree,19-03-2018,March,Monday
+B-25793,18,17,6,1,0.333333333,6%,3,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Siddharth,24-09-2018,September,Monday
+B-25813,911,709,130.1428571,202,28.85714286,22%,7,Furniture,Chairs,COD,Maharashtra,,Mumbai,Hrisheekesh,10-10-2018,October,Wednesday
+B-26010,18,16,6,2,0.666666667,11%,3,Clothing,Hankerchief,COD,Bihar,,Patna,Kartikay,11-02-2018,February,Sunday
+B-25825,911,556,182.2,355,71,39%,5,Electronics,Phones,Debit Card,Madhya Pradesh,,Indore,Kartik,21-10-2018,October,Sunday
+B-25630,143,272,71.5,-129,-64.5,-90%,2,Electronics,Phones,COD,Punjab,,Chandigarh,Sahil,24-04-2018,April,Tuesday
+B-25986,918,896,102,22,2.444444444,2%,9,Electronics,Electronic Games,COD,Rajasthan,,Udaipur,Shweta,31-01-2018,January,Wednesday
+B-25650,925,1372,185,-447,-89.4,-48%,5,Electronics,Electronic Games,COD,Maharashtra,,Mumbai,Chirag,06-05-2018,May,Sunday
+B-26078,17,9,8.5,8,4,47%,2,Clothing,Skirt,COD,West Bengal,,Kolkata,Kasheen,22-03-2018,March,Thursday
+B-25890,465,258,51.66666667,207,23,45%,9,Clothing,Saree,COD,Maharashtra,,Mumbai,Divyansha,04-12-2018,December,Tuesday
+B-25691,17,26,5.666666667,-9,-3,-53%,3,Clothing,Stole,COD,Maharashtra,,Mumbai,Akancha,16-06-2018,June,Saturday
+B-25952,935,821,233.75,114,28.5,12%,4,Electronics,Electronic Games,UPI,Madhya Pradesh,,Indore,Priyanka,13-01-2018,January,Saturday
+B-25651,16,26,8,-10,-5,-63%,2,Clothing,T-shirt,COD,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25955,954,859,318,95,31.66666667,10%,3,Electronics,Printers,UPI,Maharashtra,,Pune,Shiva,16-01-2018,January,Tuesday
+B-25898,915,1014,305,-99,-33,-11%,3,Furniture,Tables,Debit Card,Rajasthan,,Udaipur,Abhishek,07-12-2018,December,Friday
+B-25838,955,650,318.3333333,305,101.6666667,32%,3,Electronics,Printers,Debit Card,Madhya Pradesh,,Indore,Sanjana,29-10-2018,October,Monday
+B-25797,976,683,244,293,73.25,30%,4,Electronics,Accessories,COD,Madhya Pradesh,,Indore,Sauptik,30-09-2018,September,Sunday
+B-25738,1069,1069,178.1666667,0,0,0%,6,Clothing,Saree,EMI,Punjab,,Chandigarh,Ayush,02-08-2018,August,Thursday
+B-25661,19,34,6.333333333,-15,-5,-79%,3,Clothing,Hankerchief,Credit Card,Jammu and Kashmir,,Kashmir,Subhashree,17-05-2018,May,Thursday
+B-25997,16,10,5.333333333,6,2,38%,3,Clothing,Hankerchief,COD,Maharashtra,,Pune,Yogesh,04-02-2018,February,Sunday
+B-25667,1030,824,128.75,206,25.75,20%,8,Electronics,Printers,UPI,Haryana,,Chandigarh,Anjali,23-05-2018,May,Wednesday
+B-25753,620,538,103.3333333,82,13.66666667,13%,6,Electronics,Accessories,COD,Uttar Pradesh,,Lucknow,Shivam,17-08-2018,August,Friday
+B-25848,16,8,8,8,4,50%,2,Clothing,Hankerchief,COD,Himachal Pradesh,,Simla,Rohan,03-11-2018,November,Saturday
+B-26097,19,11,9.5,8,4,42%,2,Clothing,Hankerchief,Credit Card,Karnataka,,Bangalore,Vini,28-03-2018,March,Wednesday
+B-25633,249,379,62.25,-130,-32.5,-52%,4,Electronics,Phones,UPI,Sikkim,,Gangtok,Amit,26-04-2018,April,Thursday
+B-25807,16,10,16,6,6,38%,1,Clothing,Stole,COD,Uttar Pradesh,,Lucknow,Vipul,07-10-2018,October,Sunday
+B-25752,1361,1164,151.2222222,197,21.88888889,14%,9,Furniture,Bookcases,COD,Madhya Pradesh,,Indore,Vaibhav,14-08-2018,August,Tuesday
+B-26052,15,14,15,1,1,7%,1,Clothing,Shirt,COD,Karnataka,,Bangalore,Ajay,08-03-2018,March,Thursday
+B-25610,1076,1114,269,-38,-9.5,-4%,4,Electronics,Printers,COD,Bihar,,Patna,Yogesh,09-04-2018,April,Monday
+B-25888,18,16,6,2,0.666666667,11%,3,Clothing,Hankerchief,Credit Card,Punjab,,Amritsar,Rohan,02-12-2018,December,Sunday
+B-25937,1101,749,367,352,117.3333333,32%,3,Furniture,Bookcases,UPI,Haryana,,Chandigarh,Ankit,05-01-2018,January,Friday
+B-25828,15,13,15,2,2,13%,1,Clothing,Leggings,COD,Punjab,,Chandigarh,Nikita,24-10-2018,October,Wednesday
+B-26048,1104,895,276,209,52.25,19%,4,Clothing,Trousers,UPI,Maharashtra,,Pune,Parth,04-03-2018,March,Sunday
+B-25670,14,12,14,2,2,14%,1,Clothing,Hankerchief,COD,Goa,,Goa,Charika,25-05-2018,May,Friday
+B-25757,14,9,14,5,5,36%,1,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25751,14,17,7,-3,-1.5,-21%,2,Clothing,Leggings,COD,Maharashtra,,Mumbai,Nishant,14-08-2018,August,Tuesday
+B-25687,14,15,3.5,-1,-0.25,-7%,4,Clothing,Kurti,COD,Maharashtra,,Mumbai,Sanjna,11-06-2018,June,Monday
+B-25710,13,21,13,-8,-8,-62%,1,Clothing,T-shirt,COD,Maharashtra,,Pune,Megha,05-07-2018,July,Thursday
+B-25656,13,14,4.333333333,-1,-0.333333333,-8%,3,Clothing,Hankerchief,COD,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-25601,1275,127,182.1428571,1148,164,90%,7,Furniture,Bookcases,EMI,Gujarat,,Ahmedabad,Bharat,01-04-2018,April,Sunday
+B-26053,17,16,8.5,1,0.5,6%,2,Clothing,Skirt,Credit Card,Jammu and Kashmir,,Kashmir,Kirti,09-03-2018,March,Friday
+B-26001,13,13,6.5,0,0,0%,2,Clothing,Hankerchief,COD,Delhi,,Delhi,Patil,07-02-2018,February,Wednesday
+B-25964,1270,724,115.4545455,546,49.63636364,43%,11,Electronics,Electronic Games,EMI,Maharashtra,,Pune,Oshin,20-01-2018,January,Saturday
+B-26062,13,15,13,-2,-2,-15%,1,Clothing,Stole,COD,Goa,,Goa,Tushina,15-03-2018,March,Thursday
+B-25982,13,10,13,3,3,23%,1,Clothing,Leggings,COD,Delhi,,Delhi,Hemangi,29-01-2018,January,Monday
+B-25864,17,12,17,5,5,29%,1,Clothing,Hankerchief,UPI,Maharashtra,,Mumbai,Aromal,15-11-2018,November,Thursday
+B-25693,13,26,6.5,-13,-6.5,-100%,2,Clothing,Skirt,COD,Madhya Pradesh,,Bhopal,Parna,18-06-2018,June,Monday
+B-25802,13,22,6.5,-9,-4.5,-69%,2,Clothing,Skirt,COD,Maharashtra,,Mumbai,Yash,05-10-2018,October,Friday
+B-25676,1263,1319,252.6,-56,-11.2,-4%,5,Clothing,Trousers,EMI,Rajasthan,,Jaipur,Chandni,01-06-2018,June,Friday
+B-25639,1629,1782,543,-153,-51,-9%,3,Electronics,Phones,COD,Madhya Pradesh,,Bhopal,Lisha,27-04-2018,April,Friday
+B-25757,17,10,5.666666667,7,2.333333333,41%,3,Clothing,Hankerchief,UPI,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-26003,17,15,8.5,2,1,12%,2,Clothing,Skirt,UPI,Madhya Pradesh,,Bhopal,Hitesh,08-02-2018,February,Thursday
+B-26055,1250,1262,625,-12,-6,-1%,2,Electronics,Printers,EMI,Uttar Pradesh,,Mathura,Harivansh,10-03-2018,March,Saturday
+B-25786,17,28,5.666666667,-11,-3.666666667,-65%,3,Clothing,Skirt,UPI,Uttar Pradesh,,Mathura,Madan Mohan,19-09-2018,September,Wednesday
+B-25919,977,1221,139.5714286,-244,-34.85714286,-25%,7,Electronics,Phones,COD,Rajasthan,,Udaipur,Neha,23-12-2018,December,Sunday
+B-25894,1246,1184,415.3333333,62,20.66666667,5%,3,Furniture,Bookcases,EMI,Punjab,,Amritsar,Monu,04-12-2018,December,Tuesday
+B-25979,12,11,6,1,0.5,8%,2,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Shivangi,27-01-2018,January,Saturday
+B-25651,11,15,5.5,-4,-2,-36%,2,Clothing,Skirt,COD,Madhya Pradesh,,Indore,Anurag,07-05-2018,May,Monday
+B-25653,1327,1009,165.875,318,39.75,24%,8,Furniture,Chairs,EMI,Nagaland,,Kohima,Farah,08-05-2018,May,Tuesday
+B-25855,1319,752,263.8,567,113.4,43%,5,Electronics,Printers,COD,Madhya Pradesh,,Bhopal,Abhijeet,08-11-2018,November,Thursday
+B-25793,1402,1293,127.4545455,109,9.909090909,8%,11,Clothing,Saree,EMI,Madhya Pradesh,,Indore,Siddharth,24-09-2018,September,Monday
+B-26073,1514,772,378.5,742,185.5,49%,4,Electronics,Printers,EMI,Madhya Pradesh,,Indore,Pournamasi,21-03-2018,March,Wednesday
+B-25881,1351,1240,225.1666667,111,18.5,8%,6,Electronics,Electronic Games,COD,Uttar Pradesh,,Mathura,Lalita,25-11-2018,November,Sunday
+B-25603,1355,1415,271,-60,-12,-4%,5,Clothing,Trousers,COD,Madhya Pradesh,,Bhopal,Jahan,03-04-2018,April,Tuesday
+B-25851,10,8,5,2,1,20%,2,Clothing,Hankerchief,COD,Nagaland,,Kohima,Kushal,06-11-2018,November,Tuesday
+B-25883,10,12,5,-2,-1,-20%,2,Clothing,Leggings,COD,Gujarat,,Surat,Saptadeep,27-11-2018,November,Tuesday
+B-25768,1582,2025,263.6666667,-443,-73.83333333,-28%,6,Clothing,Trousers,EMI,Karnataka,,Bangalore,Shreyoshe,01-09-2018,September,Saturday
+B-25953,1218,866,135.3333333,352,39.11111111,29%,9,Furniture,Bookcases,EMI,Andhra Pradesh,,Hyderabad,Krutika,14-01-2018,January,Sunday
+B-25755,321,6,64.2,315,63,98%,5,Clothing,Saree,UPI,Kerala ,,Thiruvananthapuram,Shourya,19-08-2018,August,Sunday
+B-26057,736,390,147.2,346,69.2,47%,5,Electronics,Printers,COD,Kerala ,,Thiruvananthapuram,Sharda,10-03-2018,March,Saturday
+B-26055,1218,1638,152.25,-420,-52.5,-34%,8,Furniture,Bookcases,COD,Uttar Pradesh,,Mathura,Harivansh,10-03-2018,March,Saturday
+B-25855,1027,586,128.375,441,55.125,43%,8,Clothing,Saree,COD,Madhya Pradesh,,Bhopal,Abhijeet,08-11-2018,November,Thursday
+B-25989,10,5,10,5,5,50%,1,Clothing,Stole,COD,Delhi,,Delhi,Anjali,01-02-2018,February,Thursday
+B-26099,2366,1814,473.2,552,110.4,23%,5,Clothing,Trousers,UPI,Maharashtra,,Mumbai,Bhishm,30-03-2018,March,Friday
+B-25652,9,15,4.5,-6,-3,-67%,2,Clothing,Hankerchief,COD,Goa,,Goa,Tushina,08-05-2018,May,Tuesday
+B-25723,16,28,8,-12,-6,-75%,2,Clothing,Stole,UPI,Maharashtra,,Mumbai,Wale,18-07-2018,July,Wednesday
+B-26099,9,6,9,3,3,33%,1,Clothing,Skirt,COD,Maharashtra,,Mumbai,Bhishm,30-03-2018,March,Friday
+B-25629,1560,1139,520,421,140.3333333,27%,3,Clothing,Trousers,COD,Kerala ,,Thiruvananthapuram,Hemant,24-04-2018,April,Tuesday
+B-25877,1137,569,568.5,568,284,50%,2,Clothing,Trousers,EMI,Gujarat,,Surat,Dashyam,24-11-2018,November,Saturday
+B-25767,9,18,4.5,-9,-4.5,-100%,2,Clothing,Kurti,COD,West Bengal,,Kolkata,Ashmeet,31-08-2018,August,Friday
+B-25735,15,22,15,-7,-7,-47%,1,Clothing,Hankerchief,UPI,Uttar Pradesh,,Lucknow,Arindam,30-07-2018,July,Monday
+B-26097,14,9,14,5,5,36%,1,Clothing,Hankerchief,UPI,Karnataka,,Bangalore,Vini,28-03-2018,March,Wednesday
+B-26070,14,7,7,7,3.5,50%,2,Clothing,Hankerchief,UPI,Karnataka,,Bangalore,Shruti,18-03-2018,March,Sunday
+B-25752,8,10,4,-2,-1,-25%,2,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Vaibhav,14-08-2018,August,Tuesday
+B-25656,1389,709,198.4285714,680,97.14285714,49%,7,Clothing,Saree,COD,Maharashtra,,Pune,Priyanka,11-05-2018,May,Friday
+B-25748,8,9,4,-1,-0.5,-13%,2,Clothing,Leggings,COD,Rajasthan,,Jaipur,Nitant,12-08-2018,August,Sunday
+B-25758,8,10,8,-2,-2,-25%,1,Clothing,Stole,COD,Himachal Pradesh,,Simla,Shubham,22-08-2018,August,Wednesday
+B-25950,13,9,13,4,4,31%,1,Clothing,Leggings,UPI,Madhya Pradesh,,Indore,Shruti,13-01-2018,January,Saturday
+B-25707,8,14,8,-6,-6,-75%,1,Clothing,Stole,COD,Maharashtra,,Mumbai,Shivani,01-07-2018,July,Sunday
+B-25909,12,10,6,2,1,17%,2,Clothing,Skirt,Credit Card,Maharashtra,,Pune,Sujay,13-12-2018,December,Thursday
+B-25955,1716,1407,245.1428571,309,44.14285714,18%,7,Electronics,Accessories,COD,Maharashtra,,Pune,Shiva,16-01-2018,January,Tuesday
+B-26023,1117,670,111.7,447,44.7,40%,10,Furniture,Bookcases,EMI,Haryana,,Chandigarh,Mukesh,19-02-2018,February,Monday
+B-25655,9,15,4.5,-6,-3,-67%,2,Clothing,Skirt,Credit Card,Madhya Pradesh,,Indore,Nida,11-05-2018,May,Friday
+B-25686,332,-171,110.6666667,503,167.6666667,152%,3,Electronics,Printers,COD,Himachal Pradesh,,Simla,Pooja,11-06-2018,June,Monday
+B-25655,7,11,2.333333333,-4,-1.333333333,-57%,3,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Nida,11-05-2018,May,Friday
+B-25601,8,10,2.666666667,-2,-0.666666667,-25%,3,Clothing,Hankerchief,Credit Card,Gujarat,,Ahmedabad,Bharat,01-04-2018,April,Sunday
+B-25862,2061,1360,412.2,701,140.2,34%,5,Furniture,Bookcases,UPI,Bihar,,Patna,Amol,15-11-2018,November,Thursday
+B-25626,1103,827,367.6666667,276,92,25%,3,Furniture,Chairs,EMI,Maharashtra,,Mumbai,Bhishm,23-04-2018,April,Monday
+B-25823,2103,1781,262.875,322,40.25,15%,8,Electronics,Electronic Games,UPI,Maharashtra,,Mumbai,Rohan,18-10-2018,October,Thursday
+B-25881,2115,2092,423,23,4.6,1%,5,Furniture,Chairs,COD,Uttar Pradesh,,Mathura,Lalita,25-11-2018,November,Sunday
+B-25910,850,1139,170,-289,-57.8,-34%,5,Electronics,Electronic Games,COD,Delhi,,Delhi,Jay,14-12-2018,December,Friday
+B-25830,1063,999,151.8571429,64,9.142857143,6%,7,Electronics,Phones,EMI,Himachal Pradesh,,Simla,Aastha,26-10-2018,October,Friday
+B-25978,1063,1238,265.75,-175,-43.75,-16%,4,Electronics,Electronic Games,EMI,Maharashtra,,Mumbai,Parin,27-01-2018,January,Saturday
+B-25997,2292,2165,327.4285714,127,18.14285714,6%,7,Furniture,Bookcases,COD,Maharashtra,,Pune,Yogesh,04-02-2018,February,Sunday
+B-25661,7,8,3.5,-1,-0.5,-14%,2,Clothing,Hankerchief,Credit Card,Jammu and Kashmir,,Kashmir,Subhashree,17-05-2018,May,Thursday
+B-25969,2452,2261,350.2857143,191,27.28571429,8%,7,Furniture,Bookcases,UPI,Gujarat,,Surat,Shreyshi,21-01-2018,January,Sunday
+B-25858,2457,1792,223.3636364,665,60.45454545,27%,11,Electronics,Electronic Games,EMI,Maharashtra,,Mumbai,Uudhav,13-11-2018,November,Tuesday
+B-25697,4,7,4,-3,-3,-75%,1,Clothing,Skirt,Credit Card,Jammu and Kashmir,,Kashmir,Vijay,22-06-2018,June,Friday
+B-25798,2830,4811,217.6923077,-1981,-152.3846154,-70%,13,Furniture,Bookcases,EMI,Andhra Pradesh,,Hyderabad,Shishu,01-10-2018,October,Monday
+B-25873,7,6,7,1,1,14%,1,Clothing,Hankerchief,COD,Madhya Pradesh,,Indore,Divyeta,23-11-2018,November,Friday
+B-25740,7,7,3.5,0,0,0%,2,Clothing,Skirt,COD,Maharashtra,,Mumbai,Rane,03-08-2018,August,Friday
+B-25700,7,10,3.5,-3,-1.5,-43%,2,Clothing,Hankerchief,COD,Maharashtra,,Mumbai,Shubhi,25-06-2018,June,Monday
+B-25757,3151,3186,450.1428571,-35,-5,-1%,7,Clothing,Trousers,EMI,Madhya Pradesh,,Indore,Vishakha,21-08-2018,August,Tuesday
+B-25973,4141,2443,318.5384615,1698,130.6153846,41%,13,Electronics,Printers,COD,Uttar Pradesh,,Mathura,Madan Mohan,24-01-2018,January,Wednesday
+B-25698,7,9,7,-2,-2,-29%,1,Clothing,Hankerchief,COD,Tamil Nadu,,Chennai,Amisha,23-06-2018,June,Saturday
+B-25993,4363,4058,872.6,305,61,7%,5,Furniture,Tables,EMI,Delhi,,Delhi,Madhav,03-02-2018,February,Saturday
